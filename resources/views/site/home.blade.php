@@ -255,7 +255,7 @@
 
 
         <!-- Services Start -->
-        <div class="container-fluid service bg-light pb-5">
+        <!-- <div class="container-fluid service bg-light pb-5">
             <div class="container pb-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                     <p class="text-uppercase text-secondary fs-5 mb-0"></p>
@@ -405,7 +405,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Services End -->
 
         <!-- Fact Counter -->
@@ -420,7 +420,7 @@
                                     <i class="fas fa-thumbs-up fa-4x text-secondary"></i>
                                     <h4 class="text-dark my-4">Completed Projects</h4>
                                     <div class="counter-counting">
-                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">456</span>
+                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">120</span>
                                         <span class="h1 fw-bold text-secondary">+</span>
                                     </div>
                                 </div>
@@ -435,7 +435,7 @@
                                     <i class="fas fa-users fa-4x text-secondary"></i>
                                     <h4 class="text-dark my-4">Happy Customers</h4>
                                     <div class="counter-counting">
-                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">513</span>
+                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">1200</span>
                                         <span class="h1 fw-bold text-secondary">+</span>
                                     </div>
                                 </div>
@@ -450,7 +450,7 @@
                                     <i class="fas fa-user fa-4x text-secondary"></i>
                                     <h4 class="text-dark my-4">Qualified Engineers</h4>
                                     <div class="counter-counting">
-                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">53</span>
+                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">100</span>
                                         <span class="h1 fw-bold text-secondary">+</span>
                                     </div>
                                 </div>
@@ -465,14 +465,14 @@
                                     <i class="fas fa-heart fa-4x text-secondary"></i>
                                     <h4 class="text-dark my-4">Years Experiance</h4>
                                     <div class="counter-counting">
-                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">17</span>
+                                        <span class="text-secondary fs-2 fw-bold" data-toggle="counter-up">18</span>
                                         <span class="h1 fw-bold text-secondary">+</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 text-center pt-4 wow fadeInUp" data-wow-delay="0.9s">
+                <div class="col-12 text-center pt-4 wow fadeInUp" data-wow-delay="0.9s">
                         <a class="counter-btn btn btn-secondary py-3 px-5" href="#">Join With Us</a>
                     </div>
                 </div>
@@ -493,7 +493,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project-1.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/ETP Plant.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -512,7 +512,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project-2.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/Water.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -531,7 +531,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project-3.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/Swimming.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -550,7 +550,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project-4.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/IRP.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -576,8 +576,8 @@
         <div class="container-fluid team pb-5">
             <div class="container pb-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <p class="text-uppercase text-secondary fs-5 mb-0">Our Team</p>
-                    <h2 class="display-4 text-capitalize mb-3">Expert team members.</h2>
+                    <h2 class="display-4 text-capitalize mb-3"></h2>
+                    <h3 class="hs"> <span class="underline ">EXPERT TEAM MEMBERS</span> </h3>
                 </div>
                 <div class="row g-4">
                     <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.2s">
@@ -587,7 +587,7 @@
                             <div class="team-border-style-3"></div>
                             <div class="team-border-style-4"></div>
                             <div class="team-img">
-                                <img src="img/team-1.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/team/MD.jpg" class="img-fluid w-100" alt="">
                                 <div class="team-icon d-flex justify-content-around">
                                     <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i class="fab fa-twitter"></i></a>
@@ -596,8 +596,8 @@
                                 </div>
                             </div>
                             <div class="text-center border border-top-0 bg-white py-3">
-                                <h4 class="mb-0">Masud Maria</h4>
-                                <p class="mb-0">Foreman</p>
+                                <h4 class="mb-0">Mohammad Abdul Karim</h4>
+                                <p class="mb-0">Managing Director</p>
                             </div>
                         </div>
                     </div>
@@ -608,7 +608,7 @@
                             <div class="team-border-style-3"></div>
                             <div class="team-border-style-4"></div>
                             <div class="team-img">
-                                <img src="img/team-2.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/team/Mamum.jpg" class="img-fluid w-100" alt="">
                                 <div class="team-icon d-flex justify-content-around">
                                     <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i class="fab fa-twitter"></i></a>
@@ -617,8 +617,8 @@
                                 </div>
                             </div>
                             <div class="text-center border border-top-0 bg-white py-3">
-                                <h4 class="mb-0">Masud Maria</h4>
-                                <p class="mb-0">Foreman</p>
+                                <h4 class="mb-0">Abdullah-Al-Mamun</h4>
+                                <p class="mb-0">Director</p>
                             </div>
                         </div>
                     </div>
@@ -629,7 +629,7 @@
                             <div class="team-border-style-3"></div>
                             <div class="team-border-style-4"></div>
                             <div class="team-img">
-                                <img src="img/team-3.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/team/Abdullah.jpg" class="img-fluid w-100" alt="">
                                 <div class="team-icon d-flex justify-content-around">
                                     <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i class="fab fa-twitter"></i></a>
@@ -638,8 +638,8 @@
                                 </div>
                             </div>
                             <div class="text-center border border-top-0 bg-white py-3">
-                                <h4 class="mb-0">Masud Maria</h4>
-                                <p class="mb-0">Foreman</p>
+                                <h4 class="mb-0">Md. Abdullah Al Mamun</h4>
+                                <p class="mb-0">General Manager -Factory Services</p>
                             </div>
                         </div>
                     </div>
@@ -650,7 +650,7 @@
                             <div class="team-border-style-3"></div>
                             <div class="team-border-style-4"></div>
                             <div class="team-img">
-                                <img src="img/team-4.jpg" class="img-fluid w-100" alt="">
+                                <img src="img/team/Ali-Haider.jpg" class="img-fluid w-100" alt="">
                                 <div class="team-icon d-flex justify-content-around">
                                     <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i class="fab fa-facebook-f"></i></a>
                                     <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i class="fab fa-twitter"></i></a>
@@ -659,8 +659,8 @@
                                 </div>
                             </div>
                             <div class="text-center border border-top-0 bg-white py-3">
-                                <h4 class="mb-0">Masud Maria</h4>
-                                <p class="mb-0">Foreman</p>
+                                <h4 class="mb-0">Md. Ali Haider</h4>
+                                <p class="mb-0">AGM - Sales & Marketing</p>
                             </div>
                         </div>
                     </div>
@@ -668,71 +668,13 @@
             </div>
         </div>
         <!-- Team End -->
-
-        <!-- Blog Start -->
-        <div class="container-fluid blog pb-5">
-            <div class="container pb-5">
-                <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <p class="text-uppercase text-secondary fs-5 mb-0">News & Blog</p>
-                    <h2 class="display-4 text-capitalize mb-3">Our latest news post and articles?</h2>
-                </div>
-                <div class="row g-4">
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="blog-item h-100">
-                            <div class="blog-img">
-                                <img src="img/blog-1.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-content p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <p class="mb-0"><i class="fa fa-calendar-check text-secondary me-1"></i> 26 April 2025</p>
-                                    <p class="mb-0"><i class="fa fa-user text-secondary me-1"></i> Admin</p>
-                                </div>
-                                <a href="#" class="h4 d-block mb-4">Emerging Tech Trends What to in the Next Decade</a>
-                                <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="blog-item h-100">
-                            <div class="blog-img">
-                                <img src="img/blog-2.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-content p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <p class="mb-0"><i class="fa fa-calendar-check text-secondary me-1"></i> 26 April 2025</p>
-                                    <p class="mb-0"><i class="fa fa-user text-secondary me-1"></i> Admin</p>
-                                </div>
-                                <a href="#" class="h4 d-block mb-4">Emerging Tech Trends What to in the Next Decade</a>
-                                <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="blog-item h-100">
-                            <div class="blog-img">
-                                <img src="img/blog-3.jpg" class="img-fluid w-100" alt="">
-                            </div>
-                            <div class="blog-content p-4">
-                                <div class="d-flex justify-content-between mb-3">
-                                    <p class="mb-0"><i class="fa fa-calendar-check text-secondary me-1"></i> 26 April 2025</p>
-                                    <p class="mb-0"><i class="fa fa-user text-secondary me-1"></i> Admin</p>
-                                </div>
-                                <a href="#" class="h4 d-block mb-4">Emerging Tech Trends What to in the Next Decade</a>
-                                <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Blog End -->
-
         <!-- Testimonial Start -->
         <div class="container-fluid testimonial pb-5">
             <div class="container pb-5">
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <p class="text-uppercase text-secondary fs-5 mb-0">Testimonials</p>
-                    <h2 class="display-4 text-capitalize mb-3">Our clients reviews.</h2>
+                    <p class="text-uppercase text-secondary fs-5 mb-0"></p>
+                    <h3 class="hs"> <span class="underline ">OUR CLIENTS REVIEWS.</span> </h3>
+                    
                 </div>
                 <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.4s">
                     <div class="testimonial-item bg-light p-4">

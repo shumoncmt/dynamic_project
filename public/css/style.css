@@ -573,7 +573,7 @@
 
 /*** Fact Counter ***/
 .counter {
-    background: linear-gradient(rgba(0, 18, 72, 0.9), rgba(0, 22, 89, 1)), url(../img/counter.jpg);
+    background: linear-gradient(rgba(19, 83, 69, 0.9), rgb(219, 228, 226)), url(../img/countr.jpg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -614,7 +614,7 @@
     margin-right: 20px;
     margin-bottom: 20px;
     background: var(--bs-white);
-    box-shadow: 20px 20px rgba(255, 94, 21, 1);
+    box-shadow: 20px 20px #115345;
     z-index: 3;
 }
 
@@ -625,7 +625,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: var(--bs-primary);
+    background: #e6e3e3;
     font-size: 30px;
 }
 /*** Fact Counter ***/
