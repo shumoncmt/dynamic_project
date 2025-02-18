@@ -141,7 +141,7 @@
 }
 .service-info p {
     color: #165449;
-    font: 17px "Open Sans", sans-serif;
+    font: 16px "Open Sans", sans-serif;
     margin: 0;
     padding: 1em 0 0.5em;
 }
@@ -219,6 +219,7 @@
 }
 .hs{
     text-align: center;
+    margin-top: 15px;
 }
 
 .underline::after {
@@ -339,3 +340,98 @@
         width: 100%;
     }
 }
+
+.our-client {
+    background: #fff;
+    position: relative;
+    margin-bottom: 15px;
+}
+.client-carousel .item img:hover {
+    opacity: 1 !important;
+}
+.client-carousel .item img {
+    opacity: 0.5 !important;
+    border: 1px solid #F0F0F0;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+}
+
+.section_header {
+    position: relative;
+    padding: 0 0 3em;
+}
+.section_header h2 {
+    text-align: center;
+    font: bold 28px "Alegreya", serif;
+    color: #000;
+    text-transform: uppercase;
+    position: relative;
+    padding-bottom: 20px;
+    letter-spacing: 0.3px;
+    margin: 0;
+}
+.section_header h2:before {
+    content: "";
+    width: 55px;
+    height: 3px;
+    display: inline-block;
+    background: #fab90a;
+    position: absolute;
+    bottom: 0;
+}
+
+/* Slider logo */
+
+@keyframes slide{
+    from{
+      transform:translateX(0) ;
+    }
+    to{
+      transform:translateX(-100%) ;
+    }
+  }
+  .logos{
+    overflow:hidden;
+    padding:20px 0 ;
+    opacity: 1 !important;
+    background:white;
+    white-space:nowrap;
+    position:relative;
+  }
+  .logos:before,
+  .logos:after{
+    content:"";
+    position:absolute;
+    top:0;
+    width:150px;
+    height:80px;
+    z-index:2;
+  }
+  .logos:before{
+    left:0;
+    background:linear-gradient(to left, rgba(255,255,255,0), white);
+  }
+  .logos:after{
+    right:0;
+    background:linear-gradient(to right, rgba(255,255,255,0), white);
+  }
+  .logos:hover .logos-slide{
+    animation-play-state:paused;
+  }
+  .logos-slide{
+    display:inline-block;
+    animation: 35s slide infinite linear;
+  }
+  .logos-slide img{
+    margin: 0 10px;
+    
+    
+  }
+  .logos-slide img{
+      opacity: 0.5 !important;
+      border: 1px solid rgb(119, 116, 116);
+  }
+  .logos-slide img:hover{
+      opacity: 1 !important;
+  }
+  
