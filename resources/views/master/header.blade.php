@@ -85,15 +85,51 @@
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav ms-auto pt-2 pt-lg-0">
                         <a href={{Route('home')}} class="nav-item nav-link">Home</a>
-                        <a href={{Route('about')}} class="nav-item nav-link">About</a>
-                        <a href={{Route('service')}} class="nav-item nav-link">Industrial Sulotion</a>
+                        <div class="nav-item dropdown ">
+                            <a href={{Route('about')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">About</a>
+                            <div class="dropdown-menu m-lg-0">
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                            </div>
+                        </div>
+                        <div class="nav-item dropdown ">
+                            <a href={{Route('home')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Product</a>
+                            <div class="dropdown-menu m-lg-0">
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                            </div>
+                        </div>
+
+                        <div class="nav-item dropdown ">
+                            <a href={{Route('service')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Industrial Sulotion</a>
+                            <div class="dropdown-menu m-lg-0">
+                                <a href={{Route('team')}} class="dropdown-item ">ETP Plant</a>
+                                <a href={{Route('team')}} class="dropdown-item ">STP Plant</a>
+                                <a href={{Route('team')}} class="dropdown-item ">WTP Plant</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Iron Removal Plant</a>
+                                <a href={{Route('team')}} class="dropdown-item ">RO Water Plant</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Water Softener Plant</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Rainwater Harvesting</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Pumps and Pumping Systems</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Rainwater Harvesting</a>
+                                <a href={{Route('team')}} class="dropdown-item ">Mobile Water Treatment Plant</a>
+                            </div>
+                        </div>
+
                         <a href={{Route('project')}} class="nav-item nav-link">Projects</a>
                         <div class="nav-item dropdown ">
-                            <a href={{Route('home')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Pages</a>
+                            <a href={{Route('blog')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Blog</a>
                             <div class="dropdown-menu m-lg-0">
                                 <a href={{Route('feature')}} class="dropdown-item ">Our Features</a>
                                 <a href={{Route('blog')}} class="dropdown-item">Our Blog</a>
-                                <a href={{Route('team')}} class="dropdown-item">Our Team</a>
                                 <a href={{Route('testimonial')}} class="dropdown-item">Testimonial</a>
                                 <a href={{Route('error')}} class="dropdown-item">404 Page</a>
                             </div>
