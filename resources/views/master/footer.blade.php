@@ -4,7 +4,7 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
-                        <h4 class="text-black mb-4">Quick Links</h4>
+                        <h4 class="text-black mb-4">About Us</h4>
                             <div class="footer-item">
                                 <p class="mb-3">At Green Genesis Engineering Limited, our vision is to be the leading force in sustainable water management solutions in Bangladesh and beyond.</p>
                                 <a href="index.html" class="navbar-brand p-0">
@@ -17,25 +17,24 @@
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="text-black mb-4">Quick Links</h4>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Home</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Services</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> About Us</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Latest Projects</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> testimonial</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Our Team</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Contact Us</a>
+                            <a href={{Route('home')}}><i class="fas fa-angle-right me-2"></i> Home</a>
+                            <a href={{Route('service')}}><i class="fas fa-angle-right me-2"></i> Services</a>
+                            <a href={{Route('about')}}><i class="fas fa-angle-right me-2"></i> About Us</a>
+                            <a href={{Route('project')}}><i class="fas fa-angle-right me-2"></i> Latest Projects</a>
+                            <a href={{Route('team')}}><i class="fas fa-angle-right me-2"></i> Our Team</a>
+                            <a href={{Route('contact')}}><i class="fas fa-angle-right me-2"></i> Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">
                         <div class="footer-item d-flex flex-column">
                             <h4 class="text-black mb-4">Our Services</h4>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> General Construction</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Property Maintenance</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Project Managment</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Virtual Design & Build</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Residential Construction</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Preconstruction</a>
-                            <a href="#"><i class="fas fa-angle-right me-2"></i> Design Build</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> ETP Plant</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> STP Plant</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> WTP Plant</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Iron Removal Plant</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> RO Water Plant</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Water Softener Plant</a>
+                            <a href="#"><i class="fas fa-angle-right me-2"></i> Rainwater Harvesting</a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-6 col-xl-3">

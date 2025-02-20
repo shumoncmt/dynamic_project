@@ -166,7 +166,7 @@
                                 <img src="img/service/Booster.jpg" class="img-fluid w-100" alt="Image">
                             </div>
                             <div class="service-content text-center p-4">
-                                <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, minima!</p>
+                                <p class="text-white mb-4">Membrane Based Desalination Plant</p>
                                 <a class="btn btn-secondary py-2 px-4" href="#">Read More</a>
                             </div>
                             <div class="service-tytle">
