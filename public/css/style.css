@@ -1,3 +1,8 @@
+/* Nav ber  */
+.bg-nev{
+    background-color: #E9EAED;
+}
+
 
 /*** Spinner Start ***/
 /*** Spinner ***/
@@ -319,7 +324,7 @@
 
 @media (max-width: 576px) {
     .carousel-item .carousel-caption h1 {
-        font-size: 36px;
+        font-size: 25px;
     }
 
     .carousel-item .carousel-caption p.fs-5 {
@@ -965,11 +970,11 @@
 }
 
 
-
-
-
 /*** copyright end ***
-
+/* Services Page */
+.bg-service{
+    background-color: aqua;
+}
 
 
 

@@ -252,10 +252,10 @@
              </div>
   
                 <div class="row g-4">
-                    <div class="col-lg-2 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.2s">
                      
                     </div>
-                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-lg-2 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="team-item border border-primary p-1">
                             <div class="team-border-style-1"></div>
                             <div class="team-border-style-2"></div>
@@ -276,7 +276,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-lg-2 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="team-item border border-primary p-1">
                             <div class="team-border-style-1"></div>
                             <div class="team-border-style-2"></div>
@@ -297,7 +297,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-2 wow fadeInUp" data-wow-delay="0.6s">
                         <div class="team-item border border-primary p-1">
                             <div class="team-border-style-1"></div>
                             <div class="team-border-style-2"></div>
@@ -319,7 +319,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-1 wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.6s">
                    
                     </div>
                     </div>

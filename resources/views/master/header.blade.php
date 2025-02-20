@@ -74,7 +74,7 @@
 
  <!-- Navbar & Hero Start -->
     <div class="container-fluid sticky-top px-0 ">
-            <nav class="navbar navbar-expand-lg navbar-dark bg-light py-3 px-4">
+            <nav class="navbar navbar-expand-lg navbar-dark bg-nev py-3 px-4">
                 <a href="index.html" class="navbar-brand p-0">
                     <!-- <h1 class="text-secondary display-6"><i class="fas fa-city text-primary me-3"></i></h1> -->
                     <img src="img/logo/f-logo2.png" alt="Logo"> 
@@ -86,7 +86,7 @@
                     <div class="navbar-nav ms-auto pt-2 pt-lg-0">
                         <a href={{Route('home')}} class="nav-item nav-link">Home</a>
                         <a href={{Route('about')}} class="nav-item nav-link">About</a>
-                        <a href={{Route('service')}} class="nav-item nav-link">Services</a>
+                        <a href={{Route('service')}} class="nav-item nav-link">Industrial Sulotion</a>
                         <a href={{Route('project')}} class="nav-item nav-link">Projects</a>
                         <div class="nav-item dropdown ">
                             <a href={{Route('home')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Pages</a>
