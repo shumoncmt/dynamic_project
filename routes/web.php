@@ -23,7 +23,6 @@ use Illuminate\Support\Facades\Route;
 //Page Route Start
 
 Route::get('/', [SiteController::class, 'home'])->name('home');
-
 Route::get('/blog', [SiteController::class, 'blog'])->name('blog');
 Route::get('/feature', [SiteController::class, 'feature'])->name('feature');
 Route::get('/about', [SiteController::class, 'about'])->name('about');
