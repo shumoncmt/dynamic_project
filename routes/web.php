@@ -38,12 +38,24 @@ Route::get('/error', [SiteController::class, 'error'])->name('error');
 //Project Route Start
 
 Route::get('/project', [SiteController::class, 'project'])->name('project');
+Route::get('/zld', [SiteController::class, 'zld'])->name('zld');
+Route::get('/Deep-Tube-Well', [SiteController::class, 'deeptubewell'])->name('deeptubewell');
+Route::get('/Drinking-Water-Treatment-Plant', [SiteController::class, 'DrinkingWaterTreatmentPlant'])->name('DrinkingWaterTreatmentPlant');
+Route::get('/etp', [SiteController::class, 'etp'])->name('etp');
+Route::get('/Membrane-Based-Desalination-Plant', [SiteController::class, 'MembraneBasedDesalinationPlant'])->name('MembraneBasedDesalinationPlant');
+Route::get('/Mobile-Water-Treatment-Plant', [SiteController::class, 'MobileWaterTreatmentPlant'])->name('MobileWaterTreatmentPlant');
+Route::get('/Pumps-and-Pumping-Systems', [SiteController::class, 'PumpsandPumpingSystems'])->name('PumpsandPumpingSystems');
+Route::get('/stp', [SiteController::class, 'stp'])->name('stp');
+Route::get('/Surface-Water-Treatment-Plant', [SiteController::class, 'SurfaceWaterTreatmentPlant'])->name('SurfaceWaterTreatmentPlant');
+Route::get('/Ultra-Pure-Water-Treatment-Plant', [SiteController::class, 'UltraPureWaterTreatmentPlant'])->name('UltraPureWaterTreatmentPlant');
+Route::get('/Water-and-Waste-Water-Treatment-Plants', [SiteController::class, 'WaterandWasteWaterTreatmentPlants'])->name('WaterandWasteWaterTreatmentPlants');
 
-
+Route::get('/wtp', [SiteController::class, 'wtp'])->name('wtp');
 
 //Project Route End
 
 // Route::get('/product-category/category', [SiteController::class, 'category'])->name('category');
+Route::get('/categories', [SiteController::class, 'categories'])->name('categories');
 Route::get('/categories/blower', [SiteController::class, 'blower'])->name('blower');
 Route::get('/categories/diffuser', [SiteController::class, 'diffuser'])->name('diffuser');
 Route::get('/categories/industrial-pump', [SiteController::class, 'industrialpump'])->name('industrialpump');

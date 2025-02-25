@@ -9,7 +9,7 @@
                                 <p class="mb-3">At Green Genesis Engineering Limited, our vision is to be the leading force in sustainable water management solutions in Bangladesh and beyond.</p>
                                 <a href="index.html" class="navbar-brand p-0">
                     <!-- <h1 class="text-secondary display-6"><i class="fas fa-city text-primary me-3"></i></h1> -->
-                            <img src="img/logo/f-logo2.png" alt="Logo"> 
+                            <img src="{{ asset('img/logo/f-logo2.png')}}" alt="Logo"> 
                                  </a>
                             </div>
                         </div>

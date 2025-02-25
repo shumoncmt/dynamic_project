@@ -73,6 +73,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-8">
+            
                                     <div class="project-content mb-4">
                                         <!-- <p class="fs-5 text-secondary mb-2">Interior Design</p> -->
                                         <a href="#" class="h4">Iron Removal Plant</a>

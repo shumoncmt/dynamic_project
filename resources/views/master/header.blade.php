@@ -77,7 +77,7 @@
             <nav class="navbar navbar-expand-lg navbar-dark bg-nev py-3 px-4">
                 <a href="index.html" class="navbar-brand p-0">
                     <!-- <h1 class="text-secondary display-6"><i class="fas fa-city text-primary me-3"></i></h1> -->
-                    <img src="img/logo/f-logo2.png" alt="Logo"> 
+                    <img src="{{ asset('img/logo/f-logo2.png')}}" alt="Logo"> 
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -86,41 +86,40 @@
                     <div class="navbar-nav ms-auto pt-2 pt-lg-0">
                         <a href={{Route('home')}} class="nav-item nav-link">Home</a>
                         <div class="nav-item dropdown ">
-                            <a href={{Route('about')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">About</a>
+                            <a href={{Route('about')}} class="nav-link dropdown-toggle text-dark" >About</a>
                             <div class="dropdown-menu m-lg-0">
                                 <a href={{Route('team')}} class="dropdown-item ">Team</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown ">
-                            <a href={{Route('home')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Product</a>
+                            <a href={{Route('categories')}} class="nav-link dropdown-toggle text-dark">Product</a>
                             <div class="dropdown-menu m-lg-0">
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Team</a>
+                                <a href={{Route('industrialpump')}} class="dropdown-item ">Dynamic Pump</a>
+                                <a href={{Route('electricmotor')}} class="dropdown-item ">Dynamic Motor</a>
+                                <a href={{Route('roandufmembrane')}} class="dropdown-item ">Dynamic RO Membrane</a>
+                                <a href={{Route('blower')}} class="dropdown-item ">Dynamic Blower</a>
+                                <a href={{Route('frpvessel')}} class="dropdown-item ">Dynamic Vessel</a>
+                                <a href={{Route('electromageneticflowmeter')}} class="dropdown-item ">Dynamic Flow Meter</a>
+                                <a href={{Route('roandufmembrane')}} class="dropdown-item ">Dynamic RO Antiscalant</a>
+                                <a href={{Route('watertreatmentaccessories')}} class="dropdown-item ">Flocculants & Dechlorinator</a>
+                                <a href={{Route('watertreatmentchemicalsandmedia')}} class="dropdown-item ">Biocide & Membrane Cleaner</a>
                             </div>
                         </div>
 
                         <div class="nav-item dropdown ">
-                            <a href={{Route('service')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Industrial Sulotion</a>
+                            <a href={{Route('service')}} class="nav-link dropdown-toggle text-dark ">Industrial Sulotion</a>
                             <div class="dropdown-menu m-lg-0">
-                                <a href={{Route('team')}} class="dropdown-item ">ETP Plant</a>
-                                <a href={{Route('team')}} class="dropdown-item ">STP Plant</a>
-                                <a href={{Route('team')}} class="dropdown-item ">WTP Plant</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Iron Removal Plant</a>
-                                <a href={{Route('team')}} class="dropdown-item ">RO Water Plant</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Water Softener Plant</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Rainwater Harvesting</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Pumps and Pumping Systems</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Rainwater Harvesting</a>
-                                <a href={{Route('team')}} class="dropdown-item ">Mobile Water Treatment Plant</a>
+                                <a href={{Route('etp')}} class="dropdown-item ">ETP Plant</a>
+                                <a href={{Route('stp')}} class="dropdown-item ">STP Plant</a>
+                                <a href={{Route('wtp')}} class="dropdown-item ">WTP Plant</a>
+                                <a href={{Route('zld')}} class="dropdown-item ">ZLD Plant</a>
+                                <a href={{Route('deeptubewell')}} class="dropdown-item ">Deep Tube Well</a>
+                                <a href={{Route('DrinkingWaterTreatmentPlant')}} class="dropdown-item ">Drinking Water Treatment Plant</a>
+                                <a href={{Route('MobileWaterTreatmentPlant')}} class="dropdown-item "> Mobile Water Treatment Plant</a>
+                                <a href={{Route('SurfaceWaterTreatmentPlant')}} class="dropdown-item ">Surface Water Treatment Plant</a>
+                                <a href={{Route('PumpsandPumpingSystems')}} class="dropdown-item ">Pumps and Pumping Systems</a>
+                                <a href={{Route('UltraPureWaterTreatmentPlant')}} class="dropdown-item ">Ultra Pure Water Treatment Plant</a>
+                                <a href={{Route('WaterandWasteWaterTreatmentPlants')}} class="dropdown-item ">Water and Waste Water Treatment Plants</a>
                             </div>
                         </div>
 

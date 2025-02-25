@@ -38,7 +38,6 @@ class SiteController extends Controller
     function testimonial(){
         return view('site.testimonial');
     }
-
       //Page End
 
       //Project Start
@@ -48,10 +47,51 @@ class SiteController extends Controller
     function project(){
         return view('project.project');
     }
+
+    function deeptubewell(){
+        return view ('project.Deep-Tube-Well');
+    }
+    function zld(){
+        return view ('project.zld');
+    }
+    function DrinkingWaterTreatmentPlant(){
+        return view ('project.Drinking-Water-Treatment-Plant');
+    }
+    function etp(){
+        return view ('project.etp');
+    }
+    function MembraneBasedDesalinationPlant(){
+        return view ('project.Membrane-Based-Desalination-Plant');
+    }
+    function MobileWaterTreatmentPlant(){
+        return view ('project.Mobile-Water-Treatment-Plant');
+    }
+    function PumpsandPumpingSystems(){
+        return view ('project.Pumps-and-Pumping-Systems');
+    }
+    function stp(){
+        return view ('project.stp');
+    }
+    function SurfaceWaterTreatmentPlant(){
+        return view ('project.Surface-Water-Treatment-Plant');
+    }
+    function UltraPureWaterTreatmentPlant(){
+        return view ('project.Ultra-Pure-Water-Treatment-Plant');
+    }
+    function WaterandWasteWaterTreatmentPlants(){
+        return view ('project.Water-and-Waste-Water-Treatment-Plants');
+    }
     
+    function wtp(){
+        return view ('project.wtp');
+    }
     //Project End
 
     //Product Caregory Start
+    
+    function categories(){
+        return view ('product-category.all-category');
+    }
 
 function blower(){
     return view ('product-category.blower');
