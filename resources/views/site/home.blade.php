@@ -6,12 +6,8 @@
 
  <!-- Carousel Start -->
 
-
-
-
-
-        <!-- About Start -->
-        <!-- <div class="container-fluid about py-5">
+<!-- About Start -->
+       <!-- <div class="container-fluid about py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-xl-6 wow fadeInLeft" data-wow-delay="0.1s">
@@ -67,8 +63,8 @@
                     </div>
                 </div>
             </div>
-        </div> -->
-        <!-- About End -->
+        </div>  -->
+<!-- About End -->
 
         <section class="diff-offer-wrapper">
         <div class="container">

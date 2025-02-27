@@ -7,9 +7,10 @@
         <!-- Team Start -->
         <div class="container-fluid team py-5">
             <div class="container py-5">
+
                 <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
-                    <h2 class="display-4 text-capitalize mb-3">Our Team</h2>
-                </div>
+                    <h2 class="hs"> <span class="underline ">Our Team</span>  </h2>
+             </div>
                 <div class="row g-4">
                     <div class="col-lg-3  col-md-4  col-sm-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="team-item border border-primary p-1">
