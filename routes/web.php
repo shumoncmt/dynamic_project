@@ -67,3 +67,20 @@ Route::get('/categories/water-treatment-chemicals-and-media', [SiteController::c
 
 
 //Product Category End
+
+//Single Product Start
+
+
+Route::get('/product/bag-filter', [SiteController::class, 'bagfilter'])->name('bagfilter');
+Route::get('/product/micron-filter-cartridge', [SiteController::class, 'MicronFilterCartridge'])->name('MicronFilterCartridge');
+Route::get('/product/micron-filter-housing', [SiteController::class, 'MicronFilterHousing'])->name('MicronFilterHousing');
+Route::get('/product/ro-membrane-housing', [SiteController::class, 'RoMembraneHousing'])->name('RoMembraneHousing');
+Route::get('/product/ro-membrane', [SiteController::class, 'romembrane'])->name('romembrane');
+
+
+
+
+
+
+
+//Single Product End

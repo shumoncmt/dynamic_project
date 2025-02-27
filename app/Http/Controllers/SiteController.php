@@ -129,6 +129,30 @@ function industrialpump(){
     return view('product-category.industrialpump');
 }
 
+// Single Product start
+
+function bagfilter(){
+    return view('product.Biocide-Membrane-Cleaner.Bag-Filter');
+}
+function MicronFilterCartridge(){
+    return view('product.Biocide-Membrane-Cleaner.Micron-Filter-Cartridge');
+}
+function MicronFilterHousing(){
+    return view('product.Biocide-Membrane-Cleaner.Micron-Filter-Housing');
+}
+
+function RoMembraneHousing(){
+    return view('product.Biocide-Membrane-Cleaner.Ro-Membrane-Housing');
+}
+function romembrane(){
+    return view('product.Biocide-Membrane-Cleaner.Ro-membrane');
+}
+
+
+
+
+
+//Single Product End
 
 
 
