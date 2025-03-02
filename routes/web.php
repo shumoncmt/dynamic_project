@@ -79,6 +79,41 @@ Route::get('/product/ro-membrane', [SiteController::class, 'romembrane'])->name(
 
 
 
+Route::get('/product/pressure-roots-blowers', [SiteController::class, 'pressurerootsblowers'])->name('pressurerootsblowers');
+Route::get('/product/ring-blower', [SiteController::class, 'ringblower'])->name('ringblower');
+Route::get('/product/vacuum-roots-blower', [SiteController::class, 'vacuumrootsblower'])->name('vacuumrootsblower');
+
+Route::get('/product/electromagnetic-flow-meter', [SiteController::class, 'electromagneticflowmeter'])->name('electromagneticflowmeter');
+
+Route::get('/product/single-phase-motor', [SiteController::class, 'singlephasemotor'])->name('singlephasemotor');
+
+Route::get('/product/three-phase-motor', [SiteController::class, 'electromagneticflowmeter'])->name('electromagneticflowmeter');
+
+Route::get('/product/frp-vessel', [SiteController::class, 'frpvesse'])->name('frpvesse');
+
+//Pump section 
+
+Route::get('/product/dpl-series-dynamic-pump', [SiteController::class, 'DplSeriesDynamicPump'])->name('DplSeriesDynamicPump');
+Route::get('/product/dp-deries-dynamic-pump', [SiteController::class, 'DpSeriesDynamicPump'])->name('DpSeriesDynamicPump');
+Route::get('/product/sgt-centrifugal-pump', [SiteController::class, 'SgtCentrifugalPump'])->name('SgtCentrifugalPump');
+Route::get('/product/2gk-dynamic-centrifugal-pump', [SiteController::class, 'gkdynamiccentrifugalpump'])->name('gkdynamiccentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+
+
+//Water treatment chemicals and Media 
+
+
+Route::get('/product/dynamic-activated-carbon', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+
 
 
 

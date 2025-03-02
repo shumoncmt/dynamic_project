@@ -147,10 +147,86 @@ function RoMembraneHousing(){
 function romembrane(){
     return view('product.Biocide-Membrane-Cleaner.Ro-membrane');
 }
+function pressurerootsblowers(){
+    return view('product.Blower.pressure-roots-blowers');
+}
+
+function ringblower(){
+    return view('product.Blower.ring-blower');
+}
+function vacuumrootsblower(){
+    return view('product.Blower.Vacuum-Roots-Blower');
+}
+
+function electromagneticflowmeter(){
+    return view('product.Flow-meter.electromagnetic-flow-meter');
+}
+
+function threephasemotor(){
+    return view('product.motor.three-phase-motor');
+}
+
+function singlephasemotor(){
+    return view('product.motor.single-phase-motor');
+}
 
 
+function frpvesse(){
+    return view('product.Pump.frp-vessel');
+}
 
+//pump section
 
+function DplSeriesDynamicPump(){
+    return view('product.Pump.High-Pressure-Multistage-Pump.Dpl-Series-Dynamic-Pump');
+}
+
+function DpSeriesDynamicPump(){
+    return view('product.Pump.High-Pressure-Multistage-Pump.Dp-Series-Dynamic-Pump');
+}
+function SgtCentrifugalPump(){
+    return view('product.Pump.Gk-Centrifugal-Pump.Sgt-Centrifugal-Pump');
+}
+function gkdynamiccentrifugalpump(){
+    return view('product.Pump.Gk-Centrifugal-Pump.2gk-dynamic-centrifugal-pump');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Pump.gks-series-centrifugal-pump');
+}
+
+//Water treatment chemicals and Media
+
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media.Activated-Carbon.Dynamic-Activated-Carbon');
+}
+
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
+function gksseriescentrifugalpump(){
+    return view('product.Water-treatment-chemicals-media');
+}
 
 //Single Product End
 
