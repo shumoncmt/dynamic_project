@@ -196,36 +196,38 @@ function gksseriescentrifugalpump(){
 
 //Water treatment chemicals and Media
 
-function gksseriescentrifugalpump(){
+function DynamicActivatedCarbon(){
     return view('product.Water-treatment-chemicals-media.Activated-Carbon.Dynamic-Activated-Carbon');
 }
 
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function DynamicResin3(){
+    return view('product.Water-treatment-chemicals-media.Cation-Exchange-Resin.Dynamic-Resin-1');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+
+function DynamicResin2(){
+    return view('product.Water-treatment-chemicals-media.Cation-Exchange-Resin.Dynamic-Resin-2');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+
+function Anthracite(){
+    return view('product.Water-treatment-chemicals-media.Filtration-Media.Anthracite');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function Coconutshellactivatedcarbon(){
+    return view('product.Water-treatment-chemicals-media.Filtration-Media.Coconut-shell-activated-carbon');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function Manganesedioxide(){
+    return view('product.Water-treatment-chemicals-media.Filtration-Media.Manganese-dioxide');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function Biocide(){
+    return view('product.Water-treatment-chemicals-media.Antiscalant.Biocide');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function Dechlorinator(){
+    return view('product.Water-treatment-chemicals-media.Antiscalant.Dechlorinator');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function Flocculants(){
+    return view('product.Water-treatment-chemicals-media.Antiscalant.Flocculants');
 }
-function gksseriescentrifugalpump(){
-    return view('product.Water-treatment-chemicals-media');
+function RoAntiscalant(){
+    return view('product.Water-treatment-chemicals-media.Antiscalant.Ro-Antiscalant');
 }
 
 //Single Product End

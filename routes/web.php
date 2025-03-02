@@ -103,16 +103,16 @@ Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gkss
 //Water treatment chemicals and Media 
 
 
-Route::get('/product/dynamic-activated-carbon', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
-Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
+Route::get('/product/dynamic-activated-carbon', [SiteController::class, 'DynamicActivatedCarbon'])->name('DynamicActivatedCarbon');
+Route::get('/product/dynamic-resin-001x7-1.3', [SiteController::class, 'DynamicResin3'])->name('DynamicResin3');
+Route::get('/product/dynamic-resin-001X7-2.0', [SiteController::class, 'DynamicResin2'])->name('DynamicResin2');
+Route::get('/product/anthracite', [SiteController::class, 'Anthracite'])->name('Anthracite');
+Route::get('/product/coconut-shell-activated-carbon', [SiteController::class, 'Coconutshellactivatedcarbon'])->name('Coconutshellactivatedcarbon');
+Route::get('/product/manganese-dioxide', [SiteController::class, 'Manganesedioxide'])->name('Manganesedioxide');
+Route::get('/product/biocide', [SiteController::class, 'Biocide'])->name('Biocide');
+Route::get('/product/dechlorinator', [SiteController::class, 'Dechlorinator'])->name('Dechlorinator');
+Route::get('/product/flocculants', [SiteController::class, 'Flocculants'])->name('Flocculants');
+Route::get('/product/ro-antiscalant', [SiteController::class, 'RoAntiscalant'])->name('RoAntiscalant');
 
 
 
