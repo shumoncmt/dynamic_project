@@ -26,9 +26,7 @@
         </div>
     </div>
   </div>
-  
-       
-      
+   
 <div class="container my-5">
   <div class="additional-details my-5 ">
    <h2>Product Details</h2>
