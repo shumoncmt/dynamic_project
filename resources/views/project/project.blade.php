@@ -24,7 +24,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/ETP Plant.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/etp-plant.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -43,7 +43,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/Water.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/water.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -62,7 +62,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/Swimming.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/swimming.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -81,7 +81,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/IRP.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/irp.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
