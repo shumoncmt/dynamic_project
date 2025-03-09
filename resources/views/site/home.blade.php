@@ -1,8 +1,20 @@
-@include('master.header')
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
+    <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
+    <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+    
+    @include('master.header')
 
-<title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
-<meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
-<meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+</head>
+<body>
+    
+
+
+
 
  <!-- Carousel Start -->
 
@@ -495,7 +507,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/ETP Plant.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/etp-plant.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -514,7 +526,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/Water.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/water.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -533,7 +545,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/Swimming.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/swimming.jpg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -552,7 +564,7 @@
                             <div class="row g-4">
                                 <div class="col-md-4">
                                     <div class="project-img">
-                                        <img src="img/project/IRP.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
+                                        <img src="img/project/irp.jpeg" class="img-fluid w-100 pt-3 ps-3" alt="">
                                     </div>
                                 </div>
                                 <div class="col-md-8">
@@ -770,3 +782,6 @@
 
 
 @include('master.footer')
+
+</body>
+</html>
