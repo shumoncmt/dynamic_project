@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
-    <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
-    <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+    <title>Dynamic Resin 001X7-2.0 in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <meta name="description" content="Discover Dynamic Resin 001X7-2.0 in Bangladesh, a versatile solution for various applications. Explore its features and benefits for your projects today." />
+    <meta name="keywords" content="Uncover the potential of Dynamic Resin 001X7-2.0 in Bangladesh. Ideal for multiple uses, this resin promises quality and efficiency for your creative endeavors.">
     
     @include('master.header')
 

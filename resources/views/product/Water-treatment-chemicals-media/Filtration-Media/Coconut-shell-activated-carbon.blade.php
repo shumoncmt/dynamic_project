@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
-    <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
-    <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+    <title>Dynamic Coconut shell activated carbon in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <meta name="description" content="high-quality dynamic coconut shell activated carbon in Bangladesh. Our products ensure superior filtration and environmental sustainability for various applications." />
+    <meta name="keywords" content="benefits of dynamic coconut shell activated carbon in Bangladesh. Our eco-friendly products provide effective filtration for cleaner air and water solutions.">
     
     @include('master.header')
 

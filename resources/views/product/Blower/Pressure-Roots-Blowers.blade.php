@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
-    <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
-    <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+    <title>Pressure Roots Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <meta name="description" content="Discover high-quality pressure roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
+    <meta name="keywords" content="Find top-notch pressure roots blowers in Bangladesh. We offer innovative solutions designed to improve efficiency and reliability in various industries.">
     
     @include('master.header')
 

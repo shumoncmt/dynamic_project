@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
-    <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
-    <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+    <title>Electromagnetic flow Meter - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <meta name="description" content="precision and reliability with our electromagnetic flow meters. Ideal for various applications, ensuring accurate flow measurement in any environment" />
+    <meta name="keywords" content="Perfect for industrial applications, delivering reliable flow measurement solutions.">
     
     @include('master.header')
 

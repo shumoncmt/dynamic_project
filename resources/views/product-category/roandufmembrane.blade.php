@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Best Water Treatment (ETP, STP, WTP, RO) Solutions in Bangladesh</title>
-    <meta name="description" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
-    <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+    <title>Ro and Uf Membrane - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <meta name="description" content="high-quality RO and UF membranes for water purification. Enhance your filtration systems with our advanced technology and reliable solutions" />
+    <meta name="keywords" content="RO and UF membranes designed for efficient water treatment. Achieve superior filtration performance with our innovative products">
     
     @include('master.header')
 
