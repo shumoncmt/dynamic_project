@@ -28,24 +28,10 @@
     <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Dynamic Motor</h4></a>
-              <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
-              <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                <h4>Dynamic RO Membrane</h4></a>
-              <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
-              <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/Dynamic-pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
-                <h4>Dynamic Pump</h4></a>
-              <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
-              <h6><a href={{Route('industrialpump')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('frpvesse')}} class="post-image view image_hover">			<img src="{{ asset('img/product/FRP-Vessel.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('frpvesse')}}>
+                <h4>FRP Vessel</h4></a>
+              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+              <h6><a href={{Route('frpvesse')}}>Read more</a></h6>
             </div>
           </div>
         </div>

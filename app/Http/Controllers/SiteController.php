@@ -172,7 +172,7 @@ function singlephasemotor(){
 
 
 function frpvesse(){
-    return view('product.Pump.frp-vessel');
+    return view('product.Vessel.frp-vessel');
 }
 
 //pump section
