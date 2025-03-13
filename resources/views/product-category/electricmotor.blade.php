@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ElectricMotor - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="the latest in electric motor technology. Explore our comprehensive range of products, expert insights, and innovative solutions for all your electric motor needs.
+    <meta name="description" content="The latest in electric motor technology. Explore our comprehensive range of products, expert insights, and innovative solutions for all your electric motor needs.
 " />
     <meta name="keywords" content="ElectricMotor offers a wide selection of electric motors and accessories.">
     
@@ -30,24 +30,17 @@
         <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Dynamic Motor</h4></a>
-              <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
-              <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('singlephasemotor')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/single-phase-motor.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('singlephasemotor')}}>
+                <h4>Dynamic SINGLE PHASE MOTOR</h4></a>
+              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('singlephasemotor')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                <h4>Dynamic RO Membrane</h4></a>
-              <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
-              <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/Dynamic-pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
-                <h4>Dynamic Pump</h4></a>
-              <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
-              <h6><a href={{Route('industrialpump')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('threephasemotor')}} class="post-image view image_hover"><img src= "{{ asset('img/catagory/1-PHASE-ASYNCHRONOUS.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('threephasemotor')}}>
+                <h4>Dynamic THREE PHASE MOTOR</h4></a>
+              <p style="text-align:justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('threephasemotor')}}>Read more</a></h6>
             </div>
           </div>
         </div>

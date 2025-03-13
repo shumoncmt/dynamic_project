@@ -87,7 +87,7 @@ Route::get('/product/electromagnetic-flow-meter', [SiteController::class, 'elect
 
 Route::get('/product/single-phase-motor', [SiteController::class, 'singlephasemotor'])->name('singlephasemotor');
 
-Route::get('/product/three-phase-motor', [SiteController::class, 'electromagneticflowmeter'])->name('electromagneticflowmeter');
+Route::get('/product/three-phase-motor', [SiteController::class, 'threephasemotor'])->name('threephasemotor');
 
 Route::get('/product/frp-vessel', [SiteController::class, 'frpvesse'])->name('frpvesse');
 

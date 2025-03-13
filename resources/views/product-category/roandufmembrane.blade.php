@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ro and Uf Membrane - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="high-quality RO and UF membranes for water purification. Enhance your filtration systems with our advanced technology and reliable solutions" />
+    <meta name="description" content="High-quality RO and UF membranes for water purification. Enhance your filtration systems with our advanced technology and reliable solutions" />
     <meta name="keywords" content="RO and UF membranes designed for efficient water treatment. Achieve superior filtration performance with our innovative products">
     
     @include('master.header')

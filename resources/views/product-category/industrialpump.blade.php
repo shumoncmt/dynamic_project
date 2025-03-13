@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>industrial pump - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="high-quality industrial pumps designed for efficiency and durability. Explore our extensive range of solutions tailored to meet your operational needs." />
+    <meta name="description" content="High-quality industrial pumps designed for efficiency and durability. Explore our extensive range of solutions tailored to meet your operational needs." />
     <meta name="keywords" content="Browse our diverse range of products designed to deliver exceptional performance and longevity.">
     
     @include('master.header')
@@ -29,24 +29,47 @@
             <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Dynamic Motor</h4></a>
-              <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
+            <div class="item"><a href={{Route('SgtCentrifugalPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('SgtCentrifugalPump')}}>
+                <h4>SGT Centrifugal Pump</h4></a>
+              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('SgtCentrifugalPump')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('gkdynamiccentrifugalpump')}} class="post-image view image_hover"><img src= "{{ asset('img/catagory/High-Efficiency-Centrifugal-Pump-2GKS.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('gkdynamiccentrifugalpump')}}>
+                <h4>2GK Dynamic Centrifugal Pump</h4></a>
+              <p style="text-align:justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('gkdynamiccentrifugalpump')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('gksseriescentrifugalpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/catagory/GKS-Series-Centrifugal-Pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('gksseriescentrifugalpump')}}>
+                <h4>GKS SERIES CENTRIFUGAL PUMP</h4></a>
+              <p style="text-align:justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('gksseriescentrifugalpump')}}>Read more</a></h6>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('DpSeriesDynamicPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/Dynamic-Vertical-multistage-pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DpSeriesDynamicPump')}}>
+                <h4>DP Series Dynamic Pump</h4></a>
+              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('DpSeriesDynamicPump')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('DplSeriesDynamicPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/DPL-Dynamic-Pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DplSeriesDynamicPump')}}>
+                <h4>DPL Series Dynamic Pump</h4></a>
+              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/Dynamic-Submersible-pump-3-STM1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
+                <h4>Dynamic Submersible pump-3″STM1</h4></a>
+              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
               <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                <h4>Dynamic RO Membrane</h4></a>
-              <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
-              <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/Dynamic-pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
-                <h4>Dynamic Pump</h4></a>
-              <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
-              <h6><a href={{Route('industrialpump')}}>Read more</a></h6>
             </div>
           </div>
         </div>

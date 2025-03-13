@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Water treatment Chemical and Media - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
+    <meta name="description" content="Effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
     <meta name="keywords" content="water treatment processes with our specialized chemicals and media. Trust our expertise for superior water quality and effective treatment solutions.">
     
     @include('master.header')

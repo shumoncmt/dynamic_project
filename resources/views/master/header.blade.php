@@ -57,7 +57,11 @@
                 </div>
                 <div class="col-lg-6 text-center text-lg-end">
                     <div class="d-flex align-items-center justify-content-end">
-                        <a href="#" class="text-muted me-3"><i class="fas fa-clock text-secondary me-2"></i>Sat - Thu 9:00 - 18:30, Friday - CLOSED</a>
+                        <a href="#" class="text-muted me-3"><i class="fas fa-clock text-secondary me-2"></i>
+                            <?php
+                            date_default_timezone_set("Asia/Dhaka");
+                            echo  date("h:i:sa ");
+                            ?> Sat - Thu 9:00 AM - 06:30 PM, Friday - CLOSED</a>
                         <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-facebook-f"></i></a>
                         <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-twitter"></i></a>
                         <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-instagram"></i></a>
