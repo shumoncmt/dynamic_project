@@ -9,6 +9,7 @@ use Carbon\Carbon;
 class SitemapController extends Controller
 {
     public function indexs()
+    
     {
         // Array to store URLs
         $urls = [];
