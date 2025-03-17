@@ -163,11 +163,11 @@ function electromagneticflowmeter(){
 }
 
 function threephasemotor(){
-    return view('product.motor.three-phase-motor');
+    return view('product.Motor.Three-Phase-Motor');
 }
 
 function singlephasemotor(){
-    return view('product.motor.single-phase-motor');
+    return view('product.Motor.Single-Phase-Motor');
 }
 
 
