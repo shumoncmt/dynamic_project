@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2gk dynamic centrifugal pump in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="Explore top-quality 2gk dynamic centrifugal pumps in Bangladesh. Our pumps offer reliability and efficiency for all your industrial needs" />
-    <meta name="keywords" content="best 2gk dynamic centrifugal pumps in Bangladesh. Our innovative solutions ensure optimal performance for diverse industrial applications">
+    <title>SGT Dynamic Centrifugal pump in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <meta name="description" content="the efficiency and reliability of SGT Centrifugal Pumps. Explore our range of high-performance pumps designed for various industrial applications." />
+    <meta name="keywords" content="SGT Centrifugal Pumps offer superior performance and durability.">
     
     @include('master.header')
 
@@ -13,8 +13,7 @@
 <body>
 
 
-
-<section class="diff-offer-wrapper">
+ <section class="diff-offer-wrapper">
 <div class="container">
     <div class="row">
         <div class="col-md-4 col-sm-8 service-info " style="margin-top:80px;">
