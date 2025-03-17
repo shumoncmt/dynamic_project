@@ -3,6 +3,7 @@
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\SiteController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\SitemapController;
 
 // Route::get('/', function () {
 //     return view('welcome');
@@ -19,6 +20,12 @@ use Illuminate\Support\Facades\Route;
 // });
 
 // require __DIR__.'/auth.php';
+
+//Sitemap Start
+
+Route::get('/sitemap.xml', [SitemapController::class, 'indexs']);
+
+//Sitemap End
 
 //Page Route Start
 
@@ -113,7 +120,6 @@ Route::get('/product/biocide', [SiteController::class, 'Biocide'])->name('Biocid
 Route::get('/product/dechlorinator', [SiteController::class, 'Dechlorinator'])->name('Dechlorinator');
 Route::get('/product/flocculants', [SiteController::class, 'Flocculants'])->name('Flocculants');
 Route::get('/product/ro-antiscalant', [SiteController::class, 'RoAntiscalant'])->name('RoAntiscalant');
-
 
 
 
