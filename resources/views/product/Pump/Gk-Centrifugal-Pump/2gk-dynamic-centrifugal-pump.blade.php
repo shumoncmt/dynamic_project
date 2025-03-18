@@ -12,8 +12,6 @@
 </head>
 <body>
 
-
-
 <section class="diff-offer-wrapper">
 <div class="container">
     <div class="row">
@@ -94,16 +92,22 @@
             </div>
             <div class="tab-pane container fade" id="menu1">
                 <div class="review">
-
-                   
-                    <table class="table table-bordered border-primary table-responsive">
+                  <div class="table-responsive">
+                    <table class="table table-bordered border-primary">
                       <thead>
                         <style> 
                           td, th {
                             text-align: center;
+                            color:black;
+                            }
+                            .align-top{
+                              background-color:#175145;
+                            }
+                            th{
+                              color:white;
                             }
                         </style>
-                        <tr class="align-top table-success ">
+                        <tr class="align-top">
                           <th rowspan="2">Model</th>
                           <th colspan="2">Power</th>
                           <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
@@ -115,7 +119,7 @@
                           <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
                           <th rowspan="2">10 m<sup>3 </sup>/ h</th>
                         </tr>
-                        <tr class="align-top table-success">
+                        <tr class="align-top">
                           <th >KW</th>
                           <th >HP</th>
                         </tr>
@@ -133,7 +137,6 @@
                           <td>-</td>
                           <td>-</td>
                           <td>-</td>
-
                         </tr>
                         <tr>
                           <td>GK25/140</td>
@@ -174,6 +177,7 @@
                         </tr>
                       </tbody>
                     </table>
+                  </div>
                 </div>
             </div>
             <div class="tab-pane container fade" id="menu2">
@@ -249,7 +253,13 @@
         </div>
       </div>
     </div>
-</section>
+  </section>
+
+
+
+
+
+
 
 </body>
 

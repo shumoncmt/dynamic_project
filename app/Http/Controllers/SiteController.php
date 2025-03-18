@@ -17,9 +17,6 @@ class SiteController extends Controller
     function contact(){
         return view('site.contact');
     }
-    function faq(){
-        return view('site.faq');
-    }
     function about(){
         return view('site.about');
     }
@@ -148,22 +145,23 @@ function romembrane(){
     return view('product.Biocide-Membrane-Cleaner.Ro-membrane');
 }
 function pressurerootsblowers(){
-    return view('product.Blower.pressure-roots-blowers');
+    return view('product.Blower.Pressure-Roots-Blowers');
 }
 
+
 function ringblower(){
-    return view('product.Blower.ring-blower');
+    return view('product.Blower.Ring-Blower');
 }
 function vacuumrootsblower(){
     return view('product.Blower.Vacuum-Roots-Blower');
 }
 
 function electromagneticflowmeter(){
-    return view('product.Flow-meter.electromagnetic-flow-meter');
+    return view('product.Flow-Meter.Electromagnetic-Flow-Meter');
 }
 
 function threephasemotor(){
-    return view('product.Motor.Three-Phase-Motor');
+    return view('product.Motor.three-phase-motor');
 }
 
 function singlephasemotor(){
