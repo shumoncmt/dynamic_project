@@ -127,29 +127,37 @@
                           </thead>
                           <tbody>
                             <tr>
-                              <td>GK 25/130</td>
-                              <td>0.75</td>
-                              <td>1</td>
-                              <td>34</td>
-                              <td>28</td>
+                              <td>SGT32-160/1.5</td>
+                              <td>1.5</td>
+                              <td>2</td>
                               <td>21</td>
+                              <td>21</td>
+                              <td>8</td>
    
                             </tr>
                             <tr>
-                              <td>GK25/140</td>
-                              <td>1.1</td>
-                              <td>1.5</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>33</td>
+                              <td>SGT32-160/2.2</td>
+                              <td>2.2</td>
+                              <td>3</td>
+                              <td>21</td>
+                              <td>28</td>
+                              <td>8</td>
                             </tr>
                             <tr>
-                              <td>GK25/160 B</td>
-                              <td>1.5</td>
-                              <td>2</td>
-                              <td>47</td>
+                              <td>SGT32-160/3</td>
+                              <td>3</td>
+                              <td>4</td>
+                              <td>21</td>
+                              <td>35</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT32-200/4</td>
+                              <td>4</td>
+                              <td>5.5</td>
+                              <td>21</td>
                               <td>45</td>
-                              <td>43</td>
+                              <td>8</td>
                             </tr>
                             <tr>
                               <td>GK 25/160 A</td>
@@ -158,11 +166,80 @@
                               <td>57</td>
                               <td>54</td>
                               <td>52</td>
-                              <td>49</td>
-                              <td>45</td>
-                              <td>36</td>
-                              <td>26</td>
                             </tr>
+                            <tr>
+                              <td>SGT32-200/5.5</td>
+                              <td>5.5</td>
+                              <td>7.5</td>
+                              <td>21</td>
+                              <td>58</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT32-200/7.5</td>
+                              <td>7.5</td>
+                              <td>1</td>
+                              <td>21</td>
+                              <td>70</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT40-125/1.5</td>
+                              <td>1.5</td>
+                              <td>2</td>
+                              <td>24</td>
+                              <td>18</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT40-125/2.2</td>
+                              <td>2.2</td>
+                              <td>3</td>
+                              <td>24</td>
+                              <td>24</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT40-160/3</td>
+                              <td>3</td>
+                              <td>4</td>
+                              <td>30</td>
+                              <td>28</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT40-160/4</td>
+                              <td>4</td>
+                              <td>5.5</td>
+                              <td>30</td>
+                              <td>36</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT40-200/5.5</td>
+                              <td>5.5</td>
+                              <td>7.5</td>
+                              <td>39</td>
+                              <td>42</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT40-200/7.5</td>
+                              <td>7.5</td>
+                              <td>10</td>
+                              <td>39</td>
+                              <td>52</td>
+                              <td>8</td>
+                            </tr>
+                            <tr>
+                              <td>SGT80-125A/7.5</td>
+                              <td>7.5</td>
+                              <td>10</td>
+                              <td>120</td>
+                              <td>28</td>
+                              <td>8</td>
+                            </tr>
+
                           </tbody>
                         </table>
                       </div>
