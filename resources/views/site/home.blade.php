@@ -8,6 +8,7 @@
     <meta name="keywords" content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
     
     @include('master.header')
+    @include('master.slider')
 
 </head>
 <body>

@@ -13,15 +13,27 @@
 <body>
 
 <section class="diff-offer-wrapper">
+  <div class="container">
+    <div class="row ">
+      <h2 style="margin-bottom:10px; margin-top:25px">2GK Dynamic Centrifugal Pump</h2>
+              <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                  <ol class="breadcrumb">
+                  <li class="breadcrumb-item"><a href="#">Home</a></li>
+                  <li class="breadcrumb-item"><a href="#">Product</a></li>
+                  <li class="breadcrumb-item active" aria-current="page">2GK Dynamic Centrifugal Pump</li>
+                  </ol>
+          </nav>
+  </div>
+  </div>
 <div class="container">
     <div class="row">
-        <div class="col-md-4 col-sm-8 service-info " style="margin-top:80px;">
+        <div class="col-md-4 col-sm-8 service-info " style="margin-top:20px;">
          <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-2GKS.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                </a>
             </div>
         </div>
-        <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
-            <h2>2GK Dynamic Centrifugal Pump</h2>
+        <div class="col-md-6 col-sm-8" style="margin-top: 20px; margin-left:15px">
+            <h3>2GK Dynamic Centrifugal Pump</h3>
           
             <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
             <p></p>
@@ -42,7 +54,7 @@
    
 <div class="container my-5">
   <div class="additional-details my-5 ">
-   <h2>Product Details</h2>
+   <h3>Product Details</h3>
         <!-- Nav pills -->
         <ul class="nav nav-tabs justify-content-left">
             <li class="nav-tabs">

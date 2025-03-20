@@ -14,15 +14,28 @@
 
 
   <section class="diff-offer-wrapper">
+
+    <div class="container">
+      <div class="row ">
+              <h2 style="margin-bottom:10px; margin-top:25px">GKS SERIES CENTRIFUGAL PUMP</h2>
+                      <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                          <ol class="breadcrumb">
+                          <li class="breadcrumb-item"><a href="#">Home</a></li>
+                          <li class="breadcrumb-item"><a href="#">Product</a></li>
+                          <li class="breadcrumb-item active" aria-current="page">GKS SERIES CENTRIFUGAL PUMP</li>
+                          </ol>
+                  </nav>
+          </div>
+      </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-8 service-info " style="margin-top:80px;">
+            <div class="col-md-4 col-sm-8 service-info " style="margin-top:20px;">
              <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/pump/GKS-Series-Centrifugal-Pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                    </a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
-                <h2>GKS SERIES CENTRIFUGAL PUMP</h2>
+            <div class="col-md-6 col-sm-8" style="margin-top: 20px; margin-left:15px">
+                <h3>GKS SERIES CENTRIFUGAL PUMP</h3>
               
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
@@ -43,7 +56,7 @@
        
     <div class="container my-5">
       <div class="additional-details my-5 ">
-       <h2>Product Details</h2>
+       <h3>Product Details</h3>
             <!-- Nav pills -->
             <ul class="nav nav-tabs justify-content-left">
                 <li class="nav-tabs">
@@ -111,22 +124,22 @@
                                 }
                                 th{
                                   color:white;
+                                  font-size:15px;
                                 }
                             </style>
                             <tr class="align-top">
                               <th rowspan="2">Model</th>
                               <th colspan="2">Power</th>
-                              <th rowspan="2" >Max. Flow m <sup>3 </sup> / h</th>
-                              <th rowspan="2" >Max. Head(m)</th>
-                              <th rowspan="2">Max. Suction(m)</th>
+                              <th rowspan="2" >Max.Flow m <sup>3 </sup> / h</th>
+                              <th rowspan="2" >Max.Head(m)</th>
+                              <th rowspan="2">Max.Suction(m)</th>
                               <th rowspan="7">Capacity (m <sup>3 </sup>/h)</th>
-                              <th rowspan="2">0.4 m <sup>3 </sup> /h</th>
+                              <th rowspan="2">0.4 m<sup>3 </sup>/ h</th>
                               <th rowspan="2">1.2 m <sup>3 </sup> /h</th>
-                              <th rowspan="2">	2 m <sup>3 </sup>/h</th>
-                              <th rowspan="2">	2.8 m <sup>3 </sup>/h</th>
-                              <th rowspan="2">	3.6 m <sup>3 </sup>/h</th>
-                              <th rowspan="2">	4.4 m <sup>3 </sup>/h</th>
-
+                              <th rowspan="2">2 m <sup>3 </sup>/h</th>
+                              <th rowspan="2">2.8 m <sup>3 </sup>/h</th>
+                              <th rowspan="2">3.6 m <sup>3 </sup>/h</th>
+                              <th rowspan="2">4.4 m <sup>3 </sup>/h</th>
                             </tr>
                             <tr class="align-top">
                               <th >KW</th>
@@ -135,75 +148,75 @@
                           </thead>
                           <tbody>
                             <tr>
-                              <td>SGT32-160/1.5</td>
-                              <td>1.5</td>
-                              <td>2</td>
-                              <td>21</td>
-                              <td>21</td>
+                              <td>GKS37-0.37</td>
+                              <td>0.25</td>
+                              <td>0.37</td>
+                              <td>3.2</td>
+                              <td>28</td>
                               <td>8</td>
                               <td rowspan="5">Head (m)</td>
-                              <td>21</td>
-                              <td>21</td>
-                              <td>8</td>
-                              <td>21</td>
-                              <td>21</td>
-                              <td>8</td>
+                              <td>25</td>
+                              <td>19</td>
+                              <td>13</td>
+                              <td>7</td>
+                              <td>-</td>
+                              <td>-</td>
                             </tr>
                             <tr>
-                              <td>SGT32-160/2.2</td>
-                              <td>2.2</td>
-                              <td>3</td>
-                              <td>21</td>
-                              <td>28</td>
+                              <td>GKS50-0.50</td>
+                              <td>0.37</td>
+                              <td>0.5</td>
+                              <td>3.6</td>
+                              <td>32</td>
                               <td>8</td>
-                              <td>3</td>
-                              <td>21</td>
                               <td>28</td>
-                              <td>21</td>
-                              <td>21</td>
-                              <td>8</td>
+                              <td>22</td>
+                              <td>17</td>
+                              <td>11</td>
+                              <td>-</td>
+                              <td>-</td>
                             </tr>
                             <tr>
-                              <td>SGT32-160/3</td>
-                              <td>3</td>
-                              <td>4</td>
-                              <td>21</td>
+                              <td>GKS75-0.75</td>
+                              <td>0.55</td>
+                              <td>0.75</td>
+                              <td>4.2</td>
                               <td>35</td>
-                              <td>8</td>
-                              <td>3</td>
-                              <td>21</td>
-                              <td>28</td>
-                              <td>21</td>
-                              <td>21</td>
-                              <td>8</td>
+                              <td>9</td>
+                              <td>32</td>
+                              <td>27</td>
+                              <td>22</td>
+                              <td>16</td>
+                              <td>12</td>
+                              <td>-</td>
                             </tr>
                             <tr>
-                              <td>SGT32-200/4</td>
-                              <td>4</td>
-                              <td>5.5</td>
-                              <td>21</td>
-                              <td>45</td>
-                              <td>8</td>
-                              <td>3</td>
-                              <td>21</td>
+                              <td>GKS100-1</td>
+                              <td>0.75</td>
+                              <td>1</td>
+                              <td>5.1</td>
+                              <td>40</td>
+                              <td>9</td>
+                              <td>37</td>
+                              <td>33</td>
                               <td>28</td>
-                              <td>21</td>
-                              <td>21</td>
-                              <td>8</td>
+                              <td>23</td>
+                              <td>18</td>
+                              <td>13</td>
                             </tr>
                             <tr>
-                              <td>GK 25/160 A</td>
-                              <td>2.2</td>
-                              <td>3</td>
-                              <td>57</td>
-                              <td>54</td>
-                              <td>52</td>
-                              <td>3</td>
-                              <td>21</td>
+                              <td>GKS110-1.1</td>
+                              <td>1.1</td>
+                              <td>1.5</td>
+                              <td>6</td>
+                              <td>48</td>
+                              <td>9</td>
+                              <td>46</td>
+                              <td>42</td>
+                              <td>37</td>
+                              <td>32</td>
                               <td>28</td>
-                              <td>21</td>
-                              <td>21</td>
-                              <td>8</td>
+                              <td>23</td>
                             </tr>
                           </tbody>
                         </table>
