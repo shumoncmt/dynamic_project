@@ -267,7 +267,7 @@
         </div>
      
     
-    <div class="row ">
+     <div class="row ">
             <h2 style="margin-bottom:10px; margin-top:25px">Related Product</h2> 
             <div class="row">
               <div class="col-md-3 col-sm-8 service-info">
@@ -330,7 +330,7 @@
               </div>
             </div>
           </div>
-        </div>
+    </div>
   </section>
 
 
