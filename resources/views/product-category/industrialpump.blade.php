@@ -31,21 +31,21 @@
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('SgtCentrifugalPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('SgtCentrifugalPump')}}>
                 <h4>SGT Centrifugal Pump</h4></a>
-              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p style="text-align:justify" >Discover the efficiency and reliability of SGT Centrifugal Pumps for all your industrial needs. High performance, low maintenance - the pump solution you can trust!</p>
               <h6><a href={{Route('SgtCentrifugalPump')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('gkdynamiccentrifugalpump')}} class="post-image view image_hover"><img src= "{{ asset('img/catagory/High-Efficiency-Centrifugal-Pump-2GKS.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('gkdynamiccentrifugalpump')}}>
                 <h4>2GK Dynamic Centrifugal Pump</h4></a>
-              <p style="text-align:justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p style="text-align:justify">Discover the efficiency of the 2GK Dynamic Centrifugal Pump—delivering top performance and reliability for all industrial needs. Learn more today!</p>
               <h6><a href={{Route('gkdynamiccentrifugalpump')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('gksseriescentrifugalpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/catagory/GKS-Series-Centrifugal-Pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('gksseriescentrifugalpump')}}>
                 <h4>GKS SERIES CENTRIFUGAL PUMP</h4></a>
-              <p style="text-align:justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p style="text-align:justify">Discover the reliability and efficiency of GKS Series Centrifugal Pumps, engineered for optimal performance in diverse industrial applications.</p>
               <h6><a href={{Route('gksseriescentrifugalpump')}}>Read more</a></h6>
             </div>
           </div>
@@ -54,22 +54,22 @@
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('DpSeriesDynamicPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/Dynamic-Vertical-multistage-pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DpSeriesDynamicPump')}}>
                 <h4>DP Series Dynamic Pump</h4></a>
-              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p style="text-align:justify" >Discover the DP Series Dynamic Pump: Efficient, reliable, and powerful solutions for all your fluid handling needs. Enhance performance with our cutting-edge technology.</p>
               <h6><a href={{Route('DpSeriesDynamicPump')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('DplSeriesDynamicPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/DPL-Dynamic-Pump.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DplSeriesDynamicPump')}}>
                 <h4>DPL Series Dynamic Pump</h4></a>
-              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+              <p style="text-align:justify" >Explore the DPL Series Dynamic Pump! Boost efficiency with cutting-edge technology, durability, and performance. Discover the perfect pump solution today!</p>
               <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/Dynamic-Submersible-pump-3-STM1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Dynamic Submersible pump-3″STM1</h4></a>
-              <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-              <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
+            <div class="item"><a href="#" class="post-image view image_hover">			<img src="{{ asset('img/catagory/Dynamic-Submersible-pump-3-STM1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href="#">
+                <h4>Dynamic Submersible Pump</h4></a>
+              <p style="text-align:justify" >Discover the power of Dynamic Submersible Pumps - efficient, reliable, and designed for deep water solutions. Boost your water management today!</p>
+              <h6><a href="#">Read more</a></h6>
             </div>
           </div>
         </div>
