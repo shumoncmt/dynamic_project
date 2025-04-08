@@ -76,7 +76,7 @@
  <!-- Navbar & Hero Start -->
     <div class="container-fluid sticky-top px-0 ">
             <nav class="navbar navbar-expand-lg navbar-dark bg-nev py-3 px-4">
-                <a href="index.html" class="navbar-brand p-0">
+                <a href={{Route('home')}} class="navbar-brand p-0">
                     <!-- <h1 class="text-secondary display-6"><i class="fas fa-city text-primary me-3"></i></h1> -->
                     <img src="{{ asset('img/logo/f-logo2.png')}}" alt="Logo"> 
                 </a>

@@ -54,37 +54,87 @@
        
     <div class="container my-5">
       <div class="additional-details my-5 ">
-       <h3>Product Details</h3>
-            <!-- Nav pills -->
-            <ul class="nav nav-tabs justify-content-left">
-                <li class="nav-tabs">
-                    <a class="nav-link active" data-toggle="tab" data-bs-toggle="tab" href="#home"> Specification </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link " data-toggle="tab" data-bs-toggle="tab" href="#menu1">Model</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" data-bs-toggle="tab" href="#menu2">Reviews </a>
-                </li>
-            </ul>
-            <!-- Tab panes -->
-            <div class="tab-content mt-4 mb-3">
-                <div class="tab-pane container active" id="home">
-                    <div class="description">
- 
-                      </div>
-                    </div>
-                </div>
-                </div>
-              </div>
-                <div class="tab-pane container fade" id="menu2">
-                    <div class="specification">
-                      <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-  <div class="container">
+        <h2>Product Details</h2>
+             <!-- Nav pills -->
+             <ul class="nav nav-tabs justify-content-left">
+                 <li class="nav-tabs">
+                     <a class="nav-link active" data-toggle="tab" data-bs-toggle="tab" href="#home"> Specification </a>
+                 </li>
+                 <li class="nav-item">
+                     <a class="nav-link" data-toggle="tab" data-bs-toggle="tab" href="#menu1">Graph</a>
+                 </li>
+                 <li class="nav-item">
+                     <a class="nav-link" data-toggle="tab" data-bs-toggle="tab" href="#menu2">Reviews </a>
+                 </li>
+             </ul>
+             <!-- Tab panes -->
+             <div class="tab-content mt-4 mb-3">
+                 <div class="tab-pane container active" id="home">
+                     <div class="description">
+                       <div class="row">
+                         <p>3-phase asynchronous motors consist of two basic components, stator, and rotor. Stator is the fixed part of the motor. Stator has a stator core and field windings. In the stators of 3-phase asynchronous motors a separate winding for every 3 phases. Rotor is the rotating part of the motor. There is wind in the rotors of the slip-ring asynchronous motors, and short-circuited bars in the rotor of the squirrel-cage asynchronous motors. The asynchronous motor type generally used in industrial implementations is the squirrel-cage asynchronous motor. The industrial asynchronous motor product range of Volt Motor consists of squirrel-cage asynchronous motors.</p>
+                       <div class="col-md-6">
+                         <img class="img-fluid" src="{{ asset('img/product/motor/3-phase-motor.jpg')}}" alt="motor">
+                       </div>
+                       <div class="col-md-6 ">
+                         <img class="img-fluid" src="{{ asset('img/product/motor/single-phase-motor.jpg')}}" alt="motor">
+                       </div>
+                       <p>
+                        n asynchronous motors, the frequency of the rotating field created in the air gap and the rotation frequency of the rotor are not the same. These motors are called asynchronous for this reason. The frequency of the rotating field in the air gap depends on the motor’s feed frequency and the number of poles and does not change with the motor’s load, but the rotation frequency of the rotor varies according to the load. As the load increases in the motor operation area, the motor rotation speed decreases, and the motor rotation speed increases as the load decreases. The motor rotation speed is the highest in idle mode. The motor rotation speed of the asynchronous motor in the motor operation area cannot exceed the rotation speed of the rotating field. The rotation speed of the rotating field is calculated as follows:
+                       </p>
+                       <div class="col-md-6">
+                         <h2>N = 120 * F / P</h2>
+                       </div>
+                       <div class="col-md-6 ">
+                         <ul>
+                           <li>N: rotation speed of rotating field [rpm]</li>
+                           <li>f: feed frequency [Hz]</li>
+                           <li>P: number of poles of stator winding</li>
+                         </ul>
+                       </div>
+                       <p>
+                        As is seen here, the rotating field speed of a 2-pole motor will be 3000rpm and the rotating field speed of a 4-pole motor will be 1500rpm. The change in the rotation speed of the asynchronous motor at different loads can be seen in the torque-speed graph shown below.
+
+                        3-phase asynchronous motors;
+                        
+                        can be used directly by operating from the network (DOL). In this case, speed adjustment is not possible.
+                        can be used by feeding with a variable speed driver (VFD) for speed control and are suitable for both scaler and vectorial control.
+                        The same motor can be used in both 50Hz and 60Hz networks.
+                        are suitable for Star/Triangle start-up or soft starter usage for limitation of start-up current.
+                        </p>
+                     </div>
+                     </div>
+                 </div>
+                 <div class="tab-pane container fade" id="menu1">
+                     <div class="review">
+                       <div class="row">
+                         <div class="col-md-6">
+                           <img class="img-fluid" src="{{ asset('img/product/motor/3-phase-asynchronous-graph.jpg')}}" alt="motor">
+                           <p>Figure 1: Example of Torque-Speed Graph of 1-Phase Asynchronous Motor with Dual Capacitor</p>
+                         </div>
+                         <div class="col-md-6 ">
+                           
+                         </div>
+                      
+                       <div class="col-md-6">
+                         <button type="button" class="btn btn-primary"> All Product</button>
+                       </div>
+                       <div class="col-md-6 ">
+                        
+                       </div>
+                     </div>
+   
+                         
+                     </div>
+                 </div>
+                 <div class="tab-pane container fade" id="menu2">
+                     <div class="specification">
+                       <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
+                     </div>
+                 </div>
+             </div>
+         </div>
+      <div class="container">
     <div class="row ">
             <h2 style="margin-bottom:10px; margin-top:25px">Related Product</h2> 
             <div class="row">
