@@ -122,6 +122,11 @@ Route::get('/product/flocculants', [SiteController::class, 'Flocculants'])->name
 Route::get('/product/ro-antiscalant', [SiteController::class, 'RoAntiscalant'])->name('RoAntiscalant');
 
 
+//Membrane Product start
+Route::get('/product/microdyn-reverse-osmosis-membrane', [SiteController::class, 'microdynereverseosmosismembrane'])->name('microdynereverseosmosismembrane');
+Route::get('/product/membranium-reverse-osmosis-membrane', [SiteController::class, 'membraniumreverseosmosismembrane'])->name('membraniumreverseosmosismembrane');
+Route::get('/product/hydranautics-ro-membranes', [SiteController::class, 'hydramembraneros'])->name('hydramembraneros');
 
 
 //Single Product End
+

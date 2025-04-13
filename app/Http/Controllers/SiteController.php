@@ -228,6 +228,16 @@ function RoAntiscalant(){
     return view('product.Water-treatment-chemicals-media.Antiscalant.Ro-Antiscalant');
 }
 
+function microdynereverseosmosismembrane(){
+    return view('product.membrane.microdyn-reverse-osmosis-membrane');
+}
+function membraniumreverseosmosismembrane(){
+    return view('product.membrane.membranium-reverse-osmosis-membrane');
+}
+function hydramembraneros(){
+    return view('product.membrane.hydranautics-ro-membranes');
+}
+
 //Single Product End
 
 
