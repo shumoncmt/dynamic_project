@@ -30,23 +30,23 @@
     <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Dynamic Motor</h4></a>
-              <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
+            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/membrane/8inch-water-spiral-module.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
+                <h4>Microdyn Reverse Osmosis Membrane</h4></a>
+              <p style="text-align:justify" >Reverse osmosis(RO) is a membrane filtration technology that effectively removes ions such as sodium and chloride,  as well organic molecules, including pesticides and herbicides.</p>
               <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                <h4>Dynamic RO Membrane</h4></a>
-              <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
+            <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/membrane/membranium-ro-membrane.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
+                <h4>MEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</h4></a>
+              <p style="text-align:justify">TMEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</p>
               <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/Dynamic-pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
-                <h4>Dynamic Pump</h4></a>
-              <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
+            <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/membrane/hydranautic-ro-membrane.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
+                <h4>HYDRANAUTICS RO MEMBRANES</h4></a>
+              <p style="text-align:justify">HYDRANAUTICS RO MEMBRANES</p>
               <h6><a href={{Route('industrialpump')}}>Read more</a></h6>
             </div>
           </div>
