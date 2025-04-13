@@ -477,8 +477,8 @@
                     <h2 class="hs"> <span class="underline ">Our Concerns </span>  </h2>
              </div>
                 <div class="row g-4">
-                    <div class="col-lg-1 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.2s">
-        
+                    <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.2s">
+                        <img src="img/logo/greengenesisbd.png" alt="">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.2s">
                     <img src="https://greengenesisbd.com/wp-content/uploads/2023/07/Logo-for-Concern-Website-02-300x104.png" alt="">
@@ -489,9 +489,7 @@
                     <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.6s">
                         <img src="https://greengenesisbd.com/wp-content/uploads/2023/07/Logo-for-Concern-Website-01-300x93.png" alt="">
                     </div>
-                    <div class="col-lg-1 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp" data-wow-delay="0.6s">
-                   
-                    </div>
+                    
                     </div>
 
                 </div>
