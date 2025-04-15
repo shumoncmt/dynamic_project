@@ -36,14 +36,13 @@
                 
                   <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                   <p></p>
-                  <h5>Application Limits</h5>
+                  <h5>Key Advantages</h5>
                   <ul>
-                    <li>Suction head up to 8m</li>
-                    <li>Liquid temperature up to +40℃</li>
-                    <li>Ambient temperature up to +40℃</li>
-                    <li>Max. Working pressure: 5bar</li>
-                    <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                    <li>pH: 6.5 to 8.5</li>
+                    <li>Effective removal of dissolved solids</li>
+                    <li>Versatile: suitable for verious applications</li>
+                    <li>High-quality water production</li>
+                    <li>Cost-effective technology when compared to thermal processes</li>
+
                   </ul>
                   <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
       
@@ -72,37 +71,378 @@
                       <div class="description">
                         <div class="row">
                           <div class="col-md-6">
-                            <h6>Applications Fields</h6>
-                            <li>Suitable for transferring water without abrasive particles or other liquid whose properties are similar to water.</li>
-                            <li>Widely used in garden irrigation, vegetable greenhouse water supply, breeding industry water supply and drainage, various corollary equipment, etc.</li>
-                            <p> </p>
-                            <h6>Feature</h6>
-                            <li>Double impeller centrifugal pump, satisfies the requirement of high head.</li>
-                            <li>Compact structure</li>
-                            <p> </p>
-                            <h6>Performance Range</h6>
-                              <li>Max. Flow: 12m3/h </li>
-                              <li>Max. Head: 50m </li>
+                            <h6>Reverse Osmosis Filtration</h6>
+                            <p>Reverse osmosis(RO) is a membrane filtration technology that effectively removes ions such as sodium and chloride,  as well organic molecules, including pesticides and herbicides. RO is widely used in various applications, including water and wastewater treatment, food and beverage processing, and pharmaceutical manufacturing.</p>
+                            <h6>High Rejection Brackish Water RO Elements</h6>
+                            <p>Our high rejection brackish water reverse osmosis (BWRO) elements are manufactured using thin-film composite polyamide technology. The enements are certified to NSF/ANSI Standard 61/ and Halal, making them suitable for both Insustrial and drinking water applications. They are available is 2.5″, 4″ and 8″ sizes, as well as various other configurations to meet diverse needs.</p>
+
+                            <h6>APPLICATIONS:</h6>
+                              <li> Municipal drinking water</li>
+                              <li>Semiconductor industry</li>
+                              <li>Pharma</li>
+                              <li>Food and Beverage</li>
+                              <li>Boiler feed water</li>
                               <p> </p>
-                              <h6>Motor</h6>
-                              <li>Single-Phase 220V/50Hz</li>
+                              <h6>Product Offerings</h6>
+                              <li>MICRODYN BW</li>
                               <li>Three-Phase 380V/50Hz</li>
-                              <li>Mechanical seal: Ceramic / Graphite / NBR rubber</li>
-                              <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector, fully closed fan cooling, continuous running</li>
-                              <li>Insulation: Class B </li>
                               <p> </p>
-                              <h6>Optional Available on Request</h6>
-                              <li>NSK bearing</li>
-                              <li>Motor whose insulation class is F</li>
+                              <h6>low Energy Brackish Water RO Elements</h6>
+                              <p>Our low energy elements offer the perfect balance of low energy consumption and high rejection rates, making them ideal for both newly designed systems and retrofitted installations. These elements are available in 2.5″, 4″ and 8″ sizes, as well as various other configurations to meet specific application requirments.</p>
                           </div>
                           <div class="col-md-6 ">
-                            <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
+                            <h6>APPLICATIONS:</h6>
+                            <li>Ground and surface water treatment</li>
+                              <li>High-Purity industrial applications</li>
+                              <li>Municipal wastewater reclamation</li>
+                              <p></p>
+                              <h6>PRODUCT OFFERINGS:</h6>
+                              <li>MICRODYN XLE</li>
+                              <li>MICRODYN HRLE</li>
+                              <li>MICRODYN XRLE</li>
+                              <li>Oltremare LOW1</li>
+                              <li>Oltremare LOW3</li>
+                              <li>Oltremare LOW4</li>
+                              <li>Oltremare LOW7</li>
+                              <p></p>
+                            <h6> Fouling Resistant Membrans</h6>
+                             <p>MANN+HUMMEL’s fouling resistant membranes are specifically designed for water reuse applications with high fouling potential, such as tertiary effluent treatment. These membranes are also ideal for treating surface water with high organic content or industrial wastewater. The modules are available in 2.5″, 4″ and 8″ sizes, as well as other configurations, they offer flexibility for divers operational needs.</p>
+                            <p> </p>
                           </div>
                         </div>
                       </div>
                   </div>
                   <div class="tab-pane container fade" id="menu1">
                       <div class="review">
+                        <h4 class="text-center">Standard 8" and 4" Model Offering</h4>
+                        <p class="text-center">(*additional size and custom-made element are available)</p>
+                        <div class="table-responsive">
+                          <table class="table table-bordered border-primary">
+                            <thead>
+                              <tr class="align-top">
+                            <th rowspan="2">Product</th>
+                            <th rowspan="2">Nominal Rejection</th>
+                            <th rowspan="2">Minimum Rejection</th>
+                            <th rowspan="2">Area m<sup>2</sup>(ft2)</th>
+                            <th rowspan="2">Flow m<sup>3/d</sup> (gpd)</th>
+                            </tr>
+  
+                            </thead>     
+                            <tbody>
+                             <tr class="align-top">
+                                <th colspan="5"><b>LOW ENERGY RO</b> </th>
+                                </tr>
+                            <td colspan="5"><b>BRACKISH WATER RO</b> </td>
+                                </tr>
+                                
+                            <tr>
+                              <td>MICRODYN 4040-ULE</td>
+                              <td>98.8%</td>
+                              <td>98.0%</td>
+                              <td>7.9(85)</td>
+                              <td>11.4(3000)</td>
+                                </tr>
+                        
+                        
+                            <tr>
+                              <td>MICRODYN 8040-ULE-400</td>
+                              <td>98.8%</td>
+                              <td>98.0%</td>
+                              <td>37.2(400)</td>
+                              <td>53(14000)</td>
+                                </tr>
+                            
+                                <tr>
+                              <td>MICRODYN 8040-ULE-440</td>
+                              <td>98.8%</td>
+                              <td>98.0%</td>
+                              <td>40.9(440)</td>
+                              <td>57(15000)</td>
+                              
+                                </tr>
+                        
+                                <tr>
+                               <td>MICRODYN 8040-BW-365</td>
+                              <td>99.5%</td>
+                              <td>99.2%</td>
+                              <td>34(365)</td>
+                              <td>37.9(10000)</td>
+                            </tr>
+                              
+                                <tr>
+                               <td>MICRODYN 8040-BW-400</td>
+                              <td>99.5%</td>
+                              <td>99.2%</td>
+                              <td>37.2(400)</td>
+                              <td>41.6(11000)</td>
+                            </tr>
+                             <tr>
+                               <td>MICRODYN 8040-BW-400/34</td>
+                              <td>99.5%</td>
+                              <td>99.2%</td>
+                              <td>37.2(400)</td>
+                              <td>41.6(11000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-BW-440</td>
+                              <td>99.5%</td>
+                              <td>99.2%</td>
+                              <td>40.9(440)</td>
+                              <td>45.6(12000)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare FOUL1-4040</td>
+                              <td>99.4%</td>
+                              <td>99.0%</td>
+                              <td>7.9(85)</td>
+                              <td>7.6(2000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-FR-400</td>
+                              <td>99.5%</td>
+                              <td>99.0%</td>
+                              <td>37.2(400)</td>
+                              <td>40(10500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-FR-400/34</td>
+                              <td>99.5%</td>
+                              <td>99.0%</td>
+                              <td>37.2(400)</td>
+                              <td>40(10500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 4040-XLE</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>7.9(85)</td>
+                              <td>9.8(2600)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XLE-400</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>37.2(400)</td>
+                              <td>45.4(12000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XLE-440</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>40.9(440)</td>
+                              <td>50(13200)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 4040-XRLE</td>
+                              <td>99.65%</td>
+                              <td>99.40%</td>
+                              <td>7.9(85)</td>
+                              <td>7.2(1900)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XRLE-400</td>
+                              <td>99.65%</td>
+                              <td>99.40%</td>
+                              <td>37.2(400)</td>
+                              <td>35.9(9500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XRLE-400/34</td>
+                              <td>99.65%</td>
+                              <td>99.40%</td>
+                              <td>37.2(400)</td>
+                              <td>35.9(9500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XRLE-440</td>
+                              <td>99.65%</td>
+                              <td>99.40%</td>
+                              <td>40.9(440)</td>
+                              <td>39.7(10500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 4040-LE</td>
+                              <td>99.3%</td>
+                              <td>98.8%</td>
+                              <td>7.9(85)</td>
+                              <td>8.3(2200)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-LE-400</td>
+                              <td>99.3%</td>
+                              <td>98.8%</td>
+                              <td>37.2(400)</td>
+                              <td>40(10550)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-LE-400/34</td>
+                              <td>99.3%</td>
+                              <td>98.8%</td>
+                              <td>37.2(400)</td>
+                              <td>40(10550)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-LE-440</td>
+                              <td>99.3%</td>
+                              <td>98.8%</td>
+                              <td>40.9(440)</td>
+                              <td>4309(11550)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare LOW1-4040</td>
+                              <td>99.5%</td>
+                              <td>99.2%</td>
+                              <td>7.9(85)</td>
+                              <td>9.8(2600)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare LOW1-8040</td>
+                              <td>99.3%</td>
+                              <td>99.0%</td>
+                              <td>37.2(400)</td>
+                              <td>45.4(1200)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare LOW1G-8040</td>
+                              <td>99.3%</td>
+                              <td>99.0%</td>
+                              <td>37.2(400)</td>
+                              <td>45.4(1200)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare LOW14-8040</td>
+                              <td>99.3%</td>
+                              <td>99.0%</td>
+                              <td>40.9(440)</td>
+                              <td>50(13200)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 4040-HRLE</td>
+                              <td>99.5%</td>
+                              <td>99.3%</td>
+                              <td>7.9(85)</td>
+                              <td>7.9(2100)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-HRLE-400</td>
+                              <td>99.5%</td>
+                              <td>99.3%</td>
+                              <td>37.2(400)</td>
+                              <td>39.7(10500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-HRLE-400/34</td>
+                              <td>99.5%</td>
+                              <td>99.3%</td>
+                              <td>37.2(400)</td>
+                              <td>39.7(10500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-HRLE-440</td>
+                              <td>99.5%</td>
+                              <td>99.3%</td>
+                              <td>40.9(440)</td>
+                              <td>43.5(11500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 4040-XEL</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>7.9(85)</td>
+                              <td>9.8(2600)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XEL-400</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>37.2(400)</td>
+                              <td>45.4(12000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-XEL-440</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>40.9(440)</td>
+                              <td>50.0(13200)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare LOW7 4040</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>7.9(85)</td>
+                              <td>9.5(2500)</td>
+                            </tr>
+                            <tr>
+                               <td>Oltremare LOW7 4040XL</td>
+                              <td>99.2%</td>
+                              <td>99.0%</td>
+                              <td>9.8(105)</td>
+                              <td>11.7(3100)</td>
+                            </tr>
+                             <tr>
+                            <td colspan="5"><b>SEAWATER RO</b> </td>
+                                </tr>
+                                
+                            <tr>
+                               <td>MICRODYN 4040-SWL</td>
+                              <td>99.75%</td>
+                              <td>99.4%</td>
+                              <td>7.9(85)</td>
+                              <td>7.4(1950)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-SWL-400/34</td>
+                              <td>99.65%</td>
+                              <td>99.2%</td>
+                              <td>37.2(400)</td>
+                              <td>34.1(9000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-SWL-440</td>
+                              <td>99.65%</td>
+                              <td>99.2%</td>
+                              <td>40.9(440)</td>
+                              <td>37.5(9900)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-SWM-400/34</td>
+                              <td>99.75%</td>
+                              <td>99.65%</td>
+                              <td>37.2(400)</td>
+                              <td>28(7500)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-SWM-440</td>
+                              <td>99.75%</td>
+                              <td>99.65%</td>
+                              <td>40.9(440)</td>
+                              <td>30.2(8000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 4040-SWH</td>
+                              <td>99.8%</td>
+                              <td>99.6%</td>
+                              <td>7.9(85)</td>
+                              <td>6.4(1700)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-SWH-400/34</td>
+                              <td>99.8%</td>
+                              <td>99.7%</td>
+                              <td>37.2(400)</td>
+                              <td>22.7(6000)</td>
+                            </tr>
+                            <tr>
+                               <td>MICRODYN 8040-SWH-440</td>
+                              <td>99.8%</td>
+                              <td>99.7%</td>
+                              <td>40.9(440)</td>
+                              <td>25.0(6600)</td>
+                            </tr>
+                            </tbody>
+                          </table>
+                        </div>
+
                         <div class="table-responsive">
                           <table class="table table-bordered border-primary">
                             <thead>
@@ -118,74 +458,7 @@
                                     color:white;
                                   }
                               </style>
-                              <tr class="align-top">
-                                <th rowspan="2">Model</th>
-                                <th colspan="2">Power</th>
-                                <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
-                                <th rowspan="2" >2 m <sup>3 </sup> / h</th>
-                                <th rowspan="2" >3 m<sup>3 </sup> / h</th>
-                                <th rowspan="2">4 m<sup>3 </sup> / h</th>
-                                <th rowspan="2" >5 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2" >6 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2">10 m<sup>3 </sup>/ h</th>
-                              </tr>
-                              <tr class="align-top">
-                                <th >KW</th>
-                                <th >HP</th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td>GK 25/130</td>
-                                <td>0.75</td>
-                                <td>1</td>
-                                <td rowspan="4">Head (m)</td>
-                                <td>34</td>
-                                <td>28</td>
-                                <td>21</td>
-                                <td>12</td>
-                                <td>-</td>
-                                <td>-</td>
-                                <td>-</td>
-                              </tr>
-                              <tr>
-                                <td>GK25/140</td>
-                                <td>1.1</td>
-                                <td>1.5</td>
-                                <td>41</td>
-                                <td>36</td>
-                                <td>33</td>
-                                <td>30</td>
-                                <td>26</td>
-                                <td>15</td>
-                                <td>-</td>
-      
-                              </tr>
-                              <tr>
-                                <td>GK25/160 B</td>
-                                <td>1.5</td>
-                                <td>2</td>
-                                <td>47</td>
-                                <td>45</td>
-                                <td>43</td>
-                                <td>41</td>
-                                <td>36</td>
-                                <td>28</td>
-                                <td>16</td>
-                              </tr>
-                              <tr>
-                                <td>GK 25/160 A</td>
-                                <td>2.2</td>
-                                <td>3</td>
-                                <td>57</td>
-                                <td>54</td>
-                                <td>52</td>
-                                <td>49</td>
-                                <td>45</td>
-                                <td>36</td>
-                                <td>26</td>
-                              </tr>
+                              </thead>
                             </tbody>
                           </table>
                         </div>
