@@ -71,41 +71,11 @@
                   <div class="tab-pane container active" id="home">
                       <div class="description">
                         <div class="row">
-                          <div class="col-md-6">
-                            <h6>Applications Fields</h6>
-                            <li>Suitable for transferring water without abrasive particles or other liquid whose properties are similar to water.</li>
-                            <li>Widely used in garden irrigation, vegetable greenhouse water supply, breeding industry water supply and drainage, various corollary equipment, etc.</li>
-                            <p> </p>
-                            <h6>Feature</h6>
-                            <li>Double impeller centrifugal pump, satisfies the requirement of high head.</li>
-                            <li>Compact structure</li>
-                            <p> </p>
-                            <h6>Performance Range</h6>
-                              <li>Max. Flow: 12m3/h </li>
-                              <li>Max. Head: 50m </li>
-                              <p> </p>
-                              <h6>Motor</h6>
-                              <li>Single-Phase 220V/50Hz</li>
-                              <li>Three-Phase 380V/50Hz</li>
-                              <li>Mechanical seal: Ceramic / Graphite / NBR rubber</li>
-                              <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector, fully closed fan cooling, continuous running</li>
-                              <li>Insulation: Class B </li>
-                              <p> </p>
-                              <h6>Optional Available on Request</h6>
-                              <li>NSK bearing</li>
-                              <li>Motor whose insulation class is F</li>
-                          </div>
-                          <div class="col-md-6 ">
-                            <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
-                          </div>
-                        </div>
-                      </div>
-                  </div>
-                  <div class="tab-pane container fade" id="menu1">
-                      <div class="review">
-                        <div class="table-responsive">
+                          <h2>ESPA1 Series Hydranautics RO Membrane Elements</h2>
+                          <p>High Productivity, energy saving reverse osmosis membranes.</p>
+                          <div class="table-responsive">
                           <table class="table table-bordered border-primary">
-                            <thead>
+                            <tbody>
                               <style> 
                                 td, th {
                                   text-align: center;
@@ -119,76 +89,156 @@
                                   }
                               </style>
                               <tr class="align-top">
-                                <th rowspan="2">Model</th>
-                                <th colspan="2">Power</th>
-                                <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
-                                <th rowspan="2" >2 m <sup>3 </sup> / h</th>
-                                <th rowspan="2" >3 m<sup>3 </sup> / h</th>
-                                <th rowspan="2">4 m<sup>3 </sup> / h</th>
-                                <th rowspan="2" >5 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2" >6 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2">10 m<sup>3 </sup>/ h</th>
+                                <th rowspan="2">Model No.</th>
+                                <th rowspan="2">Size<br>(Dia.”× Length”)</th>
+                                <th colspan="2">Flow Rate</th>
+                                <th rowspan="2">Test Pressure (psi)</th>
+                                <th rowspan="2">Nominal Salt Rejection (%)</th>
+                                <th rowspan="2">Minimum Salt Rejection (%)</th>
                               </tr>
-                              <tr class="align-top">
-                                <th >KW</th>
-                                <th >HP</th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td>GK 25/130</td>
-                                <td>0.75</td>
-                                <td>1</td>
-                                <td rowspan="4">Head (m)</td>
-                                <td>34</td>
-                                <td>28</td>
-                                <td>21</td>
-                                <td>12</td>
-                                <td>-</td>
-                                <td>-</td>
-                                <td>-</td>
+                              <tr class="align-top" >
+                                <th>gpd</th>
+                                <th>m³/d</th>
                               </tr>
                               <tr>
-                                <td>GK25/140</td>
-                                <td>1.1</td>
-                                <td>1.5</td>
-                                <td>41</td>
-                                <td>36</td>
-                                <td>33</td>
-                                <td>30</td>
-                                <td>26</td>
-                                <td>15</td>
-                                <td>-</td>
-      
+                                <td><strong>ESPA-2514</strong></td>
+                                <td>2.5” × 14”</td>
+                                <td>250</td>
+                                <td>0.9</td>
+                                <td>150</td>
+                                <td>99.4</td>
+                                <td>98.0</td>
                               </tr>
                               <tr>
-                                <td>GK25/160 B</td>
-                                <td>1.5</td>
-                                <td>2</td>
-                                <td>47</td>
-                                <td>45</td>
-                                <td>43</td>
-                                <td>41</td>
-                                <td>36</td>
-                                <td>28</td>
-                                <td>16</td>
+                                <td><strong>ESPA-2521</strong></td>
+                                <td>2.5” × 21”</td>
+                                <td>350</td>
+                                <td>1.3</td>
+                                <td>150</td>
+                                <td>99.4</td>
+                                <td>98.0</td>
                               </tr>
                               <tr>
-                                <td>GK 25/160 A</td>
-                                <td>2.2</td>
-                                <td>3</td>
-                                <td>57</td>
-                                <td>54</td>
-                                <td>52</td>
-                                <td>49</td>
-                                <td>45</td>
-                                <td>36</td>
-                                <td>26</td>
+                                <td><strong>ESPA-2540</strong></td>
+                                <td>2.5” × 40”</td>
+                                <td>750</td>
+                                <td>2.8</td>
+                                <td>150</td>
+                                <td>99.4</td>
+                                <td>98.0</td>
+                              </tr>
+                              <tr>
+                                <td><strong>ESPA-4014</strong></td>
+                                <td>4” × 14”</td>
+                                <td>500</td>
+                                <td>1.9</td>
+                                <td>150</td>
+                                <td>99.4</td>
+                                <td>98.0</td>
+                              </tr>
+                              <tr>
+                                <td><strong>ESPA-4021</strong></td>
+                                <td>4” × 21”</td>
+                                <td>1,000</td>
+                                <td>3.8</td>
+                                <td>150</td>
+                                <td>99.4</td>
+                                <td>98.0</td>
+                              </tr>
+                              <tr>
+                                <td><strong>ESPA1-LD-4040</strong></td>
+                                <td>4” × 40”</td>
+                                <td>2,450</td>
+                                <td>9.27</td>
+                                <td>150</td>
+                                <td>99.4</td>
+                                <td>99.2</td>
+                              </tr>
+                              <tr>
+                                <td><strong>ESPA1</strong></td>
+                                <td>8” × 40”</td>
+                                <td>12,000</td>
+                                <td>45.4</td>
+                                <td>150</td>
+                                <td>99.3</td>
+                                <td>99.0</td>
                               </tr>
                             </tbody>
                           </table>
+                          <h2>ESPA2 Series Hydranautics RO Membrane Elements</h2>
+                          <p>ESPA2 product family offers new technology for higher productivity and rejection; minimizes bio-fouling & colloidal fouling and features and enhanced cleanability.  The ESPA2 MAX features increased surface area for higher permeate production.</p>
+                          <div class="table-responsive">
+                            <table class="table table-bordered border-primary">
+                              <tbody>
+                                <tr class="align-top">
+                                  <th rowspan="2">Model No.</th>
+                                  <th rowspan="2">Size<br>(Dia.”× Length”)</th>
+                                  <th colspan="2">Flow Rate</th>
+                                  <th rowspan="2">Test Pressure (psi)</th>
+                                  <th rowspan="2">Nominal Salt Rejection (%)</th>
+                                  <th rowspan="2">Minimum Salt Rejection (%)</th>
+                                </tr>
+                                <tr class="align-top">
+                                  <th>gpd</th>
+                                  <th>m³/d</th>
+                                </tr>
+                                <tr>
+                                  <td><strong>ESPA2-4040</strong></td>
+                                  <td>4” × 40”</td>
+                                  <td>1,900</td>
+                                  <td>7.2</td>
+                                  <td>150</td>
+                                  <td>99.6</td>
+                                  <td>99.4</td>
+                                </tr>
+                                <tr>
+                                  <td><strong>ESPA2-LD-4040</strong></td>
+                                  <td>4” × 40”</td>
+                                  <td>2,000</td>
+                                  <td>7.6</td>
+                                  <td>150</td>
+                                  <td>99.6</td>
+                                  <td>99.4</td>
+                                </tr>
+                                <tr>
+                                  <td><strong>ESPA2</strong></td>
+                                  <td>8” × 40”</td>
+                                  <td>9,000</td>
+                                  <td>34.1</td>
+                                  <td>150</td>
+                                  <td>99.6</td>
+                                  <td>99.5</td>
+                                </tr>
+                                <tr>
+                                  <td><strong>ESPA2-LD</strong></td>
+                                  <td>8” × 40”</td>
+                                  <td>10,000</td>
+                                  <td>37.9</td>
+                                  <td>150</td>
+                                  <td>99.6</td>
+                                  <td>99.5</td>
+                                </tr>
+                                <tr>
+                                  <td><strong>ESPA2MAX</strong></td>
+                                  <td>8” × 40”</td>
+                                  <td>12,000</td>
+                                  <td>45.4</td>
+                                  <td>150</td>
+                                  <td>99.6</td>
+                                  <td>99.5</td>
+                                </tr>
+                              </tbody>
+                            </table>
+
+                            
+
+                          </div>
                         </div>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="tab-pane container fade" id="menu1">
+                      <div class="review">
                       </div>
                   </div>
                   <div class="tab-pane container fade" id="menu2">

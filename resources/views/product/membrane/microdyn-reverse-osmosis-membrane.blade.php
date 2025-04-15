@@ -442,6 +442,49 @@
                             </tbody>
                           </table>
                         </div>
+                        <h3>Microdyn RO Specification</h3>
+                        <div class="row">
+                          <div class="col-md-6">
+                            <button type="button" style="margin:10px;">
+                              <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/MICRODYN-BW-RO-MEMBRANE.pdf" target="_blank">Microdyn BW RO Membrane <i class="fa fa-download"></i> </a>
+                            </button>
+                            <button type="button" style="margin:10px;" >
+                              <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Low-Energy-BW-RO-Membrane.pdf" target="_blank">Microdyn Low Energy BW RO Membrane <i class="fa fa-download"></i> </a>
+                              </button>
+                              <button type="button" style="margin:10px;">
+                                <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Lowest-Energy-BW-RO-Membrane.pdf" target="_blank">Microdyn Lowest Energy BW RO Membrane <i class="fa fa-download"></i> </a>
+                                </button>
+                              <button type="button" style="margin:10px;">
+                                <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-High-Rejection-Sea-Water-RO-Membrane.pdf" target="_blank">Microdyn High Rejection Sea Water RO Membrane <i class="fa fa-download"></i> </a> 
+                                </button>
+                              <button type="button" style="margin:10px;">
+                                  <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-High-Productivity-Sea-Water-RO-Membrane.pdf" target="_blank">Microdyn High Productivity Sea Water RO Membrane <i class="fa fa-download"></i> </a> 
+                              </button>
+                              <button type="button" style="margin:10px;">
+                                <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Troubleshooting-Compaction-and-Intrusion.pdf" target="_blank">Microdyn Troubleshooting Compaction and Intrusion <i class="fa fa-download"></i> </a>
+                                </button>
+                          </div>
+                          <div class="col-md-6">
+                            <button type="button"  style="margin:10px;">
+                              <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Membrane-Storage-Guideline.pdf" target="_blank">Microdyn Membrane Storage Guideline <i class="fa fa-download"></i> </a>
+                            </button>
+                            <button type="button" style="margin:10px;">
+                              <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Ultra-Low-Energy-BW-RO-Membrane.pdf" target="_blank">Microdyn Ultra Low Energy BW RO Membrane  <i class="fa fa-download"></i> </a> 
+                              </button>
+                              <button type="button" style="margin:10px;">
+                                <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Fouling-Resistant-BW-RO-Membrane.pdf" target="_blank">Microdyn Fouling Resistant BW RO Membrane <i class="fa fa-download"></i> </a>
+                               </button>
+                              <button type="button" style="margin:10px;">
+                                <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-High-Rejection-Low-Energy-BW-RO-Membrane.pdf" target="_blank">Microdyn High Rejection Low Energy BW RO Membrane <i class="fa fa-download"></i> </a>
+                               </button>
+                              <button type="button" style="margin:10px;">
+                                  <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Microdyn-Highest-Rejection-Low-Energy-BW-RO-Membrane.pdf" target="_blank">Microdyn Highest Rejection Low Energy BW RO Membrane  <i class="fa fa-download"></i> </a> 
+                              </button>
+
+
+                        </div>
+
+
 
                         <div class="table-responsive">
                           <table class="table table-bordered border-primary">

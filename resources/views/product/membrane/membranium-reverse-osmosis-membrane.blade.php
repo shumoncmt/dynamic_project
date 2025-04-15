@@ -33,17 +33,10 @@
               </div>
               <div class="col-md-6 col-sm-8" style="margin-top: 20px; margin-left:15px">
                   <h3>MEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</h3>
-                
                   <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                   <p></p>
                   <h5>Application Limits</h5>
                   <ul>
-                    <li>Suction head up to 8m</li>
-                    <li>Liquid temperature up to +40℃</li>
-                    <li>Ambient temperature up to +40℃</li>
-                    <li>Max. Working pressure: 5bar</li>
-                    <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                    <li>pH: 6.5 to 8.5</li>
                   </ul>
                   <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
       
@@ -71,124 +64,178 @@
                   <div class="tab-pane container active" id="home">
                       <div class="description">
                         <div class="row">
-                          <div class="col-md-6">
-                            <h6>Applications Fields</h6>
-                            <li>Suitable for transferring water without abrasive particles or other liquid whose properties are similar to water.</li>
-                            <li>Widely used in garden irrigation, vegetable greenhouse water supply, breeding industry water supply and drainage, various corollary equipment, etc.</li>
-                            <p> </p>
-                            <h6>Feature</h6>
-                            <li>Double impeller centrifugal pump, satisfies the requirement of high head.</li>
-                            <li>Compact structure</li>
-                            <p> </p>
-                            <h6>Performance Range</h6>
-                              <li>Max. Flow: 12m3/h </li>
-                              <li>Max. Head: 50m </li>
-                              <p> </p>
-                              <h6>Motor</h6>
-                              <li>Single-Phase 220V/50Hz</li>
-                              <li>Three-Phase 380V/50Hz</li>
-                              <li>Mechanical seal: Ceramic / Graphite / NBR rubber</li>
-                              <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector, fully closed fan cooling, continuous running</li>
-                              <li>Insulation: Class B </li>
-                              <p> </p>
-                              <h6>Optional Available on Request</h6>
-                              <li>NSK bearing</li>
-                              <li>Motor whose insulation class is F</li>
-                          </div>
-                          <div class="col-md-6 ">
-                            <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
-                          </div>
+                          
+                            <style> 
+                              td, th {
+                                text-align: center;
+                                color:black;
+                                }
+                                .align-top{
+                                  background-color:#175145;
+                                }
+                                th{
+                                  color:white;
+                                }
+                            </style>
+                            <div class="table-responsive">
+                              <table class="table table-bordered border-primary">
+                              <tbody>
+                              <tr class="align-top">
+                              <th width="78">Categories</th>
+                              <th width="70">Type</th>
+                              <th width="95">Membranium</th>
+                              <th width="88">Dow Filmtec</th>
+                              <th width="93">Hydranautics</th>
+                              <th width="68">Toray</th>
+                              <th width="81">Desal/Suez</th>
+                              <th width="65">CSM</th>
+                              </tr>
+                              <tr>
+                              <td rowspan="8" width="78"><strong>Sea Water</strong></td>
+                              <td rowspan="4" width="70"><strong>High rejection elements</strong></td>
+                              <td width="95">nanoRO KM 8040-CM</td>
+                              <td width="88">SW30HRLE-440i</td>
+                              <td width="93"></td>
+                              <td width="68">ТМ820E-400</td>
+                              <td width="81">AD-440</td>
+                              <td width="65">RE8040-SHA440</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KM 8040-CM2</td>
+                              <td width="88">SW30HRLE-400</td>
+                              <td width="93">SWC4 MAX</td>
+                              <td width="68">ТМ820E-400</td>
+                              <td width="81"></td>
+                              <td width="65">RE8040-SHA400</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KM 8040-CM3</td>
+                              <td width="88">SW30HRLE-370/34i</td>
+                              <td width="93">SWC4-LD</td>
+                              <td width="68">ТМ820Е-400</td>
+                              <td width="81">AD-400,34</td>
+                              <td width="65">RE8040-SHA</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KM 4040-CM</td>
+                              <td width="88">SW30HR LE-4040</td>
+                              <td width="93">SWC5-LD-4040</td>
+                              <td width="68">TM810V</td>
+                              <td width="81">AD-90</td>
+                              <td width="65">RE4040-SHA</td>
+                              </tr>
+                              <tr>
+                              <td rowspan="4" width="70"><strong>Standart elements</strong></td>
+                              <td width="95">nanoRO KM 8040-C</td>
+                              <td width="88">SW30XLE-440i</td>
+                              <td width="93"></td>
+                              <td width="68"></td>
+                              <td width="81">AE-440</td>
+                              <td width="65">RE8040-SHF440</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KM 8040-C2</td>
+                              <td width="88">SW30XLE-400i</td>
+                              <td width="93"></td>
+                              <td width="68">TM820F-400</td>
+                              <td width="81"></td>
+                              <td width="65">RE8040-SHF400</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KM 8040-C3</td>
+                              <td width="88"></td>
+                              <td width="93"></td>
+                              <td width="68">TM820F-370</td>
+                              <td width="81">AE-440, 34</td>
+                              <td width="65">RE8040-SHF</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KM 4040-C</td>
+                              <td width="88">SW30-4040</td>
+                              <td width="93">SWC6-4040</td>
+                              <td width="68">TM810F</td>
+                              <td width="81"></td>
+                              <td width="65">RE4040-SHF</td>
+                              </tr>
+                              <tr>
+                              <td rowspan="8" width="78"><strong>Brackish water</strong></td>
+                              <td rowspan="4" width="70"><strong>High rejection elements</strong></td>
+                              <td width="95">nanoRO KC 8040-C</td>
+                              <td width="88">BW30HR-440</td>
+                              <td width="93">CPA3</td>
+                              <td width="68">TM720-440</td>
+                              <td width="81">AG-440</td>
+                              <td width="65">RE8040-BE440</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KC 8040-C2</td>
+                              <td width="88">BW30-400</td>
+                              <td width="93">CPA3</td>
+                              <td width="68">TM720-400</td>
+                              <td width="81">AG-400</td>
+                              <td width="65">RE8040-BE</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KC 8040-C3</td>
+                              <td width="88">BW30-400/34, BW30-365</td>
+                              <td width="93">CPA2</td>
+                              <td width="68"></td>
+                              <td width="81">AG-400, 34</td>
+                              <td width="65">RE8040-BN</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KC 4040-C</td>
+                              <td width="88">BW30-4040</td>
+                              <td width="93">CPA2-4040</td>
+                              <td width="68">TM710</td>
+                              <td width="81">AG-90</td>
+                              <td width="65">RE4040-BE</td>
+                              </tr>
+                              <tr>
+                              <td rowspan="2" width="70"><strong>Low pressure elements</strong></td>
+                              <td width="95">nanoRO KH 8040-C</td>
+                              <td width="88">LE-400</td>
+                              <td width="93">ESPA1</td>
+                              <td width="68">TMG20-400</td>
+                              <td width="81">AK-440-LE</td>
+                              <td width="65">RE8040-BLN</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KH 4040-C</td>
+                              <td width="88">LE-4040</td>
+                              <td width="93">ESPA1-4040</td>
+                              <td width="68">TMG10</td>
+                              <td width="81">AK-90-LE</td>
+                              <td width="65">RE4040-BLN</td>
+                              </tr>
+                              <tr>
+                              <td rowspan="2" width="70"><strong>Extra low pressure elements</strong></td>
+                              <td width="95">nanoRO KCH 8040-C</td>
+                              <td width="88">XLE-440 (adapter is required for the core tube)</td>
+                              <td width="93"></td>
+                              <td width="68"></td>
+                              <td width="81"></td>
+                              <td width="65">RE8040-BLF</td>
+                              </tr>
+                              <tr>
+                              <td width="95">nanoRO KCH 4040-C</td>
+                              <td width="88">XLE-4040</td>
+                              <td width="93">ESPA4-4040</td>
+                              <td width="68"></td>
+                              <td width="81"></td>
+                              <td width="65">RE4040-BLF</td>
+                              </tr>
+                              </tbody>
+                              </table>
+                            </div>
+                        
                         </div>
                       </div>
                   </div>
                   <div class="tab-pane container fade" id="menu1">
                       <div class="review">
-                        <div class="table-responsive">
-                          <table class="table table-bordered border-primary">
-                            <thead>
-                              <style> 
-                                td, th {
-                                  text-align: center;
-                                  color:black;
-                                  }
-                                  .align-top{
-                                    background-color:#175145;
-                                  }
-                                  th{
-                                    color:white;
-                                  }
-                              </style>
-                              <tr class="align-top">
-                                <th rowspan="2">Model</th>
-                                <th colspan="2">Power</th>
-                                <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
-                                <th rowspan="2" >2 m <sup>3 </sup> / h</th>
-                                <th rowspan="2" >3 m<sup>3 </sup> / h</th>
-                                <th rowspan="2">4 m<sup>3 </sup> / h</th>
-                                <th rowspan="2" >5 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2" >6 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
-                                <th rowspan="2">10 m<sup>3 </sup>/ h</th>
-                              </tr>
-                              <tr class="align-top">
-                                <th >KW</th>
-                                <th >HP</th>
-                              </tr>
-                            </thead>
-                            <tbody>
-                              <tr>
-                                <td>GK 25/130</td>
-                                <td>0.75</td>
-                                <td>1</td>
-                                <td rowspan="4">Head (m)</td>
-                                <td>34</td>
-                                <td>28</td>
-                                <td>21</td>
-                                <td>12</td>
-                                <td>-</td>
-                                <td>-</td>
-                                <td>-</td>
-                              </tr>
-                              <tr>
-                                <td>GK25/140</td>
-                                <td>1.1</td>
-                                <td>1.5</td>
-                                <td>41</td>
-                                <td>36</td>
-                                <td>33</td>
-                                <td>30</td>
-                                <td>26</td>
-                                <td>15</td>
-                                <td>-</td>
-      
-                              </tr>
-                              <tr>
-                                <td>GK25/160 B</td>
-                                <td>1.5</td>
-                                <td>2</td>
-                                <td>47</td>
-                                <td>45</td>
-                                <td>43</td>
-                                <td>41</td>
-                                <td>36</td>
-                                <td>28</td>
-                                <td>16</td>
-                              </tr>
-                              <tr>
-                                <td>GK 25/160 A</td>
-                                <td>2.2</td>
-                                <td>3</td>
-                                <td>57</td>
-                                <td>54</td>
-                                <td>52</td>
-                                <td>49</td>
-                                <td>45</td>
-                                <td>36</td>
-                                <td>26</td>
-                              </tr>
-                            </tbody>
-                          </table>
-                        </div>
+                       
+                        
                       </div>
                   </div>
                   <div class="tab-pane container fade" id="menu2">
