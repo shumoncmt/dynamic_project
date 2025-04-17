@@ -22,7 +22,7 @@
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="#">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">Category</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Chemical and Medi</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Chemical and Media</li>
                                     </ol>
                             </nav>
                 </div>
@@ -30,27 +30,46 @@
     <div class="container">
         <div class="row">
           <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('bagfilter')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/bag-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('bagfilter')}}>
+                <h4>Bag Filter</h4></a>
+              <p style="text-align:justify" >Discover the efficiency of our Bag Filters for clean air & optimal performance. Perfect for industrial applications. Get superior filtration today</p>
+              <h6><a href={{Route('bagfilter')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('MicronFilterCartridge')}} class="post-image view image_hover"><img src= "{{ asset('img/product/media/cartidge-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterCartridge')}}>
+                <h4>Micron Filter Cartridge</h4></a>
+              <p style="text-align:justify">Discover top-quality Micron Filter Cartridges for optimal filtration. Enhance water purity & efficiency. Perfect choice for home & industrial use. Learn more today!</p>
+              <h6><a href={{Route('MicronFilterCartridge')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-8 service-info">
+            <div class="item"><a href={{Route('MicronFilterHousing')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/media/micron-filter-housing.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterHousing')}}>
+                <h4>Micron Filter Housing</h4></a>
+              <p style="text-align:justify">Discover top-quality Micron Filter Housing solutions for clean water and air. Durable, efficient, and cost-effective filtration to enhance your systems.</p>
+              <h6><a href={{Route('MicronFilterHousing')}}>Read more</a></h6>
+            </div>
+          </div>
+        </div>
+        {{-- <div class="row">
+          <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Dynamic Motor</h4></a>
-              <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
+                <h4>Ro Membrane Housing</h4></a>
+              <p style="text-align:justify" >Discover durable and efficient RO membrane housing solutions for clean water. Explore top-quality options tailored to meet your filtration needs today!</p>
               <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                <h4>Dynamic RO Membrane</h4></a>
-              <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
+                <h4>Ro Membrane</h4></a>
+              <p style="text-align:justify">Discover high-quality RO membranes for pure, clean water. Enhance filtration efficiency with our top-rated, reliable solutions. Shop now for better water today!</p>
               <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-md-4 col-sm-8 service-info">
-            <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/Dynamic-pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
-                <h4>Dynamic Pump</h4></a>
-              <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
-              <h6><a href={{Route('industrialpump')}}>Read more</a></h6>
-            </div>
+
           </div>
-        </div>
+        </div> --}}
       </div>
     </section>
 
