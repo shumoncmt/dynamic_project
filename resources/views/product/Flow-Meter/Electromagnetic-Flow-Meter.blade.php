@@ -24,7 +24,7 @@
                     <li class="breadcrumb-item active" aria-current="page">Electromagnetic Flow Meter</li>
                     </ol>
             </nav>
-    </div>
+      </div>
     </div>
     <div class="container">
         <div class="row">

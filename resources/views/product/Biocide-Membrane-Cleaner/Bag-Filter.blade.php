@@ -94,24 +94,24 @@
             <h2 style="margin-bottom:10px; margin-top:25px">Related Product</h2> 
             <div class="row">
               <div class="col-md-3 col-sm-8 service-info">
-                <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                    <h4>Dynamic Motor</h4></a>
-                  <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
-                  <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
+                <div class="item"><a href={{Route('bagfilter')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/media/bag-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('bagfilter')}}>
+                    <h4>Bag Filter</h4></a>
+                  <p style="text-align:justify" >Discover high-quality bag filters in Bangladesh, designed for efficient air and liquid filtration.</p>
+                  <h6><a href={{Route('bagfilter')}}>Read more</a></h6>
                 </div>
               </div>
               <div class="col-md-3 col-sm-8 service-info">
-                <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                    <h4>Dynamic Motor</h4></a>
-                  <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
-                  <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
+                <div class="item"><a href={{Route('MicronFilterHousing')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/micron-filter-housing.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterHousing')}}>
+                    <h4>Micron Filter Housing</h4></a>
+                  <p style="text-align:justify" >Discover high-quality micron filter housings in Bangladesh. Our durable solutions ensure optimal filtration for various applications.</p>
+                  <h6><a href={{Route('MicronFilterHousing')}}>Read more</a></h6>
                 </div>
               </div>
               <div class="col-md-3 col-sm-8 service-info">
-                <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src="{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                    <h4>Dynamic RO Membrane</h4></a>
-                  <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
-                  <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
+                <div class="item"><a href={{Route('MicronFilterCartridge')}} class="post-image view image_hover"><img src="{{ asset('img/product/media/cartidge-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterCartridge')}}>
+                    <h4>Micron filter Cartridge</h4></a>
+                  <p style="text-align:justify">Discover high-quality micron filter cartridges in Bangladesh. Enhance your filtration systems with our reliable and efficient solutions for clean water.</p>
+                  <h6><a href={{Route('MicronFilterCartridge')}}>Read more</a></h6>
                 </div>
               </div>
               <div class="col-md-3 col-sm-8 service-info">
@@ -122,7 +122,7 @@
                 </div>
               </div>
             </div>
-            <div class="row">
+          <div class="row">
               <div class="col-md-3 col-sm-8 service-info">
                 <div class="item"><a href={{Route('blower')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Blower.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('blower')}}>
                     <h4>Dynamic Blower</h4></a>

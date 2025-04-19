@@ -13,26 +13,34 @@
 <body>
 
   <section class="diff-offer-wrapper">
+     <div class="container">
+       <div class="row ">
+        <h2 style="margin-bottom:10px; margin-top:25px">Ring Blower</h2>
+                <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a href="#">Product</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Ring Blower</li>
+                    </ol>
+            </nav>
+       </div>
+     </div>
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-sm-8 service-info " style="margin-top:80px;">
-             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/pump/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                   </a>
+             <div class="item"><a href={{Route('ringblower')}} class="post-image view image_hover">			<img src= "{{ asset('img/catagory/Ring-Blower-GHS-Series.webp')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('ringblower')}}>
+                  </a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
-                <h2>2GK Dynamic Centrifugal Pump</h2>
-              
+                <h2>Ring Blower</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
-                <h5>Application Limits</h5>
+                <h5>Duty Parameter</h5>
                 <ul>
-                  <li>Suction head up to 8m</li>
-                  <li>Liquid temperature up to +40℃</li>
-                  <li>Ambient temperature up to +40℃</li>
-                  <li>Max. Working pressure: 5bar</li>
-                  <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                  <li>pH: 6.5 to 8.5</li>
+                  <li>Capacity: 0.8- 40 m3/min</li>
+                  <li>Head: 50-450 mbar</li>
+                  <li>Power: 0.18- 22 kW</li>
                 </ul>
                 <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
     
@@ -61,118 +69,928 @@
                     <div class="description">
                       <div class="row">
                         <div class="col-md-6">
-                          <h6>Applications Fields</h6>
-                          <li>Suitable for transferring water without abrasive particles or other liquid whose properties are similar to water.</li>
-                          <li>Widely used in garden irrigation, vegetable greenhouse water supply, breeding industry water supply and drainage, various corollary equipment, etc.</li>
+                          <h6>Design Features</h6>
+                          <ul>
+                            <li>Cooler running NSK & TPI bearing </li>
+                            <li>Precise blade and cover made of die-cast aluminium</li>
+                            <li>High Quality copper winding motor with IP54 and IP55 protection and insulation class H Die cast Aluminium alloy housing</li>
+                            <li>Wide voltage and frequency, stable working performance and energy saving</li>
+                            <li>Dual-usage: Compressor and vacuum</li>
+                            <li>High pressure and big smooth air volume</li>
+                            <li>No oily odors</li>
+                          </ul>
                           <p> </p>
-                          <h6>Feature</h6>
-                          <li>Double impeller centrifugal pump, satisfies the requirement of high head.</li>
-                          <li>Compact structure</li>
+                          <h6>Applications</h6>
+                          <ul>
+                            <li>Printing Machines</li>
+                            <li>Burning Machines</li>
+                            <li>Household Machines</li>
+                            <li>Plastic Extruder, Laminating, Film Making Machines</li>
+                            <li>Food and beverages Industries</li>
+                            <li>Uniform Temperature Equipment</li>
+                            <li>Grain Elevators</li>
+                            <li>Woodworking Machines</li>
+                            <li>Pollution Machines</li>
+                            <li>Hot Air Blower</li>
+                            <li>Textile Machines</li>
+                            <li>Dryers Machines</li>
+                            <li>Incinerators</li>
+                          </ul>
                           <p> </p>
-                          <h6>Performance Range</h6>
-                            <li>Max. Flow: 12m3/h </li>
-                            <li>Max. Head: 50m </li>
-                            <p> </p>
-                            <h6>Motor</h6>
-                            <li>Single-Phase 220V/50Hz</li>
-                            <li>Three-Phase 380V/50Hz</li>
-                            <li>Mechanical seal: Ceramic / Graphite / NBR rubber</li>
-                            <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector, fully closed fan cooling, continuous running</li>
-                            <li>Insulation: Class B </li>
-                            <p> </p>
-                            <h6>Optional Available on Request</h6>
-                            <li>NSK bearing</li>
-                            <li>Motor whose insulation class is F</li>
                         </div>
                         <div class="col-md-6 ">
-                          <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
                         </div>
                       </div>
                     </div>
                 </div>
-                <div class="tab-pane container fade" id="menu1">
+              <div class="tab-pane container fade" id="menu1">
                     <div class="review">
-    
-                       
-                        <table class="table table-bordered border-primary table-responsive">
-                          <thead>
-                            <style> 
-                              td, th {
-                                text-align: center;
-                                }
-                            </style>
-                            <tr class="align-top table-success ">
-                              <th rowspan="2">Model</th>
-                              <th colspan="2">Power</th>
-                              <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
-                              <th rowspan="2" >2 m <sup>3 </sup> / h</th>
-                              <th rowspan="2" >3 m<sup>3 </sup> / h</th>
-                              <th rowspan="2">4 m<sup>3 </sup> / h</th>
-                              <th rowspan="2" >5 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2" >6 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2">10 m<sup>3 </sup>/ h</th>
-                            </tr>
-                            <tr class="align-top table-success">
-                              <th >KW</th>
-                              <th >HP</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>GK 25/130</td>
-                              <td>0.75</td>
-                              <td>1</td>
-                              <td rowspan="4">Head (m)</td>
-                              <td>34</td>
-                              <td>28</td>
-                              <td>21</td>
-                              <td>12</td>
-                              <td>-</td>
-                              <td>-</td>
-                              <td>-</td>
-    
-                            </tr>
-                            <tr>
-                              <td>GK25/140</td>
-                              <td>1.1</td>
-                              <td>1.5</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>33</td>
-                              <td>30</td>
-                              <td>26</td>
-                              <td>15</td>
-                              <td>-</td>
-    
-                            </tr>
-                            <tr>
-                              <td>GK25/160 B</td>
-                              <td>1.5</td>
-                              <td>2</td>
-                              <td>47</td>
-                              <td>45</td>
-                              <td>43</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>28</td>
-                              <td>16</td>
-                            </tr>
-                            <tr>
-                              <td>GK 25/160 A</td>
-                              <td>2.2</td>
-                              <td>3</td>
-                              <td>57</td>
-                              <td>54</td>
-                              <td>52</td>
-                              <td>49</td>
-                              <td>45</td>
-                              <td>36</td>
-                              <td>26</td>
-                            </tr>
-                          </tbody>
-                        </table>
+                      <h3 class="text-center">Single- Phase motor, 50Hz handling performance table</h3>
+                      <div class="table-responsive">
+                         <style> 
+                            td, th {
+                              text-align: center;
+                              color:black;
+                              }
+                              .align-top{
+                                background-color:#175145;
+                              }
+                              th{
+                                color:white;
+                              }
+                          </style>
+                          <table class="table table-responsive table-bordered border-primary">
+                            <thead>
+                              <tr class="align-top">
+                                <th>ITEM</th>
+                                <th>MODEL 50Hz</th>
+                                <th>RATED OUTPUT (KW)</th>
+                                <th>VOLTAGE(V)</th>
+                                <th>CURRENT (A)</th>
+                                <th>VOLTAGE(V)</th>
+                                <th>CURRENT (A)</th>
+                                <th>STATIC PRESSURE VACUUM/COMPRESSOR (Mbar)</th>
+                                <th>MAX VOLUME (M3/min)</th>
+                                <th>NOISE (Db)</th>
+                                <th>WEIGHT (KG)</th>
+                                <th>RELIEF VALVE PRESSURE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TYPE</th>
+                                <th>SUCTION FILTER</th>
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>E1</td>
+                                <td>GHS-129</td>
+                                <td>0.18</td>
+                                <td>110-120</td>
+                                <td>2.5</td>
+                                <td>220-240</td>
+                                <td>1.25</td>
+                                <td>50/40</td>
+                                <td>0.8</td>
+                                <td>52</td>
+                                <td>6.5</td>
+                                <td>-</td>
+                                <td>GMF8</td>
+                              </tr>
+                              <tr>
+                                <td>E2</td>
+                                <td>GHS-229</td>
+                                <td>0.4</td>
+                                <td>110-120</td>
+                                <td>5.5</td>
+                                <td>220-240</td>
+                                <td>2.6</td>
+                                <td>110/130</td>
+                                <td>1.4</td>
+                                <td>58</td>
+                                <td>11.5</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF10</td>
+                              </tr>
+                              <tr>
+                                <td>E3</td>
+                                <td>GHS-229L</td>
+                                <td>0.4</td>
+                                <td>110-120</td>
+                                <td>5.5</td>
+                                <td>220-240</td>
+                                <td>2.6</td>
+                                <td>110/130</td>
+                                <td>1.4</td>
+                                <td>58</td>
+                                <td>12</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF10</td>
+                              </tr>
+                              <tr>
+                                <td>E4</td>
+                                <td>GHS-329</td>
+                                <td>0.75</td>
+                                <td>110-120</td>
+                                <td>11</td>
+                                <td>220-240</td>
+                                <td>5.5</td>
+                                <td>140/160</td>
+                                <td>2.4</td>
+                                <td>63</td>
+                                <td>16</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF12</td>
+                              </tr>
+                              <tr>
+                                <td>E6</td>
+                                <td>GHS-329L</td>
+                                <td>0.75</td>
+                                <td>110-120</td>
+                                <td>1</td>
+                                <td>220-240</td>
+                                <td>5.5</td>
+                                <td>140/160</td>
+                                <td>2.4</td>
+                                <td>63</td>
+                                <td>16.5</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF12</td>
+                              </tr>
+                              <tr>
+                                <td>E5</td>
+                                <td>GHS-339</td>
+                                <td>1.1</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>220-240</td>
+                                <td>7.0</td>
+                                <td>160/190</td>
+                                <td>2.4</td>
+                                <td>63</td>
+                                <td>16.5</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF12</td>
+                              </tr>
+                              <tr>
+                                <td>E7</td>
+                                <td>GHS-429-2</td>
+                                <td>1.1</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>220-240</td>
+                                <td>8.5</td>
+                                <td>150/150</td>
+                                <td>3.6</td>
+                                <td>70</td>
+                                <td>26</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF16</td>
+                              </tr>
+                              <tr>
+                                <td>E8</td>
+                                <td>GHS-429</td>
+                                <td>1.5</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>220-240</td>
+                                <td>10</td>
+                                <td>180/190</td>
+                                <td>3.6</td>
+                                <td>70</td>
+                                <td>26</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF16</td>
+                              </tr>
+                              <tr>
+                                <td>E9</td>
+                                <td>C1HS-429L</td>
+                                <td>1.5</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>220-240</td>
+                                <td>10</td>
+                                <td>180/190</td>
+                                <td>3.6</td>
+                                <td>70</td>
+                                <td>26.5</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF16</td>
+                              </tr>
+                              <tr>
+                                <td>E10</td>
+                                <td>GHS-2308</td>
+                                <td>0.75</td>
+                                <td>110-120</td>
+                                <td>9.2</td>
+                                <td>220-240</td>
+                                <td>4.5</td>
+                                <td>180/220</td>
+                                <td>1.5</td>
+                                <td>60</td>
+                                <td>17.5</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF 10</td>
+                              </tr>
+                              <tr>
+                                <td>E11</td>
+                                <td>GHS-3315</td>
+                                <td>1.5</td>
+                                <td>-</td>
+                                <td>-</td>
+                                <td>220-240</td>
+                                <td>10</td>
+                                <td>240/250</td>
+                                <td>2.6</td>
+                                <td>66</td>
+                                <td>28.5</td>
+                                <td>01*1/01*1</td>
+                                <td>GMF12</td>
+                              </tr>
+                            </tbody>
+                          </table>
                     </div>
+      <h3 class="text-center">Three- Phase motor, 50Hz handling performance table</h3>
+                  <div class="table-responsive">
+                    <table class="table table-responsive table-bordered border-primary">
+                      <thead>
+                        <tr class="align-top">
+                          <th>ITEM</th>
+                          <th>MODEL 50Hz</th>
+                          <th>RATED OUTPUT (KW)</th>
+                          <th>VOLTAGE(V)</th>
+                          <th>CURRENT (A)</th>
+                          <th>VOLTAGE(V)</th>
+                          <th>CURRENT (A)</th>
+                          <th>STATIC PRESSURE VACUUM/COMPRESSOR (Mbar)</th>
+                          <th>MAX VOLUME (M3/min)</th>
+                          <th>NOISE (Db)</th>
+                          <th>WEIGHT (KG)</th>
+                          <th>RELIEF VALVE PRESSURE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TYPE</th>
+                          <th>SUCTION FILTER</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                        <td>E12</td>
+                        <td>GHS-129</td>
+                        <td>0.18</td>
+                        <td>220-240</td>
+                        <td>1.2</td>
+                        <td>346-415</td>
+                        <td>0.69</td>
+                        <td>50/60</td>
+                        <td>0.8</td>
+                        <td>52</td>
+                        <td>6.5</td>
+                        <td>-</td>
+                        <td>GMF8</td>
+                        </tr>
+                        <tr>
+                        <td>E13</td>
+                        <td>GHS-229</td>
+                        <td>0.4</td>
+                        <td>220-240</td>
+                        <td>2.25</td>
+                        <td>346-415</td>
+                        <td>1.29</td>
+                        <td>110/130</td>
+                        <td>1.4</td>
+                        <td>58</td>
+                        <td>11</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF10</td>
+                        </tr>
+                        <tr>
+                        <td>E14</td>
+                        <td>GHS-229L</td>
+                        <td>0.4</td>
+                        <td>220-240</td>
+                        <td>2.25</td>
+                        <td>346-415</td>
+                        <td>1.29</td>
+                        <td>100/130</td>
+                        <td>1.4</td>
+                        <td>58</td>
+                        <td>11.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF10</td>
+                        </tr>
+                        <tr>
+                        <td>E15</td>
+                        <td>GHS-329</td>
+                        <td>0.75</td>
+                        <td>220-240</td>
+                        <td>3.7</td>
+                        <td>346-415</td>
+                        <td>2.14</td>
+                        <td>140/140</td>
+                        <td>2.4</td>
+                        <td>63</td>
+                        <td>14.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E16</td>
+                        <td>GHS-329-1</td>
+                        <td>0.9</td>
+                        <td>220-240</td>
+                        <td>4.2</td>
+                        <td>346-415</td>
+                        <td>2.4</td>
+                        <td>165/180</td>
+                        <td>2.4</td>
+                        <td>3</td>
+                        <td>15.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E17</td>
+                        <td>GHS-329-9</td>
+                        <td>0.75</td>
+                        <td>220-240</td>
+                        <td>3.7</td>
+                        <td>346-415</td>
+                        <td>2.14</td>
+                        <td>110/120</td>
+                        <td>2.4</td>
+                        <td>63</td>
+                        <td>14.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E18</td>
+                        <td>GHS-329L</td>
+                        <td>0.75</td>
+                        <td>220-240</td>
+                        <td>3.7</td>
+                        <td>346-415</td>
+                        <td>2.14</td>
+                        <td>140/140</td>
+                        <td>2.4</td>
+                        <td>63</td>
+                        <td>15</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E19</td>
+                        <td>GHS-339</td>
+                        <td>1.3</td>
+                        <td>220-240</td>
+                        <td>4.6</td>
+                        <td>346-415</td>
+                        <td>2.65</td>
+                        <td>175/200</td>
+                        <td>2.4</td>
+                        <td>63</td>
+                        <td>16</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E20</td>
+                        <td>GHS-429-1</td>
+                        <td>60</td>
+                        <td>220-240</td>
+                        <td>4.2</td>
+                        <td>346-415</td>
+                        <td>2.4</td>
+                        <td>130/120</td>
+                        <td>3.6</td>
+                        <td>70</td>
+                        <td>20.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E21</td>
+                        <td>GHS-429-2</td>
+                        <td>1.3</td>
+                        <td>220-240</td>
+                        <td>5.7</td>
+                        <td>346-415</td>
+                        <td>3.3</td>
+                        <td>180/180</td>
+                        <td>3.6</td>
+                        <td>70</td>
+                        <td>22</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E22</td>
+                        <td>GHS-429</td>
+                        <td>1.75</td>
+                        <td>220-240</td>
+                        <td>6.7</td>
+                        <td>346-415</td>
+                        <td>3.9</td>
+                        <td>210/220</td>
+                        <td>3.6</td>
+                        <td>70</td>
+                        <td>23</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E23</td>
+                        <td>GHS-429-9</td>
+                        <td>1.75</td>
+                        <td>220-240</td>
+                        <td>6.7</td>
+                        <td>346-415</td>
+                        <td>3.9</td>
+                        <td>140/160</td>
+                        <td>3.6</td>
+                        <td>70</td>
+                        <td>23</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E24</td>
+                        <td>GHS-429L</td>
+                        <td>1.75</td>
+                        <td>220-240</td>
+                        <td>6.7</td>
+                        <td>346-415</td>
+                        <td>3.9</td>
+                        <td>210/220</td>
+                        <td>3.6</td>
+                        <td>70</td>
+                        <td>23.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E25</td>
+                        <td>GHS-439</td>
+                        <td>2.2</td>
+                        <td>220-240</td>
+                        <td>7.8</td>
+                        <td>346-415</td>
+                        <td>4.5</td>
+                        <td>220/270</td>
+                        <td>3.6</td>
+                        <td>70</td>
+                        <td>26</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E26</td>
+                        <td>GHS-529</td>
+                        <td>2.2</td>
+                        <td>220-240</td>
+                        <td>9.5</td>
+                        <td>346-415</td>
+                        <td>5.5</td>
+                        <td>230/220</td>
+                        <td>5.2</td>
+                        <td>72</td>
+                        <td>32</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E27</td>
+                        <td>GHS-529-9</td>
+                        <td>2.2</td>
+                        <td>220-240</td>
+                        <td>9.5</td>
+                        <td>346-415</td>
+                        <td>5.5</td>
+                        <td>160/200</td>
+                        <td>5.2</td>
+                        <td>72</td>
+                        <td>32</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E28</td>
+                        <td>GHS-529L</td>
+                        <td>2.2</td>
+                        <td>220-240</td>
+                        <td>9.5</td>
+                        <td>346-415</td>
+                        <td>5.5</td>
+                        <td>230/220</td>
+                        <td>5.2</td>
+                        <td>72</td>
+                        <td>32.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E29</td>
+                        <td>GHS-629</td>
+                        <td>3.4</td>
+                        <td>220-240</td>
+                        <td>12</td>
+                        <td>346-415</td>
+                        <td>6.9</td>
+                        <td>255/280</td>
+                        <td>5.2</td>
+                        <td>72</td>
+                        <td>35</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E30</td>
+                        <td>GHS-629L</td>
+                        <td>3.4</td>
+                        <td>220-240</td>
+                        <td>2</td>
+                        <td>346-415</td>
+                        <td>6.9</td>
+                        <td>255/280</td>
+                        <td>5.2</td>
+                        <td>72</td>
+                        <td>35.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E31</td>
+                        <td>GHS-639</td>
+                        <td>4.0</td>
+                        <td>220-240</td>
+                        <td>13.9</td>
+                        <td>346-415</td>
+                        <td>8.0</td>
+                        <td>270/325</td>
+                        <td>5.2</td>
+                        <td>72</td>
+                        <td>38</td>
+                        <td>01*1/02*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E32</td>
+                        <td>GHS-7299</td>
+                        <td>5.5</td>
+                        <td>220-240</td>
+                        <td>21</td>
+                        <td>346-415</td>
+                        <td>12</td>
+                        <td>270/300</td>
+                        <td>9.2</td>
+                        <td>74</td>
+                        <td>78</td>
+                        <td>01*1/02*1</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E33</td>
+                        <td>GH5-829</td>
+                        <td>7.5</td>
+                        <td>220-240</td>
+                        <td>27</td>
+                        <td>346-415</td>
+                        <td>15.6</td>
+                        <td>295/395</td>
+                        <td>9.2</td>
+                        <td>74</td>
+                        <td>82</td>
+                        <td>02*1/02*1</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E34</td>
+                        <td>GHS-919</td>
+                        <td>9</td>
+                        <td>220-240</td>
+                        <td>36</td>
+                        <td>346-415</td>
+                        <td>20.8</td>
+                        <td>200/190</td>
+                        <td>18.9</td>
+                        <td>76</td>
+                        <td>100</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                        <tr>
+                        <td>E35</td>
+                        <td>GHS-929</td>
+                        <td>13</td>
+                        <td>220-240</td>
+                        <td>46.8</td>
+                        <td>346-415</td>
+                        <td>27</td>
+                        <td>305/295</td>
+                        <td>18.9</td>
+                        <td>76</td>
+                        <td>112</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                        <tr>
+                        <td>E36</td>
+                        <td>GHS-939</td>
+                        <td>20</td>
+                        <td>220-240</td>
+                        <td>66.7</td>
+                        <td>346-415</td>
+                        <td>38.6</td>
+                        <td>350/440</td>
+                        <td>18.9</td>
+                        <td>76</td>
+                        <td>159</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                        <tr>
+                        <td>E37</td>
+                        <td>GHS-2308</td>
+                        <td>0.75</td>
+                        <td>220-240</td>
+                        <td>3.45</td>
+                        <td>346-415</td>
+                        <td>2.0</td>
+                        <td>200/240</td>
+                        <td>1.5</td>
+                        <td>60</td>
+                        <td>17</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF10</td>
+                        </tr>
+                        <tr>
+                        <td>E38</td>
+                        <td>GHS-3319</td>
+                        <td>1.75</td>
+                        <td>220-240</td>
+                        <td>6.7</td>
+                        <td>346-415</td>
+                        <td>3.9</td>
+                        <td>275/320</td>
+                        <td>2.6</td>
+                        <td>66</td>
+                        <td>25</td>
+                        <td>01*1/02*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E39</td>
+                        <td>GHS-3326</td>
+                        <td>2.2</td>
+                        <td>220-240</td>
+                        <td>7.8</td>
+                        <td>346-415</td>
+                        <td>4.5</td>
+                        <td>280/375</td>
+                        <td>2.6</td>
+                        <td>66</td>
+                        <td>28</td>
+                        <td>01*1/02*1</td>
+                        <td>GMF12</td>
+                        </tr>
+                        <tr>
+                        <td>E40</td>
+                        <td>GHS-4337</td>
+                        <td>3.4</td>
+                        <td>220-240</td>
+                        <td>2</td>
+                        <td>346-415</td>
+                        <td>6.9</td>
+                        <td>345/410</td>
+                        <td>3.7</td>
+                        <td>74</td>
+                        <td>40</td>
+                        <td>02*1/02*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E41</td>
+                        <td>GHS-4346</td>
+                        <td>4.0</td>
+                        <td>220-240</td>
+                        <td>14.3</td>
+                        <td>346-415</td>
+                        <td>8.3</td>
+                        <td>355/495</td>
+                        <td>3.7</td>
+                        <td>74</td>
+                        <td>43</td>
+                        <td>02*1/02*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E42</td>
+                        <td>GHS-6346</td>
+                        <td>4.0</td>
+                        <td>220-240</td>
+                        <td>14.3</td>
+                        <td>346-415</td>
+                        <td>8.3</td>
+                        <td>360/380</td>
+                        <td>5.2</td>
+                        <td>75</td>
+                        <td>55</td>
+                        <td>02*1/02*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E43</td>
+                        <td>GHS-6355</td>
+                        <td>5.5</td>
+                        <td>220-240</td>
+                        <td>21</td>
+                        <td>346-415</td>
+                        <td>12</td>
+                        <td>410/515</td>
+                        <td>5.2</td>
+                        <td>75</td>
+                        <td>72</td>
+                        <td>02*1/02*2</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E44</td>
+                        <td>GHS-6375</td>
+                        <td>7.5</td>
+                        <td>220-240</td>
+                        <td>27</td>
+                        <td>346-415</td>
+                        <td>15.6</td>
+                        <td>420/580</td>
+                        <td>5.2</td>
+                        <td>75</td>
+                        <td>80.5</td>
+                        <td>02*1/02*2</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E45</td>
+                        <td>GHS-6455</td>
+                        <td>5.5</td>
+                        <td>220-240</td>
+                        <td>21</td>
+                        <td>346-415</td>
+                        <td>12</td>
+                        <td>200/220</td>
+                        <td>7.8</td>
+                        <td>75</td>
+                        <td>70</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E46</td>
+                        <td>GHS-6475</td>
+                        <td>7.5</td>
+                        <td>220-240</td>
+                        <td>27</td>
+                        <td>346-415</td>
+                        <td>15.6</td>
+                        <td>240/275</td>
+                        <td>7.8</td>
+                        <td>75</td>
+                        <td>80.5</td>
+                        <td>01*1/01*1</td>
+                        <td>GMF16</td>
+                        </tr>
+                        <tr>
+                        <td>E47</td>
+                        <td>GHS-8310</td>
+                        <td>7.5</td>
+                        <td>220-240</td>
+                        <td>27</td>
+                        <td>346-415</td>
+                        <td>15.6</td>
+                        <td>360/350</td>
+                        <td>9.6</td>
+                        <td>76</td>
+                        <td>112</td>
+                        <td>02*1/02*1</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E48</td>
+                        <td>GHS-8315</td>
+                        <td>13</td>
+                        <td>220-240</td>
+                        <td>46.8</td>
+                        <td>346-415</td>
+                        <td>27</td>
+                        <td>430/600</td>
+                        <td>96</td>
+                        <td>7</td>
+                        <td>142</td>
+                        <td>02*1/02*3</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E49</td>
+                        <td>GHS-8320</td>
+                        <td>20</td>
+                        <td>220-240</td>
+                        <td>66.7</td>
+                        <td>346-415</td>
+                        <td>38.6</td>
+                        <td>450/700</td>
+                        <td>9.6</td>
+                        <td>76</td>
+                        <td>160</td>
+                        <td>02*1/02*3</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E50</td>
+                        <td>GHS-8410</td>
+                        <td>7.5</td>
+                        <td>220-240</td>
+                        <td>27</td>
+                        <td>346-415</td>
+                        <td>15.6</td>
+                        <td>180/145</td>
+                        <td>14.2</td>
+                        <td>76</td>
+                        <td>110</td>
+                        <td>-</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E51</td>
+                        <td>GHS-8415</td>
+                        <td>13</td>
+                        <td>220-240</td>
+                        <td>46.8</td>
+                        <td>346-415</td>
+                        <td>27</td>
+                        <td>260/260</td>
+                        <td>14.2</td>
+                        <td>76</td>
+                        <td>140</td>
+                        <td>-</td>
+                        <td>GMF20</td>
+                        </tr>
+                        <tr>
+                        <td>E52</td>
+                        <td>GHS-9320</td>
+                        <td>13</td>
+                        <td>220-240</td>
+                        <td>46.8</td>
+                        <td>346-415</td>
+                        <td>27</td>
+                        <td>265/255</td>
+                        <td>19</td>
+                        <td>75</td>
+                        <td>165</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                        <tr>
+                        <td>E53</td>
+                        <td>GHS-9325</td>
+                        <td>20</td>
+                        <td>220-240</td>
+                        <td>66.7</td>
+                        <td>346-415</td>
+                        <td>38.6</td>
+                        <td>410/375</td>
+                        <td>19</td>
+                        <td>75</td>
+                        <td>178</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                        <tr>
+                        <td>E54</td>
+                        <td>GHS-9420</td>
+                        <td>13</td>
+                        <td>220-240</td>
+                        <td>46.8</td>
+                        <td>346-415</td>
+                        <td>27</td>
+                        <td>160/150</td>
+                        <td>32</td>
+                        <td>76</td>
+                        <td>170</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                        <tr>
+                        <td>E55</td>
+                        <td>GHS-9425</td>
+                        <td>20</td>
+                        <td>220-240</td>
+                        <td>66.7</td>
+                        <td>346-415</td>
+                        <td>38.6</td>
+                        <td>260/240</td>
+                        <td>32</td>
+                        <td>76</td>
+                        <td>200</td>
+                        <td>-</td>
+                        <td>GMF32</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>   
+                </div>
                 </div>
                 <div class="tab-pane container fade" id="menu2">
                     <div class="specification">

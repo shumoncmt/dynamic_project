@@ -8,7 +8,6 @@
     <meta name="keywords" content="Micron filter Cartridge in Bangladesh, Water Filter">
     
     @include('master.header')
-
 </head>
 <body>
 
@@ -18,7 +17,7 @@
       <div class="container">
         <div class="row ">
           <h2 style="margin-bottom:10px; margin-top:25px">Micron filter Cartridge</h2>
-                  <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
                       <ol class="breadcrumb">
                       <li class="breadcrumb-item"><a href="#">Home</a></li>
                       <li class="breadcrumb-item"><a href="#">Product</a></li>
@@ -29,15 +28,14 @@
         <div class="row">
             <div class="col-md-4 col-sm-8 service-info " style="margin-top:80px;">
              <div class="item"><a href={{Route('MicronFilterCartridge')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/media/cartidge-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterCartridge')}}>
-                   </a>
-                </div>
+              </a>
+              </div>
             </div>
             <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
                 <h2>Micron filter Cartridge</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
                 <h5>Application Limits</h5>
-           
                 <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
     
             </div>
@@ -81,7 +79,7 @@
                           </ul>
                         </div>
                         <div class="col-md-6 ">
-                          <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
+                          
                         </div>
                       </div>
                     </div>
@@ -103,24 +101,24 @@
             <h2 style="margin-bottom:10px; margin-top:25px">Related Product</h2> 
             <div class="row">
               <div class="col-md-3 col-sm-8 service-info">
-                <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                    <h4>Dynamic Motor</h4></a>
-                  <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
-                  <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
+                <div class="item"><a href={{Route('bagfilter')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/media/bag-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('bagfilter')}}>
+                    <h4>Bag Filter</h4></a>
+                  <p style="text-align:justify" >Discover high-quality bag filters in Bangladesh, designed for efficient air and liquid filtration.</p>
+                  <h6><a href={{Route('bagfilter')}}>Read more</a></h6>
                 </div>
               </div>
               <div class="col-md-3 col-sm-8 service-info">
-                <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                    <h4>Dynamic Motor</h4></a>
-                  <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
-                  <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
+                <div class="item"><a href={{Route('MicronFilterHousing')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/micron-filter-housing.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterHousing')}}>
+                    <h4>Micron Filter Housing</h4></a>
+                  <p style="text-align:justify" >Discover high-quality micron filter housings in Bangladesh. Our durable solutions ensure optimal filtration for various applications.</p>
+                  <h6><a href={{Route('MicronFilterHousing')}}>Read more</a></h6>
                 </div>
               </div>
               <div class="col-md-3 col-sm-8 service-info">
-                <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src="{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                    <h4>Dynamic RO Membrane</h4></a>
-                  <p style="text-align:justify">There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
-                  <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
+                <div class="item"><a href={{Route('MicronFilterCartridge')}} class="post-image view image_hover"><img src="{{ asset('img/product/media/cartidge-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterCartridge')}}>
+                    <h4>Micron filter Cartridge</h4></a>
+                  <p style="text-align:justify">Discover high-quality micron filter cartridges in Bangladesh. Enhance your filtration systems with our reliable and efficient solutions for clean water.</p>
+                  <h6><a href={{Route('MicronFilterCartridge')}}>Read more</a></h6>
                 </div>
               </div>
               <div class="col-md-3 col-sm-8 service-info">
@@ -131,7 +129,7 @@
                 </div>
               </div>
             </div>
-            <div class="row">
+          <div class="row">
               <div class="col-md-3 col-sm-8 service-info">
                 <div class="item"><a href={{Route('blower')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Blower.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('blower')}}>
                     <h4>Dynamic Blower</h4></a>
