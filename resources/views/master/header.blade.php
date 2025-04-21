@@ -101,8 +101,8 @@
                                 <a href={{Route('blower')}} class="dropdown-item ">Dynamic Blower</a>
                                 <a href={{Route('frpvessel')}} class="dropdown-item ">Dynamic Vessel</a>
                                 <a href={{Route('electromageneticflowmeter')}} class="dropdown-item ">Dynamic Flow Meter</a>
-                                <a href={{Route('roandufmembrane')}} class="dropdown-item ">Dynamic RO Antiscalant</a>
-                                <a href={{Route('watertreatmentaccessories')}} class="dropdown-item ">Flocculants & Dechlorinator</a>
+                                {{-- <a href={{Route('roandufmembrane')}} class="dropdown-item ">Dynamic RO Antiscalant</a> --}}
+                                {{-- <a href={{Route('watertreatmentaccessories')}} class="dropdown-item ">Flocculants & Dechlorinator</a> --}}
                                 <a href={{Route('watertreatmentchemicalsandmedia')}} class="dropdown-item ">Biocide & Membrane Cleaner</a>
                             </div>
                         </div>
