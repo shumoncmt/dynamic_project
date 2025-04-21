@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blower - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="high-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs." />
+    <meta name="description" content="High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs." />
     <meta name="keywords" content="top-quality blowers that deliver exceptional performance and reliability. Browse our diverse range of blowers tailored to meet your specific requirements">
     
     @include('master.header')
@@ -32,7 +32,7 @@
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('pressurerootsblowers')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/Pressure-Roots-Blowers.webp')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('pressurerootsblowers')}}>
                 <h4>Pressure Roots Blowers</h4></a>
-              <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
+              <p style="text-align:justify" >High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs.</p>
               <h6><a href={{Route('pressurerootsblowers')}}>Read more</a></h6>
             </div>
           </div>
@@ -46,7 +46,7 @@
           <div class="col-md-4 col-sm-8 service-info">
             <div class="item"><a href={{Route('vacuumrootsblower')}} class="post-image view image_hover">		<img src= "{{ asset('img/catagory/Vacuum-Roots-Blower.webp')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('vacuumrootsblower')}}>
                 <h4>Vacuum Roots Blower</h4></a>
-              <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
+              <p style="text-align:justify">High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs.</p>
               <h6><a href={{Route('vacuumrootsblower')}}>Read more</a></h6>
             </div>
           </div>
