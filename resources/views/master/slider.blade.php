@@ -20,7 +20,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="{{ asset('img/slider/slider-image.jpg')}}" class="img-fluid w-100" alt="Second slide"/>
+                        <img src="{{ asset('img/slider/dynamic-industrial-motor.jpg')}}" class="img-fluid w-100" alt="Second slide"/>
                         <div class="carousel-caption">
                             <p class="text-uppercase text-secondary fs-4 mb-0 fadeInUp animate__animated" data-animation="fadeInUp" data-delay="1s" style="animation-delay: 1s;"></p>
                             <h1 class="display-1 text-capitalize text-white mb-4 fadeInUp animate__animated" data-animation="fadeInUp" data-delay="1.3s" style="animation-delay: 1.3s;">Industrial Dynamic Motor</h1>

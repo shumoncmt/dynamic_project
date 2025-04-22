@@ -6,9 +6,9 @@
     <title>FRP Vessel - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="High-quality FRP vessels designed for durability and efficiency. Explore our range of products tailored for various industrial applications." />
     <meta name="keywords" content="FRP vessels for your business. Our expertly crafted products offer exceptional durability and are suitable for multiple applications.">
-    
-    @include('master.header')
 
+    @include('master.header')
+    
 </head>
 <body>
 
