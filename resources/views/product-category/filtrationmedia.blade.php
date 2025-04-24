@@ -6,14 +6,11 @@
     <title>Filtration Media - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
     <meta name="keywords" content="water treatment processes with our specialized chemicals and media. Trust our expertise for superior water quality and effective treatment solutions.">
-    
+
     @include('master.header')
 
 </head>
 <body>
-
-
-
 <section class="diff-offer-wrapper">
             <div class="container">
                 <div class="row ">
@@ -30,24 +27,24 @@
     <div class="container">
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('bagfilter')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/bag-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('bagfilter')}}>
-                <h4>Bag Filter</h4></a>
-              <p style="text-align:justify" >Discover the efficiency of our Bag Filters for clean air & optimal performance. Perfect for industrial applications. Get superior filtration today</p>
-              <h6><a href={{Route('bagfilter')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('Anthracite')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Anthracite')}}>
+                <h4>Dynamic Anthracite</h4></a>
+              <p style="text-align:justify" >Discover the sleek look of Dynamic Anthracite. Brighten your space with this stylish, dark finish. Shop now to add style today.</p>
+              <h6><a href={{Route('Anthracite')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('MicronFilterCartridge')}} class="post-image view image_hover"><img src= "{{ asset('img/product/media/cartidge-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterCartridge')}}>
-              <h4>Micron Filter Cartridge</h4></a>
-              <p style="text-align:justify">Discover top-quality Micron Filter Cartridges for optimal filtration. Enhance water purity & efficiency. Perfect choice for home & industrial use. Learn more today!</p>
-              <h6><a href={{Route('MicronFilterCartridge')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('Coconutshellactivatedcarbon')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Coconutshellactivatedcarbon')}}>
+                <h4>Dynamic Coconut Shell Activated Carbon</h4></a>
+              <p style="text-align:justify" >Discover the power of dynamic coconut shell activated carbon. Perfect for filtering air and water. Order now for cleaner results.</p>
+              <h6><a href={{Route('Coconutshellactivatedcarbon')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('MicronFilterHousing')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/media/micron-filter-housing.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterHousing')}}>
-                <h4>Micron Filter Housing</h4></a>
-              <p style="text-align:justify">Discover top-quality Micron Filter Housing solutions for clean water and air. Durable, efficient, and cost-effective filtration to enhance your systems.</p>
-              <h6><a href={{Route('MicronFilterHousing')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('Coconutshellactivatedcarbon')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Coconutshellactivatedcarbon')}}>
+                <h4>Dynamic Manganese Dioxide</h4></a>
+              <p style="text-align:justify" >Discover how dynamic manganese dioxide can boost your batteries and improve energy storage. Learn more about this vital material today.</p>
+              <h6><a href={{Route('Coconutshellactivatedcarbon')}}>Read more</a></h6>
             </div>
           </div>
         </div>

@@ -79,7 +79,7 @@
         </div>  -->
 <!-- About End -->
 
-        <section class="diff-offer-wrapper">
+<section class="diff-offer-wrapper">
         <div class="container">
             <div class="row diff-offer">
             <ul>
@@ -91,7 +91,7 @@
                 </li>
             </ul>
             </div>
-            <div class="row">
+        <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                 <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="img/product/Dynamic-Motor.png" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                     <h4>Dynamic Motor</h4></a>
@@ -139,14 +139,14 @@
             </div>
             <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('filtrationmedia')}} class="post-image view image_hover"><img src="img/product/RO Antiscalant.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('filtrationmedia')}}>
+                <div class="item"><a href={{Route('filtrationmedia')}} class="post-image view image_hover"><img src="img/catagory/filtration-media.png" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('filtrationmedia')}}>
                     <h4>Filtration Media</h4></a>
                 <p style="text-align:justify">Explore our high-quality filtration media to keep your water clean and clear. Shop now for top performance and better filtration.</p>
                 <h6><a href={{Route('filtrationmedia')}}>Read more</a></h6>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('ionexchangeresin')}} class="post-image view image_hover"><img src="img/product/Flocculants & Dechlorinator.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('ionexchangeresin')}}>
+                <div class="item"><a href={{Route('ionexchangeresin')}} class="post-image view image_hover"><img src="img/catagory/ion-exchange-resin.png" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('ionexchangeresin')}}>
                     <h4>Ion Exchange Resin</h4></a>
                 <p style="text-align:justify">Need better water treatment? Our ion exchange resins help remove contaminants easily. Shop now for reliable and efficient solutions.</p>
                 <h6><a href={{Route('ionexchangeresin')}}>Read more</a></h6>
@@ -161,7 +161,7 @@
             </div>
             </div>
         </div>
-        </section>
+    </section>
 
         
   

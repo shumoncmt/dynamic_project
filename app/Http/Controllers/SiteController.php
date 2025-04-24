@@ -213,10 +213,10 @@ function DynamicResin2(){
 }
 
 function Anthracite(){
-    return view('product.Water-treatment-chemicals-media.Filtration-Media.Anthracite');
+    return view('product.Water-treatment-chemicals-media.Filtration-Media.dynamic-anthracite');
 }
 function Coconutshellactivatedcarbon(){
-    return view('product.Water-treatment-chemicals-media.Filtration-Media.Coconut-shell-activated-carbon');
+    return view('product.Water-treatment-chemicals-media.Filtration-Media.dynamic-coconut-shell-activated-carbon');
 }
 function Manganesedioxide(){
     return view('product.Water-treatment-chemicals-media.Filtration-Media.Manganese-dioxide');

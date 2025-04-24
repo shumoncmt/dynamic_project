@@ -11,9 +11,6 @@
 
 </head>
 <body>
-
-
-
 <section class="diff-offer-wrapper">
             <div class="container">
                 <div class="row ">
@@ -27,7 +24,7 @@
                             </nav>
                 </div>
             </div>
-    <div class="container">
+  <div class="container">
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('bagfilter')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/bag-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('bagfilter')}}>
@@ -53,12 +50,7 @@
         </div>
       </div>
     </section>
-
-
 </body>
-
-
-
 
 
 
