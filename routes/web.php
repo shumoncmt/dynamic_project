@@ -71,6 +71,8 @@ Route::get('/categories/frp-vessel', [SiteController::class, 'frpvessel'])->name
 Route::get('/categories/ro-and-uf-membrane', [SiteController::class, 'roandufmembrane'])->name('roandufmembrane');
 Route::get('/categories/water-treatment-accessories', [SiteController::class, 'watertreatmentaccessories'])->name('watertreatmentaccessories');
 Route::get('/categories/water-treatment-chemicals-and-media', [SiteController::class, 'watertreatmentchemicalsandmedia'])->name('watertreatmentchemicalsandmedia');
+Route::get('/categories/ion-exchange-resin', [SiteController::class, 'ionexchangeresin'])->name('ionexchangeresin');
+Route::get('/categories/filtration-media', [SiteController::class, 'filtrationmedia'])->name('filtrationmedia');
 
 
 //Product Category End

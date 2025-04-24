@@ -12,8 +12,6 @@
 </head>
 <body>
 
-
-
 <section class="diff-offer-wrapper">
             <div class="container">
                 <div class="row ">
@@ -29,21 +27,21 @@
             </div>
     <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('microdynereverseosmosismembrane')}} class="post-image view image_hover">			<img src="{{ asset('img/product/membrane/8inch-water-spiral-module.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('microdynereverseosmosismembrane')}}>
                 <h4>Microdyn Reverse Osmosis Membrane</h4></a>
               <p style="text-align:justify" >Reverse osmosis(RO) is a membrane filtration technology that effectively removes ions such as sodium and chloride,  as well organic molecules, including pesticides and herbicides.</p>
               <h6><a href={{Route('microdynereverseosmosismembrane')}}>Read more</a></h6>
             </div>
           </div>
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('membraniumreverseosmosismembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/membrane/membranium-ro-membrane.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('membraniumreverseosmosismembrane')}}>
                 <h4>MEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</h4></a>
               <p style="text-align:justify">TMEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</p>
               <h6><a href={{Route('membraniumreverseosmosismembrane')}}>Read more</a></h6>
             </div>
           </div>
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('hydramembraneros')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/membrane/hydranautic-ro-membrane.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('hydramembraneros')}}>
                 <h4>HYDRANAUTICS RO MEMBRANES</h4></a>
               <p style="text-align:justify">HYDRANAUTICS RO MEMBRANES</p>

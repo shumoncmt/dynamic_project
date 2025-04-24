@@ -28,7 +28,7 @@
             </div>
     <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('electromagneticflowmeter')}} class="post-image view image_hover">			<img src="{{ asset('img/product/flowmeter/electromagnetic-flow-meter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electromagneticflowmeter')}}>
                 <h4>Electromagnetic Flow Meter</h4></a>
               <p style="text-align:justify" >Discover high-quality electromagnetic flow meters in Bangladesh. Our advanced solutions ensure accurate flow measurement for various industrial applications.</p>

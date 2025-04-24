@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Water treatment Chemical and Media - Best industrial electric motor in Bangladesh | Dynamic Motor </title>
+    <title>Ion Exchange Resin - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
     <meta name="keywords" content="water treatment processes with our specialized chemicals and media. Trust our expertise for superior water quality and effective treatment solutions.">
     
@@ -17,12 +17,12 @@
 <section class="diff-offer-wrapper">
             <div class="container">
                 <div class="row ">
-                        <h2 style="margin-bottom:10px; margin-top:25px">Water Treatment Chemical and Media</h2>
+                        <h2 style="margin-bottom:10px; margin-top:25px">Ion Exchange Resin</h2>
                               <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
                                     <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="#">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">Category</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">Chemical and Media</li>
+                                    <li class="breadcrumb-item active" aria-current="page">Ion Exchange Resin</li>
                                     </ol>
                             </nav>
                 </div>
@@ -51,25 +51,6 @@
             </div>
           </div>
         </div>
-        {{-- <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src="{{ asset('img/product/Dynamic-Motor.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                <h4>Ro Membrane Housing</h4></a>
-              <p style="text-align:justify" >Discover durable and efficient RO membrane housing solutions for clean water. Explore top-quality options tailored to meet your filtration needs today!</p>
-              <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/Dynamic-Ro-membrane.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
-                <h4>Ro Membrane</h4></a>
-              <p style="text-align:justify">Discover high-quality RO membranes for pure, clean water. Enhance filtration efficiency with our top-rated, reliable solutions. Shop now for better water today!</p>
-              <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-
-          </div>
-        </div> --}}
       </div>
     </section>
 

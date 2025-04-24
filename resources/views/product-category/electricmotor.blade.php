@@ -29,14 +29,14 @@
         </div>
         <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('singlephasemotor')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/single-phase-motor.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('singlephasemotor')}}>
                 <h4>Dynamic SINGLE PHASE MOTOR</h4></a>
               <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
               <h6><a href={{Route('singlephasemotor')}}>Read more</a></h6>
             </div>
           </div>
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('threephasemotor')}} class="post-image view image_hover"><img src= "{{ asset('img/catagory/1-PHASE-ASYNCHRONOUS.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('threephasemotor')}}>
                 <h4>Dynamic THREE PHASE MOTOR</h4></a>
               <p style="text-align:justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>

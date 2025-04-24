@@ -84,7 +84,7 @@ class SiteController extends Controller
     }
     //Project End
 
-    //Product Caregory Start
+//Product Caregory Start
     
     function categories(){
         return view ('product-category.all-category');
@@ -124,6 +124,12 @@ function allcategory(){
 }
 function industrialpump(){
     return view('product-category.industrialpump');
+}
+function filtrationmedia(){
+    return view('product-category.filtrationmedia');
+}
+function ionexchangeresin(){
+    return view('product-category.ionexchangeresin');
 }
 
 // Single Product start

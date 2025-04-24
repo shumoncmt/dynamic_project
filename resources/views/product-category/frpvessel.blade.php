@@ -27,7 +27,7 @@
             </div>
     <div class="container">
         <div class="row">
-          <div class="col-md-4 col-sm-8 service-info">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('frpvesse')}} class="post-image view image_hover">			<img src="{{ asset('img/product/FRP-Vessel.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('frpvesse')}}>
                 <h4>FRP Vessel</h4></a>
               <p style="text-align:justify" >Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>

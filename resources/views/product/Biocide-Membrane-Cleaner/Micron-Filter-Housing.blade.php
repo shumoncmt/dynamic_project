@@ -25,7 +25,7 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-8 service-info " style="margin-top:80px;">
+            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:80px;">
              <div class="item"><a href={{Route('MicronFilterHousing')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/media/micron-filter-housing.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterHousing')}}>
                    </a>
                 </div>

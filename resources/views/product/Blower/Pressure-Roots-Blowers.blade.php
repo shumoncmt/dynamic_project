@@ -28,7 +28,7 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-8 service-info " style="margin-top:50px;">
+            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:50px;">
              <div class="item"><a href={{Route('pressurerootsblowers')}} class="post-image view image_hover">			<img src= "{{ asset('img/catagory/Pressure-Roots-Blowers.webp')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                    </a>
                 </div>
@@ -2137,21 +2137,21 @@
           <div class="row ">
             <h2 style="margin-bottom:10px; margin-top:25px">Related Product</h2> 
             <div class="row">
-              <div class="col-md-4 col-sm-8 service-info">
+              <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                 <div class="item"><a href={{Route('vacuumrootsblower')}} class="post-image view image_hover">			<img src= "{{ asset('img/catagory/Vacuum-Roots-Blower.webp')}}" alt=" " class="img-responsive zoom_img_effect"></a><a href={{Route('vacuumrootsblower')}}>
                   <h4>Vacuum Roots Blower</h4></a>
                   <p style="text-align:justify" >High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs.</p>
                   <h6><a href={{Route('vacuumrootsblower')}}>Read more</a></h6>
                  </div>
               </div>
-              <div class="col-md-4 col-sm-8 service-info">
+              <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                 <div class="item"><a href={{Route('ringblower')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/Ring-Blower-GHS-Series.webp')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('ringblower')}}>
                     <h4>Ring Blower – GHS Series</h4></a>
                   <p style="text-align:justify" >There are many applications for RO, including water and wastewater treatment, food and beverage processing, and pharmaceutical production.</p>
                   <h6><a href={{Route('ringblower')}}>Read more</a></h6>
                 </div>
               </div>
-              <div class="col-md-4 col-sm-8 service-info">
+              <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                 <div class="item"><a href={{Route('pressurerootsblowers')}} class="post-image view image_hover"><img src="{{ asset('img/catagory/Pressure-Roots-Blowers.webp')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('pressurerootsblowers')}}>
                     <h4>Pressure Roots Blowers</h4></a>
                   <p style="text-align:justify">High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs.</p>
