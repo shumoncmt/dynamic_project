@@ -179,7 +179,31 @@
         </div> -->
         <!-- Header End -->
 
+<style type="text/css" media="all">
+    body {
+    cursor: none; /* Hide default cursor */
+    }
 
-        
+    .custom-cursor {
+    width: 25px;
+    height: 25px;
+    border: 3px solid #135447;
+    border-radius: 50%;
+    position: fixed;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    transition: transform 0.05s ease;
+    z-index: 9999;
+    }
+</style>
+
+<div class="custom-cursor"></div>
+<script>
+        const cursor = document.querySelector('.custom-cursor');
+            document.addEventListener('mousemove', (e) => {
+            cursor.style.left = e.clientX + 'px';
+            cursor.style.top = e.clientY + 'px';
+        });
+</script>
         
 <!-- Carousel End -->
