@@ -471,7 +471,7 @@
 
          <!-- Our Client End -->
           <!-- Our Sister Company start -->
-        <div class="container-fluid team py-5">
+    <div class="container-fluid team py-5">
             <div class="container py-5">
              <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                     <h2 class="hs"> <span class="underline ">Our Concerns </span>  </h2>
@@ -488,11 +488,9 @@
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.6s">
                         <img class="img-fluid" src="img/logo/abm-water-cor.png" alt="">
-                    </div>
-                    
-                    </div>
-
-                </div>
+                    </div> 
+                 </div>
+            </div>
         </div>     
         <!-- Our sister company end -->
 

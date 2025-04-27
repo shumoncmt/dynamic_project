@@ -259,31 +259,27 @@
 </section>
 
 <!-- Our Sister Company start -->
-        <div class="container-fluid team py-5">
+   <div class="container-fluid team py-5">
             <div class="container py-5">
              <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                     <h2 class="hs"> <span class="underline ">Our Concerns </span>  </h2>
              </div>
                 <div class="row g-4">
-                    <div class="col-lg-1 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.2s">
-        
+                    <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.2s">
+                        <img class="img-fluid" src="img/logo/greengenesisbd.png" alt="">
                     </div>
                     <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.2s">
-                    <img src="https://greengenesisbd.com/wp-content/uploads/2023/07/Logo-for-Concern-Website-02-300x104.png" alt="">
+                    <img class="img-fluid" src="img/logo/abm-real.png" alt="">
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.4s">
-                        <img src="https://greengenesisbd.com/wp-content/uploads/2023/07/Logo-for-Concern-Website-03-300x96.png" alt="">
+                    <div class="col-lg-3  col-md-4 col-sm-6 text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.4s">
+                        <img class="img-fluid" src="img/logo/abm-com.png" alt="">
                     </div>
-                    <div class="col-lg-3 col-md-4 col-sm-6 text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.6s">
-                        <img src="https://greengenesisbd.com/wp-content/uploads/2023/07/Logo-for-Concern-Website-01-300x93.png" alt="">
-                    </div>
-                    <div class="col-lg-1 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp" data-wow-delay="0.6s">
-                   
-                    </div>
-                    </div>
-
-                </div>
-        </div>     
+                    <div class="col-lg-3 col-md-4 col-sm-6  text-center mx-auto pb-5  wow fadeInUp " data-wow-delay="0.6s">
+                        <img class="img-fluid" src="img/logo/abm-water-cor.png" alt="">
+                    </div> 
+                 </div>
+            </div>
+        </div>      
 <!-- Our sister company end -->
 
         <!-- Team Start -->
