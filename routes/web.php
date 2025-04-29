@@ -104,7 +104,7 @@ Route::get('/product/frp-vessel', [SiteController::class, 'frpvesse'])->name('fr
 
 Route::get('/product/dpl-series-dynamic-pump', [SiteController::class, 'DplSeriesDynamicPump'])->name('DplSeriesDynamicPump');
 Route::get('/product/dp-deries-dynamic-pump', [SiteController::class, 'DpSeriesDynamicPump'])->name('DpSeriesDynamicPump');
-Route::get('/product/sgt-centrifugal-pump', [SiteController::class, 'SgtCentrifugalPump'])->name('SgtCentrifugalPump');
+Route::get('/product/dpm-centrifugal-pump', [SiteController::class, 'dpmCentrifugalPump'])->name('dpmCentrifugalPump');
 Route::get('/product/2gk-dynamic-centrifugal-pump', [SiteController::class, 'gkdynamiccentrifugalpump'])->name('gkdynamiccentrifugalpump');
 Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gksseriescentrifugalpump'])->name('gksseriescentrifugalpump');
 

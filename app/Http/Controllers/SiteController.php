@@ -188,8 +188,8 @@ function DplSeriesDynamicPump(){
 function DpSeriesDynamicPump(){
     return view('product.Pump.High-Pressure-Multistage-Pump.Dp-Series-Dynamic-Pump');
 }
-function SgtCentrifugalPump(){
-    return view('product.Pump.Gk-Centrifugal-Pump.Sgt-Centrifugal-Pump');
+function dpmCentrifugalPump(){
+    return view('product.Pump.Gk-Centrifugal-Pump.dpm-Centrifugal-Pump');
 }
 function gkdynamiccentrifugalpump(){
     return view('product.Pump.Gk-Centrifugal-Pump.2gk-dynamic-centrifugal-pump');

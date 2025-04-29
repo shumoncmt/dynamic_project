@@ -46,7 +46,7 @@
               <li>Voltage fluctuation should not exceed 10% of rated value.</li>
               <li>pH: 6.5 to 8.5</li>
             </ul>
-            <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
+            <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="/img/product/pump/Greengenesisbd.pdf"> Brochure</a></button>
 
         </div>
     </div>

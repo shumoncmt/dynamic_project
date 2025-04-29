@@ -28,10 +28,10 @@
             <div class="container">
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('SgtCentrifugalPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('SgtCentrifugalPump')}}>
-                <h4>SGT Centrifugal Pump</h4></a>
-              <p style="text-align:justify" >Discover the efficiency and reliability of SGT Centrifugal Pumps for all your industrial needs. High performance, low maintenance - the pump solution you can trust!</p>
-              <h6><a href={{Route('SgtCentrifugalPump')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('dpmCentrifugalPump')}} class="post-image view image_hover">			<img src="{{ asset('img/catagory/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('dpmCentrifugalPump')}}>
+                <h4>DPM Centrifugal Pump</h4></a>
+              <p style="text-align:justify" >Discover the efficiency and reliability of DPM Centrifugal Pumps for all your industrial needs. High performance, low maintenance - the pump solution you can trust!</p>
+              <h6><a href={{Route('dpmCentrifugalPump')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
