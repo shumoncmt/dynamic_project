@@ -694,7 +694,7 @@
                         <div class="position-relative">
                             <i class="fa fa-quote-right fa-2x text-primary position-absolute" style="bottom: 30px; right: 0;"></i>
                             <div class="mb-4 pb-4 border-bottom border-secondary">
-                                <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                <p class="mb-0">Green Genesis Engineering Limited's water treatment management system is a game-changer. I am impressed by their innovative technology and dedication to sustainability. Thanks to their system, our water quality has drastically improved. Highly recommend!
                                 </p>
                             </div>
                             <div class="d-flex align-items-center flex-nowrap">
@@ -702,7 +702,7 @@
                                     <img src="https://avatar.iran.liara.run/public" class="img-fluid w-100" style="width: 100px; height: 100px;" alt="">
                                 </div>
                                 <div class="d-block">
-                                    <h4 class="text-dark">Client Name</h4>
+                                    <h4 class="text-dark">Akij Bashir</h4>
                                     <p class="m-0 pb-3">Profession</p>
                                     <div class="d-flex text-secondary pe-5">
                                         <i class="fas fa-star"></i>
@@ -719,7 +719,7 @@
                         <div class="position-relative">
                             <i class="fa fa-quote-right fa-2x text-primary position-absolute" style="bottom: 30px; right: 0;"></i>
                             <div class="mb-4 pb-4 border-bottom border-secondary">
-                                <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,
+                                <p class="mb-0">Green Genesis Engineering Limited's water treatment management system exceeds expectations with its efficiency and reliability. I am incredibly impressed with the seamless integration of cutting-edge technology and eco-friendly solutions.
                                 </p>
                             </div>
                             <div class="d-flex align-items-center flex-nowrap">
@@ -727,7 +727,7 @@
                                     <img src="https://avatar.iran.liara.run/public" class="img-fluid w-100" style="width: 100px; height: 100px;" alt="">
                                 </div>
                                 <div class="d-block">
-                                    <h4 class="text-dark">Client Name</h4>
+                                    <h4 class="text-dark">Square Group</h4>
                                     <p class="m-0 pb-3">Profession</p>
                                     <div class="d-flex text-secondary pe-5">
                                         <i class="fas fa-star"></i>
@@ -744,16 +744,15 @@
                         <div class="position-relative">
                             <i class="fa fa-quote-right fa-2x text-primary position-absolute" style="bottom: 30px; right: 0;"></i>
                             <div class="mb-4 pb-4 border-bottom border-secondary">
-                                <p class="mb-0">Lorem Ipsum is simply dummy text of the printing Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                </p>
+                                <p class="mb-0">Green Genesis Engineering Limited has revolutionized water management with their innovative water treatment management system. Their cutting-edge technology ensures efficiency and sustainability, providing clean water solutions for a better future.</p>
                             </div>
                             <div class="d-flex align-items-center flex-nowrap">
                                 <div class="me-4">
                                     <img src="https://avatar.iran.liara.run/public" class="img-fluid w-100" style="width: 100px; height: 100px;" alt="">
                                 </div>
                                 <div class="d-block">
-                                    <h4 class="text-dark">Client Name</h4>
-                                    <p class="m-0 pb-3">Profession</p>
+                                    <h4 class="text-dark">Acme Group</h4>
+                                    <p class="m-0 pb-3">Profession </p>
                                     <div class="d-flex text-secondary pe-5">
                                         <i class="fas fa-star"></i>
                                         <i class="fas fa-star"></i>

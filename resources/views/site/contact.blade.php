@@ -21,9 +21,7 @@
                 <div class="row g-5 mb-5">
                     <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s">
                         <div class="text-center mx-auto pb-5" style="max-width: 800px;">
-                            
                             <h2 class="display-4 text-capitalize mb-3">Send Your Message</h2>
-                            
                         </div>
                         <form>
                             <div class="row g-3">
