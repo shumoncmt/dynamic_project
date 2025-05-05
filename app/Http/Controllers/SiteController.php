@@ -201,37 +201,37 @@ function gksseriescentrifugalpump(){
 //Water treatment chemicals and Media
 
 function DynamicActivatedCarbon(){
-    return view('product.Water-treatment-chemicals-media.Activated-Carbon.Dynamic-Activated-Carbon');
+    return view('product.Filtration-Media.Dynamic-Activated-Carbon');
 }
 
 function DynamicResin3(){
-    return view('product.Water-treatment-chemicals-media.Cation-Exchange-Resin.Dynamic-Resin-1');
+    return view('product.Filtration-Media.Dynamic-Resin-1');
 }
 
 function DynamicResin2(){
-    return view('product.Water-treatment-chemicals-media.Cation-Exchange-Resin.Dynamic-Resin-2');
+    return view('product.Filtration-Media.Dynamic-Resin-2');
 }
 
 function Anthracite(){
-    return view('product.Water-treatment-chemicals-media.Filtration-Media.dynamic-anthracite');
+    return view('product.Filtration-Media.dynamic-anthracite');
 }
 function Coconutshellactivatedcarbon(){
-    return view('product.Water-treatment-chemicals-media.Filtration-Media.dynamic-coconut-shell-activated-carbon');
+    return view('product.Filtration-Media.dynamic-coconut-shell-activated-carbon');
 }
 function Manganesedioxide(){
-    return view('product.Water-treatment-chemicals-media.Filtration-Media.Manganese-dioxide');
+    return view('product.Filtration-Media.dynamic-manganese-dioxide');
 }
 function Biocide(){
-    return view('product.Water-treatment-chemicals-media.Antiscalant.Biocide');
+    return view('product.Filtration-Media.Biocide');
 }
 function Dechlorinator(){
-    return view('product.Water-treatment-chemicals-media.Antiscalant.Dechlorinator');
+    return view('product.Filtration-Media.Dechlorinator');
 }
 function Flocculants(){
-    return view('product.Water-treatment-chemicals-media.Antiscalant.Flocculants');
+    return view('product.Filtration-Media.Flocculants');
 }
 function RoAntiscalant(){
-    return view('product.Water-treatment-chemicals-media.Antiscalant.Ro-Antiscalant');
+    return view('product.Filtration-Media.Ro-Antiscalant');
 }
 
 function microdynereverseosmosismembrane(){

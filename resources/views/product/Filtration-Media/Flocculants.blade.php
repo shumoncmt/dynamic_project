@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flocculants in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="flocculants in Bangladesh and their impact on water treatment processes. Access expert insights and solutions for enhanced industrial applications." />
+    <meta name="description" content="Flocculants in Bangladesh and their impact on water treatment processes. Access expert insights and solutions for enhanced industrial applications." />
     <meta name="keywords" content="the significance of flocculants in Bangladesh's water treatment sector. Find valuable information and solutions to optimize your industrial processes.">
     
     @include('master.header')

@@ -71,7 +71,6 @@
             </div>
             </div>
             <div class="row">
-            
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                 <div class="item"><a href={{Route('filtrationmedia')}} class="post-image view image_hover"><img src="img/catagory/dynamci-filtration-media.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('filtrationmedia')}}>
                     <h4>Dynamic Filtration Media</h4></a>
@@ -87,7 +86,7 @@
                 </div>
             </div> --}}
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('watertreatmentchemicalsandmedia')}} class="post-image view image_hover"><img src="img/product/Biocide & Membrane Cleaner.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('watertreatmentchemicalsandmedia')}}>
+                <div class="item"><a href={{Route('watertreatmentchemicalsandmedia')}} class="post-image view image_hover"><img src="img/catagory/water-treatment-plant-accessories.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('watertreatmentchemicalsandmedia')}}>
                     <h4>Water Treatment Plant & Accessories</h4></a>
                 <p style="text-align:justify">Dynamic membrane cleaner is a highly effective cleaning solution that can remove even the most stubborn contaminants from membrane surfaces.</p>
                 <h6><a href={{Route('watertreatmentchemicalsandmedia')}}>Read more</a></h6>
