@@ -48,6 +48,29 @@
             </div>
           </div>
         </div>
+                <div class="row">
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+            <div class="item"><a href={{Route('Anthracite')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Anthracite')}}>
+                <h4>Dynamic Anthracite</h4></a>
+              <p style="text-align:justify" >Discover the sleek look of Dynamic Anthracite. Brighten your space with this stylish, dark finish. Shop now to add style today.</p>
+              <h6><a href={{Route('Anthracite')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+            <div class="item"><a href={{Route('Coconutshellactivatedcarbon')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Coconutshellactivatedcarbon')}}>
+                <h4>Dynamic Coconut Shell Activated Carbon</h4></a>
+              <p style="text-align:justify" >Discover the power of dynamic coconut shell activated carbon. Perfect for filtering air and water. Order now for cleaner results.</p>
+              <h6><a href={{Route('Coconutshellactivatedcarbon')}}>Read more</a></h6>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+            <div class="item"><a href={{Route('Coconutshellactivatedcarbon')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Coconutshellactivatedcarbon')}}>
+                <h4>Dynamic Manganese Dioxide</h4></a>
+              <p style="text-align:justify" >Discover how dynamic manganese dioxide can boost your batteries and improve energy storage. Learn more about this vital material today.</p>
+              <h6><a href={{Route('Coconutshellactivatedcarbon')}}>Read more</a></h6>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 

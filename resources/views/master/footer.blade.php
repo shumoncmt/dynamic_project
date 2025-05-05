@@ -42,13 +42,12 @@
                             <h4 class="text-black mb-4">Contact Info</h4>
                             <a href=""><i class="fa fa-map-marker-alt me-2"></i> House B/113, Mosque Road, New DOHS Mohakhali, Dhaka-1206, Bangladesh</a>
                             <a href=""><i class="fas fa-envelope me-2"></i> karim@greengenesisbd.com</a>
-                            <a href=""><i class="fas fa-phone me-2"></i> +880 1933-302535</a>
-                            <a href="" class="mb-3"><i class="fas fa-print me-2"></i> +880 1716 434 153</a>
+                            <a href=""><i class="fas fa-phone me-2"></i> +880 1898777647</a>
                             <div class="footer-btn d-flex align-items-center">
-                                <a class="btn btn-secondary btn-md-square me-2" href=""><i class="fab fa-facebook-f text-white"></i></a>
-                                <a class="btn btn-secondary btn-md-square me-2" href=""><i class="fab fa-twitter text-white"></i></a>
-                                <a class="btn btn-secondary btn-md-square me-2" href=""><i class="fab fa-instagram text-white"></i></a>
-                                <a class="btn btn-secondary btn-md-square me-0" href=""><i class="fab fa-linkedin-in text-white"></i></a>
+                                <a class="btn btn-secondary btn-md-square me-2" href="https://www.facebook.com/dynamicproductbd"><i class="fab fa-facebook-f text-white"></i></a>
+                                <a class="btn btn-secondary btn-md-square me-2" href="https://twitter.com/GreenGenesisEn3"><i class="fab fa-twitter text-white"></i></a>
+                                <a class="btn btn-secondary btn-md-square me-2" href="https://www.instagram.com/greengenesisbd/"><i class="fab fa-instagram text-white"></i></a>
+                                <a class="btn btn-secondary btn-md-square me-0" href="https://www.linkedin.com/company/green-genesis-engineering-ltd/"><i class="fab fa-linkedin-in text-white"></i></a>
                             </div>
                         </div>
                     </div>

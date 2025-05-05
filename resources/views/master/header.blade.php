@@ -15,7 +15,7 @@
         <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
         <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
-        <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('img/logo/logo.png')}}" >
+        <link rel="icon" type="image/png" sizes="38x38" href="{{ asset('img/logo/favicon.png')}}" >
 
         <!-- Customized Bootstrap Stylesheet -->
 
@@ -50,8 +50,8 @@
             <div class="row gx-0 align-items-center" style="height: 35px;">
                 <div class="col-lg-6 text-center text-lg-start mb-lg-0">
                     <div class="d-flex flex-wrap">
-                        <a href="#" class="text-muted me-4"><i class="fas fa-map-marker-alt text-secondary me-2"></i>Find A Location</a>
-                        <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-secondary me-2"></i>+880 1933-302535</a>
+                        <a href="https://maps.app.goo.gl/Emp5KStvoPH3nkcR9" class="text-muted me-4"><i class="fas fa-map-marker-alt text-secondary me-2"></i>Find A Location</a>
+                        <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-secondary me-2"></i>+880 1898777647</a>
                         <a href="#" class="text-muted me-0"><i class="fas fa-envelope text-secondary me-2"></i>karim@greengenesisbd.com</a>
                     </div>
                 </div>
@@ -62,10 +62,10 @@
                             date_default_timezone_set("Asia/Dhaka");
                             echo  date("h:i:sa ");
                             ?> Sat - Thu 9:00 AM - 06:30 PM, Friday - CLOSED</a>
-                        <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-instagram"></i></a>
-                        <a href="#" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="https://www.facebook.com/dynamicproductbd" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-facebook-f"></i></a>
+                        <a href="https://twitter.com/GreenGenesisEn3" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-twitter"></i></a>
+                        <a href="https://www.instagram.com/greengenesisbd/" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/company/green-genesis-engineering-ltd/" class="btn btn-primary btn-rounded border border-white me-3"><i class="fab fa-linkedin-in"></i></a>
                     </div>
                 </div>
             </div>
