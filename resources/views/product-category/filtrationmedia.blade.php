@@ -33,46 +33,38 @@
               <h6><a href={{Route('Anthracite')}}>Read more</a></h6>
             </div>
           </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+          {{-- <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('Coconutshellactivatedcarbon')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Coconutshellactivatedcarbon')}}>
                 <h4>Dynamic Coconut Shell Activated Carbon</h4></a>
               <p style="text-align:justify" >Discover the power of dynamic coconut shell activated carbon. Perfect for filtering air and water. Order now for cleaner results.</p>
               <h6><a href={{Route('Coconutshellactivatedcarbon')}}>Read more</a></h6>
             </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+          </div> --}}
+
+          {{-- <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('Manganesedioxide')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Manganesedioxide')}}>
                 <h4>Dynamic Manganese Dioxide</h4></a>
               <p style="text-align:justify" >Discover how dynamic manganese dioxide can boost your batteries and improve energy storage. Learn more about this vital material today.</p>
               <h6><a href={{Route('Manganesedioxide')}}>Read more</a></h6>
             </div>
-          </div>
-        </div>
-        <div class="row">
+          </div> --}}
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('Biocide')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Biocide')}}>
-                <h4>Biocide</h4></a>
-              <p style="text-align:justify" >The essential role of biocides in Bangladesh, focusing on their applications, safety standards, and regulatory frameworks for effective management and usage</p>
-              <h6><a href={{Route('Biocide')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('Dechlorinator')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Dechlorinator')}}>
-                <h4>Dechlorinator</h4></a>
-              <p style="text-align:justify" >Discover effective dechlorination solutions in Bangladesh. Our website offers insights and products to ensure safe, clean water for your needs.</p>
-              <h6><a href={{Route('Dechlorinator')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('DynamicActivatedCarbon')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicActivatedCarbon')}}>
+            <div class="item"><a href={{Route('DynamicActivatedCarbon')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-Coconut-shell-activated-carbon.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicActivatedCarbon')}}>
                 <h4>Dynamic Activated Carbon</h4></a>
               <p style="text-align:justify" >Dynamic Activated Carbon in Bangladesh. Our advanced products provide effective solutions for air and water treatment, ensuring a cleaner environment.</p>
               <h6><a href={{Route('DynamicActivatedCarbon')}}>Read more</a></h6>
             </div>
           </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+            <div class="item"><a href={{Route('DynamicResin3')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicResin3')}}>
+                <h4>Dynamic Resin 001X7-1.3</h4></a>
+              <p style="text-align:justify" >Dynamic Resin 001X7-1.3 in Bangladesh, a versatile solution for various applications. Explore its benefits and features for your projects today</p>
+              <h6><a href={{Route('DynamicResin3')}}>Read more</a></h6>
+            </div>
+          </div>
         </div>
         <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('DynamicResin2')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicResin2')}}>
                 <h4>Dynamic Resin 001X7-2.0</h4></a>
               <p style="text-align:justify" >Discover Dynamic Resin 001X7-2.0 in Bangladesh, a versatile solution for various applications. Explore its features and benefits for your projects today.</p>
@@ -80,12 +72,21 @@
             </div>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('DynamicResin3')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicResin3')}}>
-                <h4>Dynamic Resin 001X7-1.3</h4></a>
-              <p style="text-align:justify" >Dynamic Resin 001X7-1.3 in Bangladesh, a versatile solution for various applications. Explore its benefits and features for your projects today</p>
-              <h6><a href={{Route('DynamicResin3')}}>Read more</a></h6>
+            <div class="item"><a href={{Route('Biocide')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Biocide')}}>
+                <h4>Biocide</h4></a>
+              <p style="text-align:justify" >The essential role of biocides in Bangladesh, focusing on their applications, safety standards, and regulatory frameworks for effective management and usage</p>
+              <h6><a href={{Route('Biocide')}}>Read more</a></h6>
             </div>
           </div>
+      <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+            <div class="item"><a href={{Route('Dechlorinator')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Dechlorinator')}}>
+                <h4>Dechlorinator</h4></a>
+              <p style="text-align:justify" >Discover effective dechlorination solutions in Bangladesh. Our website offers insights and products to ensure safe, clean water for your needs.</p>
+              <h6><a href={{Route('Dechlorinator')}}>Read more</a></h6>
+            </div>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('Flocculants')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Flocculants')}}>
                 <h4>Flocculants</h4></a>
@@ -93,8 +94,6 @@
               <h6><a href={{Route('Flocculants')}}>Read more</a></h6>
             </div>
           </div>
-        </div>
-        <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('RoAntiscalant')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('RoAntiscalant')}}>
                 <h4>Ro Antiscalant</h4></a>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Resin 001X7-2.0 in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Dynamic Resin 001X7-1.3 in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Discover Dynamic Resin 001X7-2.0 in Bangladesh, a versatile solution for various applications. Explore its features and benefits for your projects today." />
     <meta name="keywords" content="Uncover the potential of Dynamic Resin 001X7-2.0 in Bangladesh. Ideal for multiple uses, this resin promises quality and efficiency for your creative endeavors.">
     
@@ -14,28 +14,36 @@
 
 
   <section class="diff-offer-wrapper">
+          <div class="container">
+      <div class="row ">
+        <h2 style="margin-bottom:10px; margin-top:25px">Dynamic Resin 001X7-1.3</h2>
+                <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a href="#">Product</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Dynamic Resin 001X7-1.3</li>
+                    </ol>
+            </nav>
+      </div>
+    </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:80px;">
-             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/pump/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
-                   </a>
+            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:25px;">
+             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
+                </a>
                 </div>
             </div>
             <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
-                <h2>2GK Dynamic Centrifugal Pump</h2>
-              
+                <h2>Dynamic Resin 001X7-1.3</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
-                <h5>Application Limits</h5>
+                <h5>Specification :</h5>
                 <ul>
-                  <li>Suction head up to 8m</li>
-                  <li>Liquid temperature up to +40℃</li>
-                  <li>Ambient temperature up to +40℃</li>
-                  <li>Max. Working pressure: 5bar</li>
-                  <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                  <li>pH: 6.5 to 8.5</li>
+                  <li>Appearance: golden to brown global granule</li>
+                  <li>Type: sodium type</li>
+                  <li>Properties:</li>
                 </ul>
-                <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
+                <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-Resin-MSDS.pdf.pdf">MSDS </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Model-001x7-1.3-Dynamic-Resin-Specification-min.pdf">Specification</a></button>
     
             </div>
         </div>

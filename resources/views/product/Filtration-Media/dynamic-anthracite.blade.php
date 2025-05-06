@@ -14,29 +14,43 @@
 
 
 
+
   <section class="diff-offer-wrapper">
     <div class="container">
+      <div class="row ">
+        <h2 style="margin-bottom:10px; margin-top:25px">Dynamic Anthracite</h2>
+                <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a href="#">Product</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Dynamic Anthracite</li>
+                    </ol>
+            </nav>
+      </div>
+    </div>
+    <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:80px;">
-             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/pump/SGT-Centrifugal-Pump.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
+            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:25px;">
+             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-Anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                    </a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
-                <h2>2GK Dynamic Centrifugal Pump</h2>
-              
+            <div class="col-md-6 col-sm-8" style="margin-top: 25px; margin-left:15px">
+                <h2>Dynamic Anthracite</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
-                <h5>Application Limits</h5>
+                <h5>Fields of application</h5>
                 <ul>
-                  <li>Suction head up to 8m</li>
-                  <li>Liquid temperature up to +40℃</li>
-                  <li>Ambient temperature up to +40℃</li>
-                  <li>Max. Working pressure: 5bar</li>
-                  <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                  <li>pH: 6.5 to 8.5</li>
+                  <li>Removal of suspended solids</li>
+                  <li>Condensate filtration</li>
+                  <li>Protection of coal filters, ion exchangers and RO membranes;</li>
+                  <li>Filtration of reverse cycles</li>
+                  <li>Filtration of coagulated water</li>
+                  <li>Filtration of turbid well, spring, surface and artesian water</li>
+                  <li>Filtration of waste water</li>
+                  <li>Swimming-pool water.</li>
                 </ul>
-                <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="#">Inquire Now </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf"> Brochure</a></button>
+                <button type="button" class="btn btn-outline-success"  style="margin:4px;"> <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-Anthracite-MSDS.pdf"> MSDS </a>  </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a href="https://greengenesisbd.com/wp-content/uploads/2025/01/TDS-Specification-Dynamic-Anthracite-Carbon.pdf"> Technical Datasheet </a></button>
     
             </div>
         </div>
@@ -63,39 +77,25 @@
                     <div class="description">
                       <div class="row">
                         <div class="col-md-6">
-                          <h6>Applications Fields</h6>
-                          <li>Suitable for transferring water without abrasive particles or other liquid whose properties are similar to water.</li>
-                          <li>Widely used in garden irrigation, vegetable greenhouse water supply, breeding industry water supply and drainage, various corollary equipment, etc.</li>
+                          <h6>General information</h6>
+                          <p>Dynamic ® is an anthracite filter media is a selected coal, mined and processed for water treatment. Dynamic ® guarantees safe and continuous operation requiring minimal maintenance due to its stable structure. Thanks to higher rates of mechanical strength (wearability and grindability), lower intensity and duration of backwashing of the filter material does not destruct during the restoring of its characteristics. Dynamic ® filter media meet the purity requirements of the European standards which specify the harmlessness tohuman health.</p>
+                          <h6>Fields of application</h6>
+                           <p>Dynamic ® filter media have found wide application in all water sectors and is used for potable, industrial, process,waste water and swimming-pool water. Dynamic ® is used as filter media in both open and closed fixed bed filters for:</p>
                           <p> </p>
-                          <h6>Feature</h6>
-                          <li>Double impeller centrifugal pump, satisfies the requirement of high head.</li>
-                          <li>Compact structure</li>
-                          <p> </p>
-                          <h6>Performance Range</h6>
-                            <li>Max. Flow: 12m3/h </li>
-                            <li>Max. Head: 50m </li>
-                            <p> </p>
-                            <h6>Motor</h6>
-                            <li>Single-Phase 220V/50Hz</li>
-                            <li>Three-Phase 380V/50Hz</li>
-                            <li>Mechanical seal: Ceramic / Graphite / NBR rubber</li>
-                            <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector, fully closed fan cooling, continuous running</li>
-                            <li>Insulation: Class B </li>
-                            <p> </p>
-                            <h6>Optional Available on Request</h6>
-                            <li>NSK bearing</li>
-                            <li>Motor whose insulation class is F</li>
+                          <h6>Advantage</h6>
+                          <p>Higher service flows and longer filter runs than equivalent sand filters</p>
+                          <li>• Close attention to gradation, hardness and purity assures consistent and reliable performance</li>
+                          <li>Unique density allows Anthracite to be combined with other filtration media in multi-media filters</li>
+                          <li>Lower coefficient of nonuniformity has less oversized and undersized particles resulting in a highly uniform bed</li>
                         </div>
                         <div class="col-md-6 ">
-                          <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
+                         
                         </div>
                       </div>
                     </div>
                 </div>
                 <div class="tab-pane container fade" id="menu1">
                     <div class="review">
-    
-                       
                         <table class="table table-bordered border-primary table-responsive">
                           <thead>
                             <style> 
@@ -103,76 +103,6 @@
                                 text-align: center;
                                 }
                             </style>
-                            <tr class="align-top table-success ">
-                              <th rowspan="2">Model</th>
-                              <th colspan="2">Power</th>
-                              <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
-                              <th rowspan="2" >2 m <sup>3 </sup> / h</th>
-                              <th rowspan="2" >3 m<sup>3 </sup> / h</th>
-                              <th rowspan="2">4 m<sup>3 </sup> / h</th>
-                              <th rowspan="2" >5 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2" >6 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2">10 m<sup>3 </sup>/ h</th>
-                            </tr>
-                            <tr class="align-top table-success">
-                              <th >KW</th>
-                              <th >HP</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>GK 25/130</td>
-                              <td>0.75</td>
-                              <td>1</td>
-                              <td rowspan="4">Head (m)</td>
-                              <td>34</td>
-                              <td>28</td>
-                              <td>21</td>
-                              <td>12</td>
-                              <td>-</td>
-                              <td>-</td>
-                              <td>-</td>
-    
-                            </tr>
-                            <tr>
-                              <td>GK25/140</td>
-                              <td>1.1</td>
-                              <td>1.5</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>33</td>
-                              <td>30</td>
-                              <td>26</td>
-                              <td>15</td>
-                              <td>-</td>
-    
-                            </tr>
-                            <tr>
-                              <td>GK25/160 B</td>
-                              <td>1.5</td>
-                              <td>2</td>
-                              <td>47</td>
-                              <td>45</td>
-                              <td>43</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>28</td>
-                              <td>16</td>
-                            </tr>
-                            <tr>
-                              <td>GK 25/160 A</td>
-                              <td>2.2</td>
-                              <td>3</td>
-                              <td>57</td>
-                              <td>54</td>
-                              <td>52</td>
-                              <td>49</td>
-                              <td>45</td>
-                              <td>36</td>
-                              <td>26</td>
-                            </tr>
-                          </tbody>
                         </table>
                     </div>
                 </div>
