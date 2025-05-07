@@ -32,7 +32,7 @@
                    </a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
+            <div class="col-md-6 col-sm-8" style="margin-top: 25px; margin-left:15px">
                 <h2>Dynamic Activated Carbon</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>

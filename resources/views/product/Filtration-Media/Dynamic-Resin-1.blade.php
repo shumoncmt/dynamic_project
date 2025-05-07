@@ -28,12 +28,12 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:25px;">
-             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">			<img src= "{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
+            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:10px;">
+             <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover">	<img src= "{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                 </a>
                 </div>
             </div>
-            <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
+            <div class="col-md-6 col-sm-8" style="margin-top: 10px; margin-left:15px">
                 <h2>Dynamic Resin 001X7-1.3</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
@@ -70,28 +70,89 @@
                     <div class="description">
                       <div class="row">
                         <div class="col-md-6">
-                          <h6>Applications Fields</h6>
-                          <li>Suitable for transferring water without abrasive particles or other liquid whose properties are similar to water.</li>
-                          <li>Widely used in garden irrigation, vegetable greenhouse water supply, breeding industry water supply and drainage, various corollary equipment, etc.</li>
-                          <p> </p>
-                          <h6>Feature</h6>
-                          <li>Double impeller centrifugal pump, satisfies the requirement of high head.</li>
-                          <li>Compact structure</li>
-                          <p> </p>
-                          <h6>Performance Range</h6>
-                            <li>Max. Flow: 12m3/h </li>
-                            <li>Max. Head: 50m </li>
-                            <p> </p>
-                            <h6>Motor</h6>
-                            <li>Single-Phase 220V/50Hz</li>
-                            <li>Three-Phase 380V/50Hz</li>
-                            <li>Mechanical seal: Ceramic / Graphite / NBR rubber</li>
-                            <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector, fully closed fan cooling, continuous running</li>
-                            <li>Insulation: Class B </li>
-                            <p> </p>
-                            <h6>Optional Available on Request</h6>
-                            <li>NSK bearing</li>
-                            <li>Motor whose insulation class is F</li>
+                          <table>
+                            <tbody>
+                              <tr>
+                                <td width="54">
+                                  <p style="text-align: center;">
+                                    <strong>No</strong>
+                                  </p>
+                                </td>
+                                <td width="267">
+                                  <p style="text-align: center;">
+                                    <strong>Index name</strong>
+                                  </p>
+                                </td>
+                                <td width="160">
+                                  <p style="text-align: center;">
+                                    <strong>Value</strong>
+                                  </p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="54">
+                                  <p style="text-align: center;">1</p>
+                                </td>
+                                <td width="267">
+                                  <p>&nbsp;Moisture %</p>
+                                </td>
+                                <td width="160">
+                                  <p style="text-align: center;">46-52</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="54">
+                                  <p style="text-align: center;">2</p>
+                                </td>
+                                <td width="267">
+                                  <p>&nbsp;Complete exchange capacity (mmol/g)</p>
+                                </td>
+                                <td width="160">
+                                  <p style="text-align: center;">4.5</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="54">
+                                  <p style="text-align: center;">3</p>
+                                </td>
+                                <td width="267">
+                                  <p>&nbsp;Wet apparent density (g/ml)</p>
+                                </td>
+                                <td width="160">
+                                  <p style="text-align: center;">0.77-0.87</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="54">
+                                  <p style="text-align: center;">4</p>
+                                </td>
+                                <td width="267">
+                                  <p>&nbsp;Wet true density (g/ml)</p>
+                                </td>
+                                <td width="160">
+                                  <p style="text-align: center;">1.24-1.28</p>
+                                </td></tr><tr><td width="54">
+                                  <p style="text-align: center;">5</p>
+                                </td>
+                                <td width="267">
+                                  <p>&nbsp;Grainsize (0.315-1.25mm)</p>
+                                </td><td width="160">
+                                  <p style="text-align: center;">≥95</p>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td width="54">
+                                  <p style="text-align: center;">6</p>
+                                </td>
+                                <td width="267"><p>&nbsp;Sphere rate after abrasion %</p>
+                                </td>
+                                <td width="160">
+                                  <p style="text-align: center;">≥95</p>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                         
                         </div>
                         <div class="col-md-6 ">
                           <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
