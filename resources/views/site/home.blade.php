@@ -81,33 +81,31 @@
 
 <section class="diff-offer-wrapper">
         <div class="container">
-            <div class="row diff-offer">
-            <ul>
-                <li class="we-offer-cont col-sm-6 ">
-                <h2>OUR TOP<span>PRODUCTS</span></h2>
-                </li>
-                <li class="we-offer-cont2 col-sm-8 ">
-                <p style="text-align:justify">Dynamic Industrial Product is engineered for versatility and efficiency, designed to meet the rigorous demands of various industrial applications.This product not only optimizes productivity but also contributes to cost-effectiveness, positioning it as a valuable asset in any industrial setting.</p>
-                </li>
-            </ul>
+            <div class="row ">
+                <div class="col-sm-12">
+                    <div>
+                        <h3 class="hs"> <span class="underline ">OUR TOP  PRODUCTS  </h3>
+                         <p class="hs1" style="text-align:justify">Dynamic Industrial Product is engineered for versatility and efficiency, designed to meet the rigorous demands of various industrial applications.This product not only optimizes productivity but also contributes to cost-effectiveness, positioning it as a valuable  asset in any industrial setting. With a focus on quality and performance, Dynamic Industrial Product is the ideal choice for businesses seeking reliable and efficient solutions.</p>
+				    </div>
+                </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover"><img src="img/catagory/electric-motor.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
+                    <div class="item"><a href={{Route('electricmotor')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electricmotor')}}>
                         <h4>Dynamic Motor</h4></a>
                     <p style="text-align:justify" >Dynamic Motors strives to find you the best deals in the pre-owned vehicle market. As a company, we have years of experience and expertise.</p>
                     <h6><a href={{Route('electricmotor')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">	<img src="img/catagory/dynamic-pump.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
+                    <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover">	<img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
                         <h4>Dynamic Pump</h4></a>
                     <p style="text-align:justify">Dynamic pumps use kinetic energy to move liquids, like water and oil, from a lower to a higher pressure.</p>
                     <h6><a href={{Route('industrialpump')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('blower')}} class="post-image view image_hover"><img src="img/catagory/dynamic-blower.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('blower')}}>
+                    <div class="item"><a href={{Route('blower')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('blower')}}>
                         <h4>Dynamic Blower</h4></a>
                     <p style="text-align:justify">Roots blowers operate by trapping a fixed amount of fluid or gas and expelling it against the system's pressure.</p>
                     <h6><a href={{Route('blower')}}>Read more</a></h6>
@@ -116,21 +114,21 @@
             </div>
             <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('frpvessel')}} class="post-image view image_hover"><img src="img/catagory/dynamic-frp-vessel.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('frpvessel')}}>
+                <div class="item"><a href={{Route('frpvessel')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('frpvessel')}}>
                     <h4>Dynamic Vessel</h4></a>
                 <p style="text-align:justify">FRP is an updated composite material used for chemical plant appliances and equipment, including vessels and tanks.</p>
                 <h6><a href={{Route('frpvessel')}}>Read more</a></h6>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('electromageneticflowmeter')}} class="post-image view image_hover"><img src="img/catagory/dynamic-flow-meter.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electromageneticflowmeter')}}>
+                <div class="item"><a href={{Route('electromageneticflowmeter')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('electromageneticflowmeter')}}>
                     <h4>Dynamic Flow Meter</h4></a>
                 <p style="text-align:justify">Dynamic Flow Computers is one of the main global providers of advanced flow measurement solutions.</p>
                 <h6><a href={{Route('electromageneticflowmeter')}}>Read more</a></h6>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src="img/catagory/dynamic-ro-membrane.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
+                <div class="item"><a href={{Route('roandufmembrane')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('roandufmembrane')}}>
                     <h4>Dynamic RO Membrane</h4></a>
                 <p style="text-align:justify">Explore how activated carbon can remove odors and toxins from your home. Shop now for effective, natural air and water solutions.</p>
                 <h6><a href={{Route('roandufmembrane')}}>Read more</a></h6>
@@ -140,7 +138,7 @@
             <div class="row">
             
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('filtrationmedia')}} class="post-image view image_hover"><img src="img/catagory/dynamci-filtration-media.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('filtrationmedia')}}>
+                <div class="item"><a href={{Route('filtrationmedia')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('filtrationmedia')}}>
                     <h4>Dynamic Filtration Media</h4></a>
                 <p style="text-align:justify">Explore our high-quality filtration media to keep your water clean and clear. Shop now for top performance and better filtration.</p>
                 <h6><a href={{Route('filtrationmedia')}}>Read more</a></h6>
@@ -154,7 +152,7 @@
                 </div>
             </div> --}}
             <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                <div class="item"><a href={{Route('watertreatmentchemicalsandmedia')}} class="post-image view image_hover"><img src="img/catagory/water-treatment-plant-accessories.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('watertreatmentchemicalsandmedia')}}>
+                <div class="item"><a href={{Route('watertreatmentchemicalsandmedia')}} class="post-image view image_hover"><img src="img/catagory/electric-motor1.jpg" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('watertreatmentchemicalsandmedia')}}>
                     <h4>Water Treatment Plant & Accessories</h4></a>
                 <p style="text-align:justify">Dynamic membrane cleaner is a highly effective cleaning solution that can remove even the most stubborn contaminants from membrane surfaces.</p>
                 <h6><a href={{Route('watertreatmentchemicalsandmedia')}}>Read more</a></h6>
