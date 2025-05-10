@@ -87,13 +87,13 @@
                     <div class="navbar-nav ms-auto pt-2 pt-lg-0">
                         <a href={{Route('home')}} class="nav-item nav-link">Home</a>
                         <div class="nav-item dropdown ">
-                            <a href={{Route('about')}} class="nav-link dropdown-toggle text-dark" >About</a>
+                            <a href={{Route('about')}} class="nav-link text-dark" >About</a>
                             <div class="dropdown-menu m-lg-0">
                                 <a href={{Route('team')}} class="dropdown-item ">Team</a>
                             </div>
                         </div>
                         <div class="nav-item dropdown ">
-                            <a href={{Route('categories')}} class="nav-link dropdown-toggle text-dark">Product</a>
+                            <a href={{Route('categories')}} class="nav-link text-dark">Product</a>
                             <div class="dropdown-menu m-lg-0">
                                 <a href={{Route('industrialpump')}} class="dropdown-item ">Dynamic Pump</a>
                                 <a href={{Route('electricmotor')}} class="dropdown-item ">Dynamic Motor</a>
@@ -108,7 +108,7 @@
                         </div>
 
                         <div class="nav-item dropdown ">
-                            <a href={{Route('service')}} class="nav-link dropdown-toggle text-dark ">Industrial Sulotion</a>
+                            <a href={{Route('service')}} class="nav-link text-dark ">Industrial Sulotion</a>
                             <div class="dropdown-menu m-lg-0">
                                 <a href={{Route('etp')}} class="dropdown-item ">ETP Plant</a>
                                 <a href={{Route('stp')}} class="dropdown-item ">STP Plant</a>
@@ -126,7 +126,7 @@
 
                         <a href={{Route('project')}} class="nav-item nav-link">Projects</a>
                         <div class="nav-item dropdown ">
-                            <a href={{Route('blog')}} class="nav-link dropdown-toggle text-dark " data-bs-toggle="dropdown">Blog</a>
+                            <a href={{Route('blog')}} class="nav-link text-dark " data-bs-toggle="dropdown">Blog</a>
                             <div class="dropdown-menu m-lg-0">
                                 <a href={{Route('feature')}} class="dropdown-item ">Our Features</a>
                                 <a href={{Route('blog')}} class="dropdown-item">Our Blog</a>
