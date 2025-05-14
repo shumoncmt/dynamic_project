@@ -72,14 +72,14 @@
             </div>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('Biocide')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Biocide')}}>
+            <div class="item"><a href={{Route('Biocide')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Biocide')}}>
                 <h4>Biocide</h4></a>
               <p style="text-align:justify" >The essential role of biocides in Bangladesh, focusing on their applications, safety standards, and regulatory frameworks for effective management and usage</p>
               <h6><a href={{Route('Biocide')}}>Read more</a></h6>
             </div>
           </div>
       <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('Dechlorinator')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Dechlorinator')}}>
+            <div class="item"><a href={{Route('Dechlorinator')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Dechlorinator')}}>
                 <h4>Dechlorinator</h4></a>
               <p style="text-align:justify" >Discover effective dechlorination solutions in Bangladesh. Our website offers insights and products to ensure safe, clean water for your needs.</p>
               <h6><a href={{Route('Dechlorinator')}}>Read more</a></h6>
@@ -88,14 +88,14 @@
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('Flocculants')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Flocculants')}}>
+            <div class="item"><a href={{Route('Flocculants')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Flocculants')}}>
                 <h4>Flocculants</h4></a>
               <p style="text-align:justify" >Flocculants in Bangladesh and their impact on water treatment processes. Access expert insights and solutions for enhanced industrial applications.</p>
               <h6><a href={{Route('Flocculants')}}>Read more</a></h6>
             </div>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('RoAntiscalant')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('RoAntiscalant')}}>
+            <div class="item"><a href={{Route('RoAntiscalant')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('RoAntiscalant')}}>
                 <h4>Ro Antiscalant</h4></a>
               <p style="text-align:justify" >Ro Antiscalant solutions in Bangladesh. Ensure efficient water treatment and protect your systems from scaling with our high-quality products.</p>
               <h6><a href={{Route('RoAntiscalant')}}>Read more</a></h6>
