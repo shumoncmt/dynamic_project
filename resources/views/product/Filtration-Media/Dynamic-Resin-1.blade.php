@@ -14,7 +14,7 @@
 
 
   <section class="diff-offer-wrapper">
-          <div class="container">
+    <div class="container">
       <div class="row ">
         <h2 style="margin-bottom:10px; margin-top:25px">Dynamic Resin 001X7-1.3</h2>
                 <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
@@ -70,178 +70,69 @@
                     <div class="description">
                       <div class="row">
                         <div class="col-md-6">
-                          <table>
-                            <tbody>
-                              <tr>
-                                <td width="54">
-                                  <p style="text-align: center;">
-                                    <strong>No</strong>
-                                  </p>
-                                </td>
-                                <td width="267">
-                                  <p style="text-align: center;">
-                                    <strong>Index name</strong>
-                                  </p>
-                                </td>
-                                <td width="160">
-                                  <p style="text-align: center;">
-                                    <strong>Value</strong>
-                                  </p>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td width="54">
-                                  <p style="text-align: center;">1</p>
-                                </td>
-                                <td width="267">
-                                  <p>&nbsp;Moisture %</p>
-                                </td>
-                                <td width="160">
-                                  <p style="text-align: center;">46-52</p>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td width="54">
-                                  <p style="text-align: center;">2</p>
-                                </td>
-                                <td width="267">
-                                  <p>&nbsp;Complete exchange capacity (mmol/g)</p>
-                                </td>
-                                <td width="160">
-                                  <p style="text-align: center;">4.5</p>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td width="54">
-                                  <p style="text-align: center;">3</p>
-                                </td>
-                                <td width="267">
-                                  <p>&nbsp;Wet apparent density (g/ml)</p>
-                                </td>
-                                <td width="160">
-                                  <p style="text-align: center;">0.77-0.87</p>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td width="54">
-                                  <p style="text-align: center;">4</p>
-                                </td>
-                                <td width="267">
-                                  <p>&nbsp;Wet true density (g/ml)</p>
-                                </td>
-                                <td width="160">
-                                  <p style="text-align: center;">1.24-1.28</p>
-                                </td></tr><tr><td width="54">
-                                  <p style="text-align: center;">5</p>
-                                </td>
-                                <td width="267">
-                                  <p>&nbsp;Grainsize (0.315-1.25mm)</p>
-                                </td><td width="160">
-                                  <p style="text-align: center;">≥95</p>
-                                </td>
-                              </tr>
-                              <tr>
-                                <td width="54">
-                                  <p style="text-align: center;">6</p>
-                                </td>
-                                <td width="267"><p>&nbsp;Sphere rate after abrasion %</p>
-                                </td>
-                                <td width="160">
-                                  <p style="text-align: center;">≥95</p>
-                                </td>
-                              </tr>
-                            </tbody>
-                          </table>
-                         
+                          <div class="table-responsive">
+                            <style> 
+                              td, th {
+                                text-align: center;
+                                color:black;
+                                }
+                                .align-top{
+                                  background-color:#175145;
+                                }
+                                th{
+                                  color:white;
+                                }
+                            </style>
+                            <table class="able table-bordered border-primary">
+                              <tbody>
+                                <tr class="align-top ">
+                                  <th width="54"><p style="text-align: center;">No</th>
+                                  <th width="267"><p style="text-align: center;">Index name</th>
+                                  <th width="160"><p style="text-align: center;">Value</th>
+                                </tr>
+                                <tr>
+                                  <td width="54"><p style="text-align: center;">1</td>
+                                  <td width="267"><p style="text-align: center;">Moisture % </td>
+                                  <td width="160"><p style="text-align: center;">46-52 </td>
+                                </tr>
+                                <tr>
+                                  <td width="54"><p style="text-align: center;">2</td>
+                                  <td width="267"><p style="text-align: center;">Complete exchange capacity (mmol/g) </td>
+                                  <td width="160"><p style="text-align: center;">4.5</td>
+                                </tr>
+                                <tr>
+                                  <td width="54"><p style="text-align: center;"> 3 </td>
+                                  <td width="267"><p style="text-align: center;">Wet apparent density (g/ml)</td>
+                                  <td width="160"><p style="text-align: center;"> 0.77-0.87 </td>
+                                </tr>
+                                <tr>
+                                  <td width="54"><p style="text-align: center;">4</td>
+                                  <td width="267"><p style="text-align: center;" > Wet true density (g/ml)</td>
+                                  <td width="160"><p style="text-align: center;"> 1.24-1.28</td>
+                                </tr>
+                                <tr>
+                                  <td width="54"><p style="text-align: center;"> 5 </td>
+                                  <td width="267"><p style="text-align: center;">Grainsize (0.315-1.25mm)</td>
+                                  <td width="160"><p style="text-align: center;">≥95</td>
+                                </tr>
+                                <tr>
+                                  <td width="54"><p style="text-align: center;">6</td>
+                                  <td width="267"><p style="text-align: center;">Sphere rate after abrasion %</td>
+                                  <td width="160"><p style="text-align: center;"> ≥95</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
                         </div>
                         <div class="col-md-6 ">
-                          <img class="img-fluid" src="{{ asset('img/product/pump/High-Efficiency-Centrifugal-Pump-Curve.png')}}" alt="Carve">
+ 
                         </div>
                       </div>
                     </div>
                 </div>
                 <div class="tab-pane container fade" id="menu1">
                     <div class="review">
-    
-                       
-                        <table class="table table-bordered border-primary table-responsive">
-                          <thead>
-                            <style> 
-                              td, th {
-                                text-align: center;
-                                }
-                            </style>
-                            <tr class="align-top table-success ">
-                              <th rowspan="2">Model</th>
-                              <th colspan="2">Power</th>
-                              <th rowspan="2">Capacity(m <sup>3 </sup> / h)</th>
-                              <th rowspan="2" >2 m <sup>3 </sup> / h</th>
-                              <th rowspan="2" >3 m<sup>3 </sup> / h</th>
-                              <th rowspan="2">4 m<sup>3 </sup> / h</th>
-                              <th rowspan="2" >5 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2" >6 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2" >8 m<sup>3 </sup>/ h</th>
-                              <th rowspan="2">10 m<sup>3 </sup>/ h</th>
-                            </tr>
-                            <tr class="align-top table-success">
-                              <th >KW</th>
-                              <th >HP</th>
-                            </tr>
-                          </thead>
-                          <tbody>
-                            <tr>
-                              <td>GK 25/130</td>
-                              <td>0.75</td>
-                              <td>1</td>
-                              <td rowspan="4">Head (m)</td>
-                              <td>34</td>
-                              <td>28</td>
-                              <td>21</td>
-                              <td>12</td>
-                              <td>-</td>
-                              <td>-</td>
-                              <td>-</td>
-    
-                            </tr>
-                            <tr>
-                              <td>GK25/140</td>
-                              <td>1.1</td>
-                              <td>1.5</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>33</td>
-                              <td>30</td>
-                              <td>26</td>
-                              <td>15</td>
-                              <td>-</td>
-    
-                            </tr>
-                            <tr>
-                              <td>GK25/160 B</td>
-                              <td>1.5</td>
-                              <td>2</td>
-                              <td>47</td>
-                              <td>45</td>
-                              <td>43</td>
-                              <td>41</td>
-                              <td>36</td>
-                              <td>28</td>
-                              <td>16</td>
-                            </tr>
-                            <tr>
-                              <td>GK 25/160 A</td>
-                              <td>2.2</td>
-                              <td>3</td>
-                              <td>57</td>
-                              <td>54</td>
-                              <td>52</td>
-                              <td>49</td>
-                              <td>45</td>
-                              <td>36</td>
-                              <td>26</td>
-                            </tr>
-                          </tbody>
-                        </table>
+
                     </div>
                 </div>
                 <div class="tab-pane container fade" id="menu2">

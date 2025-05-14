@@ -65,7 +65,7 @@
         </div>
         <div class="row">
            <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('DynamicResin2')}} class="post-image view image_hover">			<img src="{{ asset('img/product/media/dynamic-anthracite-filtration-media.jpeg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicResin2')}}>
+            <div class="item"><a href={{Route('DynamicResin2')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('DynamicResin2')}}>
                 <h4>Dynamic Resin 001X7-2.0</h4></a>
               <p style="text-align:justify" >Discover Dynamic Resin 001X7-2.0 in Bangladesh, a versatile solution for various applications. Explore its features and benefits for your projects today.</p>
               <h6><a href={{Route('DynamicResin2')}}>Read more</a></h6>
