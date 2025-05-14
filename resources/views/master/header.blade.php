@@ -179,7 +179,7 @@
         </div> -->
         <!-- Header End -->
 
-<style type="text/css" media="all">
+{{-- <style type="text/css" media="all">
     body {
     cursor: none; /* Hide default cursor */
     }
@@ -204,6 +204,6 @@
             cursor.style.left = e.clientX + 'px';
             cursor.style.top = e.clientY + 'px';
         });
-</script>
+</script> --}}
         
 <!-- Carousel End -->
