@@ -11,7 +11,6 @@
 </head>
 <body>
 
-
 <section class="diff-offer-wrapper">
             <div class="container">
                 <div class="row ">
@@ -64,13 +63,13 @@
               <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
             </div>
           </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+          {{-- <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href="#" class="post-image view image_hover">			<img src="{{ asset('img/catagory/Dynamic-Submersible-pump-3-STM1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href="#">
                 <h4>Dynamic Submersible Pump</h4></a>
               <p style="text-align:justify" >Discover the power of Dynamic Submersible Pumps - efficient, reliable, and designed for deep water solutions. Boost your water management today!</p>
               <h6><a href="#">Read more</a></h6>
             </div>
-          </div>
+          </div> --}}
         </div>
       </div>
     </section>

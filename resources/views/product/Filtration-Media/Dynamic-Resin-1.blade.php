@@ -125,7 +125,7 @@
                           </div>
                         </div>
                         <div class="col-md-6 ">
- 
+                          <img class="img-fluid" src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="Carve">
                         </div>
                       </div>
                     </div>

@@ -71,22 +71,22 @@
               <h6><a href={{Route('DynamicResin2')}}>Read more</a></h6>
             </div>
           </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+          {{-- <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('Biocide')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Biocide')}}>
                 <h4>Biocide</h4></a>
               <p style="text-align:justify" >The essential role of biocides in Bangladesh, focusing on their applications, safety standards, and regulatory frameworks for effective management and usage</p>
               <h6><a href={{Route('Biocide')}}>Read more</a></h6>
             </div>
-          </div>
-      <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+          </div> --}}
+      {{-- <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('Dechlorinator')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Dechlorinator')}}>
                 <h4>Dechlorinator</h4></a>
               <p style="text-align:justify" >Discover effective dechlorination solutions in Bangladesh. Our website offers insights and products to ensure safe, clean water for your needs.</p>
               <h6><a href={{Route('Dechlorinator')}}>Read more</a></h6>
             </div>
           </div>
-        </div>
-        <div class="row">
+        </div> --}}
+        {{-- <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-6 service-info">
             <div class="item"><a href={{Route('Flocculants')}} class="post-image view image_hover">			<img src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2025/01/Dynamic-ion-cation-exchange-resin-1.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('Flocculants')}}>
                 <h4>Flocculants</h4></a>
@@ -101,7 +101,7 @@
               <h6><a href={{Route('RoAntiscalant')}}>Read more</a></h6>
             </div>
           </div>
-        </div>
+        </div> --}}
       </div>
     </section>
 

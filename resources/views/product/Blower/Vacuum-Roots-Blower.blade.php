@@ -72,9 +72,9 @@
                             <li>Bore: 40 ~ 400A (1.5” ~ 16”)</li>
                             <li>Capacity: 0.5 ~ 360 M 3 /min</li>
                             <li>Pressure: 0~ 8,000 mmAq</li>
-                           <p>Clear outlet air. No oil polluted. Dual oil cases separated from air cell.</p>
-                           <p>Rigid and solid construction. Easy for maintenance.</p>
-                           <p>Bearings lubricated by gear oil. Good heat radiation. Long working hours.</p>
+                            <li>Clear outlet air. No oil polluted. Dual oil cases separated from air cell.</li>
+                            <li>Rigid and solid construction. Easy for maintenance.</li>
+                            <li>Bearings lubricated by gear oil. Good heat radiation. Long working hours.</li>
                           </ul>
                         
                           <h6>Feature</h6>

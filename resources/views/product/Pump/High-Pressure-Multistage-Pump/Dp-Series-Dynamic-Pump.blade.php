@@ -74,20 +74,7 @@
                     <div class="description">
                       <div class="row">
                         <div class="col-md-6">
-                          <h6>Applications Fields</h6>
                           
-                          <p> </p>
-                          <h6>Feature</h6>
-                          
-                          <p> </p>
-                          <h6>Performance Range</h6>
-                            
-                            <p> </p>
-                            <h6>Motor</h6>
-                            
-                            <p> </p>
-                            <h6>Optional Available on Request</h6>
-                            
                         </div>
                         <div class="col-md-6 "> </div>
                       </div>

@@ -10,8 +10,6 @@
     @include('master.header')
 </head>
 <body>
-
-
   <section class="diff-offer-wrapper">
     <div class="container">
       <div class="container">
@@ -26,12 +24,12 @@
               </nav>
       </div>
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:80px;">
+            <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:25px;">
              <div class="item"><a href={{Route('MicronFilterCartridge')}} class="post-image view image_hover">			<img src= "{{ asset('img/product/media/cartidge-filter.jpg')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('MicronFilterCartridge')}}>
               </a>
               </div>
             </div>
-            <div class="col-md-6 col-sm-8" style="margin-top: 50px; margin-left:15px">
+            <div class="col-md-6 col-sm-8" style="margin-top: 25px; margin-left:15px">
                 <h2>Micron filter Cartridge</h2>
                 <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                 <p></p>
