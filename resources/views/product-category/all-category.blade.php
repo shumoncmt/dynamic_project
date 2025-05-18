@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Category - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="comprehensive range of categories on our website, offering valuable insights and resources tailored to your interests and needs." />
-    <meta name="keywords" content="comprehensive range of categories on our website, offering valuable insights and resources tailored to your interests and needs.">
+    <meta name="description" content="Comprehensive range of categories on our website, offering valuable insights and resources tailored to your interests and needs." />
+    <meta name="keywords" content="Comprehensive range of categories on our website, offering valuable insights and resources tailored to your interests and needs.">
     
     @include('master.header')
 

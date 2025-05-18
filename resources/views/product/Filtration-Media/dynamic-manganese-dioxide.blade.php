@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Manganese dioxide in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="dynamic manganese dioxide in Bangladesh. Explore its applications, properties, and impact on various industries for sustainable solutions." />
-    <meta name="keywords" content="dynamic manganese dioxide in Bangladesh, focusing on its unique properties and applications that drive advancements in various sectors">
+    <meta name="description" content="Dynamic manganese dioxide in Bangladesh. Explore its applications, properties, and impact on various industries for sustainable solutions." />
+    <meta name="keywords" content="Dynamic manganese dioxide in Bangladesh, focusing on its unique properties and applications that drive advancements in various sectors">
     
     @include('master.header')
 

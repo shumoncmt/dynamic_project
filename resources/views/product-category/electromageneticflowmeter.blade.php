@@ -6,7 +6,6 @@
     <title>Electromagnetic flow Meter - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Precision and reliability with our electromagnetic flow meters. Ideal for various applications, ensuring accurate flow measurement in any environment" />
     <meta name="keywords" content="Perfect for industrial applications, delivering reliable flow measurement solutions.">
-    
     @include('master.header')
 
 </head>

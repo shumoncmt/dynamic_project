@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Electromagnetic Flow Meter in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Discover high-quality electromagnetic flow meters in Bangladesh. Our advanced solutions ensure accurate flow measurement for various industrial applications." />
-    <meta name="keywords" content="Our products guarantee accurate flow measurement, enhancing efficiency in your industrial processes.">
+    <meta name="keywords" content="Our Products guarantee accurate flow measurement, enhancing efficiency in your industrial processes.">
     
     @include('master.header')
 

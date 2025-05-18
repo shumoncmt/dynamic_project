@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>2gk dynamic centrifugal pump in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Explore top-quality 2gk dynamic centrifugal pumps in Bangladesh. Our pumps offer reliability and efficiency for all your industrial needs" />
-    <meta name="keywords" content="best 2gk dynamic centrifugal pumps in Bangladesh. Our innovative solutions ensure optimal performance for diverse industrial applications">
+    <meta name="keywords" content="Best 2gk dynamic centrifugal pumps in Bangladesh. Our innovative solutions ensure optimal performance for diverse industrial applications">
     
     @include('master.header')
 

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bag filter in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Discover high-quality bag filters in Bangladesh, designed for efficient air and liquid filtration." />
-    <meta name="keywords" content="Industrial motor, bag filter, air filter">
+    <meta name="keywords" content="Discover high-quality bag filters in Bangladesh, designed for efficient air and liquid filtration.">
     
     @include('master.header')
 

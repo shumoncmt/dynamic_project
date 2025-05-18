@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Coconut shell activated carbon in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="high-quality dynamic coconut shell activated carbon in Bangladesh. Our products ensure superior filtration and environmental sustainability for various applications." />
-    <meta name="keywords" content="benefits of dynamic coconut shell activated carbon in Bangladesh. Our eco-friendly products provide effective filtration for cleaner air and water solutions.">
+    <meta name="description" content="High-quality dynamic coconut shell activated carbon in Bangladesh. Our products ensure superior filtration and environmental sustainability for various applications." />
+    <meta name="keywords" content="Benefits of dynamic coconut shell activated carbon in Bangladesh. Our eco-friendly products provide effective filtration for cleaner air and water solutions.">
     
     @include('master.header')
 

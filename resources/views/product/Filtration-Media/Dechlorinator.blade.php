@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dechlorinator in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="Discover effective dechlorination solutions in Bangladesh. Our website offers insights and products to ensure safe, clean water for your needs." />
-    <meta name="keywords" content="best dechlorination options available in Bangladesh. Ensure your water is free from chlorine with our expert guidance and quality products.">
+    <meta name="keywords" content="Best dechlorination options available in Bangladesh. Ensure your water is free from chlorine with our expert guidance and quality products.">
     
     @include('master.header')
 

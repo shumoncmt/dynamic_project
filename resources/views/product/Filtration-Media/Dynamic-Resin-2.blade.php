@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Resin 001X7-2.0 in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="Dynamic Resin 001X7-2.0 in Bangladesh, a versatile solution for various applications. Explore its benefits and features for your projects today" />
+    <meta name="description" content="Dynamic Resin 001X7-2.0s in Bangladesh, a versatile solution for various applications. Explore its benefits and features for your projects today" />
     <meta name="keywords" content="Dynamic Resin 001X7-2.0s in Bangladesh, offering innovative solutions for diverse applications.">
     
     @include('master.header')

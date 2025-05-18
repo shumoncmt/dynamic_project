@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic frp vessel in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="high-quality dynamic FRP vessel pumps in Bangladesh. Our innovative solutions ensure efficiency and durability for various industrial applications." />
-    <meta name="keywords" content="dynamic FRP vessel pumps in Bangladesh, designed for optimal performance and reliability in diverse industrial settings.">
+    <meta name="description" content="High-quality dynamic FRP vessel pumps in Bangladesh. Our innovative solutions ensure efficiency and durability for various industrial applications." />
+    <meta name="keywords" content="Dynamic FRP vessel pumps in Bangladesh, designed for optimal performance and reliability in diverse industrial settings.">
     
     @include('master.header')
 

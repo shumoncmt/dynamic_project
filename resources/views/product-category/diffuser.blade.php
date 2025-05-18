@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diffuser - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
-    <meta name="description" content="our collection of high-quality diffusers designed to elevate your environment." />
+    <meta name="description" content="Our collection of high-quality diffusers designed to elevate your environment." />
     <meta name="keywords" content="Unleash the power of essential oils with our stylish diffusers. Perfect for any setting, they provide a calming ambiance and promote well-being in your space">
     
     @include('master.header')

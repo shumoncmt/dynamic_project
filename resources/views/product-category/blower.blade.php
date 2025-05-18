@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blower - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
     <meta name="description" content="High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs." />
-    <meta name="keywords" content="top-quality blowers that deliver exceptional performance and reliability. Browse our diverse range of blowers tailored to meet your specific requirements">
+    <meta name="keywords" content="Top-quality blowers that deliver exceptional performance and reliability. Browse our diverse range of blowers tailored to meet your specific requirements">
     
     @include('master.header')
 
